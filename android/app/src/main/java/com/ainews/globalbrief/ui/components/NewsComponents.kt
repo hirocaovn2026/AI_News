@@ -62,6 +62,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import coil3.compose.AsyncImage
@@ -777,14 +778,16 @@ fun DeleteSavedConfirmDialog(
 @Composable
 fun SettingsDialog(
     currentFeedUrl: String,
+    currentGitHubToken: String,
     layoutMode: ParallelLayoutMode,
     isDark: Boolean,
     onDismiss: () -> Unit,
-    onSaveFeedUrl: (String) -> Unit,
+    onSaveFeedConfig: (String, String) -> Unit,
     onSetLayoutMode: (ParallelLayoutMode) -> Unit,
     onToggleDark: () -> Unit,
 ) {
     var urlText by remember(currentFeedUrl) { mutableStateOf(currentFeedUrl) }
+    var tokenText by remember(currentGitHubToken) { mutableStateOf(currentGitHubToken) }
 
     AlertDialog(
         onDismissRequest = onDismiss,
@@ -794,7 +797,7 @@ fun SettingsDialog(
         text = {
             Column(verticalArrangement = Arrangement.spacedBy(12.dp)) {
                 Text(
-                    text = "Nhập URL thư mục data/ từ GitHub Raw hoặc GitHub Pages để tự động tải tin mỗi ngày:",
+                    text = "Nhập URL thư mục data/ từ GitHub Raw để tự động tải tin mỗi ngày:",
                     style = MaterialTheme.typography.bodySmall,
                     color = MaterialTheme.colorScheme.onSurfaceVariant
                 )
@@ -803,6 +806,15 @@ fun SettingsDialog(
                     onValueChange = { urlText = it },
                     label = { Text("Feed Base URL") },
                     placeholder = { Text("https://raw.githubusercontent.com/user/repo/main/data/") },
+                    singleLine = true,
+                    modifier = Modifier.fillMaxWidth()
+                )
+                OutlinedTextField(
+                    value = tokenText,
+                    onValueChange = { tokenText = it },
+                    label = { Text("GitHub Token (chỉ cần nếu repo Private)") },
+                    placeholder = { Text("github_pat_... (Contents: Read-only)") },
+                    visualTransformation = PasswordVisualTransformation(),
                     singleLine = true,
                     modifier = Modifier.fillMaxWidth()
                 )
@@ -847,7 +859,7 @@ fun SettingsDialog(
         },
         confirmButton = {
             Button(onClick = {
-                onSaveFeedUrl(urlText)
+                onSaveFeedConfig(urlText, tokenText)
                 onDismiss()
             }) {
                 Text("Lưu & Cập nhật")

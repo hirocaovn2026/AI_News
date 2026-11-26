@@ -33,6 +33,7 @@ data class NewsUiState(
     val selectedBatchIds: Set<String> = emptySet(),
     val readIds: Set<String> = emptySet(),
     val feedBaseUrl: String = "",
+    val githubToken: String = "",
     val layoutMode: ParallelLayoutMode = ParallelLayoutMode.STACKED,
     val darkThemeOverride: Boolean? = null,
     val isRefreshing: Boolean = false,
@@ -93,12 +94,14 @@ class NewsViewModel(application: Application) : AndroidViewModel(application) {
     init {
         val initial = repository.loadInitialCachedOrBundled()
         val feedUrl = repository.getFeedBaseUrl()
+        val token = repository.getGitHubToken()
         _uiState.value = NewsUiState(
             digest = initial.digest,
             manifest = initial.manifest,
             savedVault = repository.getSavedVault(),
             readIds = repository.getReadIds(),
             feedBaseUrl = feedUrl,
+            githubToken = token,
             layoutMode = repository.getLayoutMode(),
             darkThemeOverride = repository.isDarkThemeOverride(),
             isFromNetwork = initial.fromNetwork,
@@ -286,10 +289,18 @@ class NewsViewModel(application: Application) : AndroidViewModel(application) {
         _uiState.update { it.copy(darkThemeOverride = next) }
     }
 
-    fun saveFeedUrlAndRefresh(url: String) {
+    fun saveFeedUrlAndRefresh(url: String, token: String) {
         repository.saveFeedBaseUrl(url)
+        repository.saveGitHubToken(token)
         val normalized = repository.getFeedBaseUrl()
-        _uiState.update { it.copy(feedBaseUrl = normalized, statusMessage = null) }
+        val savedToken = repository.getGitHubToken()
+        _uiState.update {
+            it.copy(
+                feedBaseUrl = normalized,
+                githubToken = savedToken,
+                statusMessage = null
+            )
+        }
         if (normalized.isNotBlank()) {
             refresh(silentWhenUnconfigured = false)
         }

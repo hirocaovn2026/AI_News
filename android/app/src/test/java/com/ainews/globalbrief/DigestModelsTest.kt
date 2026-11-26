@@ -67,6 +67,12 @@ class DigestModelsTest {
             "https://raw.githubusercontent.com/user/repo/main/data/",
             FeedDefaults.normalizeBaseUrl("https://raw.githubusercontent.com/user/repo/main/data")
         )
+        assertEquals(
+            "https://api.github.com/repos/hirocaovn2026/AI_News/contents/data/daily_digest.json?ref=main",
+            FeedDefaults.toGitHubApiRawUrl(
+                "https://raw.githubusercontent.com/hirocaovn2026/AI_News/main/data/daily_digest.json"
+            )
+        )
     }
 
     @Test

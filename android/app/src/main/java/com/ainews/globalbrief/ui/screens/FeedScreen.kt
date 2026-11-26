@@ -86,7 +86,7 @@ fun FeedScreen(
     onToggleSearch: (Boolean) -> Unit,
     onSearchQueryChange: (String) -> Unit,
     onSelectEdition: (ManifestEntry) -> Unit,
-    onSaveFeedUrl: (String) -> Unit,
+    onSaveFeedConfig: (String, String) -> Unit,
     onSetLayoutMode: (ParallelLayoutMode) -> Unit,
     onToggleDark: () -> Unit,
     onDismissStatus: () -> Unit,
@@ -515,10 +515,11 @@ fun FeedScreen(
     if (showSettings) {
         SettingsDialog(
             currentFeedUrl = uiState.feedBaseUrl,
+            currentGitHubToken = uiState.githubToken,
             layoutMode = uiState.layoutMode,
             isDark = isDark,
             onDismiss = { showSettings = false },
-            onSaveFeedUrl = onSaveFeedUrl,
+            onSaveFeedConfig = onSaveFeedConfig,
             onSetLayoutMode = onSetLayoutMode,
             onToggleDark = onToggleDark
         )

@@ -71,7 +71,7 @@ class MainActivity : ComponentActivity() {
                         onToggleSearch = viewModel::toggleSearch,
                         onSearchQueryChange = viewModel::updateSearchQuery,
                         onSelectEdition = viewModel::selectEdition,
-                        onSaveFeedUrl = viewModel::saveFeedUrlAndRefresh,
+                        onSaveFeedConfig = viewModel::saveFeedUrlAndRefresh,
                         onSetLayoutMode = viewModel::setLayoutMode,
                         onToggleDark = { viewModel.toggleDarkTheme(isDark) },
                         onDismissStatus = viewModel::clearStatusMessage

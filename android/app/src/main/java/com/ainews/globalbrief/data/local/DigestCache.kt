@@ -36,6 +36,14 @@ class DigestCache(private val context: Context) {
         prefs.edit().putString(KEY_FEED_BASE_URL, FeedDefaults.normalizeBaseUrl(url)).apply()
     }
 
+    fun getGitHubToken(): String {
+        return prefs.getString(KEY_GITHUB_TOKEN, "")?.trim().orEmpty()
+    }
+
+    fun setGitHubToken(token: String) {
+        prefs.edit().putString(KEY_GITHUB_TOKEN, token.trim()).apply()
+    }
+
     fun getLayoutMode(): ParallelLayoutMode {
         val raw = prefs.getString(KEY_LAYOUT_MODE, ParallelLayoutMode.STACKED.name)
         return runCatching { ParallelLayoutMode.valueOf(raw ?: "") }
@@ -154,6 +162,7 @@ class DigestCache(private val context: Context) {
 
     companion object {
         private const val KEY_FEED_BASE_URL = "feed_base_url"
+        private const val KEY_GITHUB_TOKEN = "github_token"
         private const val KEY_LAYOUT_MODE = "parallel_layout_mode"
         private const val KEY_DARK_THEME = "dark_theme_override"
         private const val KEY_READ_IDS = "read_article_ids"

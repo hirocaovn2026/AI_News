@@ -5,17 +5,30 @@ import kotlinx.serialization.Serializable
 
 object FeedDefaults {
     /**
-     * Replace this URL with your GitHub repository's raw `data/` folder URL
-     * (or configure it anytime inside the app's Settings dialog).
-     * Example: https://raw.githubusercontent.com/YOUR_USERNAME/AI_News/main/data/
+     * Default GitHub raw data directory for this repository.
+     * Can be changed anytime inside the app's Settings dialog.
      */
-    const val DEFAULT_FEED_BASE_URL = ""
+    const val DEFAULT_FEED_BASE_URL = "https://raw.githubusercontent.com/hirocaovn2026/AI_News/main/data/"
     const val MAX_ARTICLES_PER_TOPIC = 10
 
     fun normalizeBaseUrl(raw: String): String {
         val trimmed = raw.trim()
         if (trimmed.isEmpty()) return ""
         return if (trimmed.endsWith("/")) trimmed else "$trimmed/"
+    }
+
+    /**
+     * Converts https://raw.githubusercontent.com/{owner}/{repo}/{branch}/{path}
+     * to GitHub Contents API URL for reliable private-repo access with Fine-Grained PATs.
+     */
+    fun toGitHubApiRawUrl(rawUrl: String): String? {
+        val prefix = "https://raw.githubusercontent.com/"
+        if (!rawUrl.startsWith(prefix)) return null
+        val parts = rawUrl.removePrefix(prefix).split("/", limit = 4)
+        if (parts.size < 4) return null
+        val (owner, repo, branch, path) = parts
+        if (owner.isBlank() || repo.isBlank() || branch.isBlank() || path.isBlank()) return null
+        return "https://api.github.com/repos/$owner/$repo/contents/$path?ref=$branch"
     }
 }
 

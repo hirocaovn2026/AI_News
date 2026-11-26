@@ -46,15 +46,16 @@ class NewsRepository(
 
     suspend fun refreshFromRemote(): LoadedFeedData {
         val baseUrl = cache.getFeedBaseUrl()
+        val token = cache.getGitHubToken()
         if (baseUrl.isBlank()) {
             return loadInitialCachedOrBundled().copy(
                 errorMessage = "Chưa cấu hình Feed URL. Đang hiển thị bản tin mẫu offline."
             )
         }
         return try {
-            val digest = api.fetchLatestDigest(baseUrl)
+            val digest = api.fetchLatestDigest(baseUrl, token)
             cache.saveLatestDigest(digest)
-            val manifest = runCatching { api.fetchManifest(baseUrl) }.getOrNull()
+            val manifest = runCatching { api.fetchManifest(baseUrl, token) }.getOrNull()
             if (manifest != null) {
                 cache.saveManifest(manifest)
             }
@@ -64,9 +65,13 @@ class NewsRepository(
                 fromNetwork = true
             )
         } catch (exc: Exception) {
-            loadInitialCachedOrBundled().copy(
-                errorMessage = "Không thể tải bản tin mới (${exc.message ?: "lỗi mạng"}). Đang dùng dữ liệu offline."
-            )
+            val msg = exc.message.orEmpty()
+            val hint = if ("HTTP 404" in msg && token.isBlank()) {
+                "HTTP 404 — Nếu repo ở chế độ Private, hãy nhập GitHub Token (Read-only) trong Cài đặt."
+            } else {
+                "Không thể tải bản tin mới (${msg.ifBlank { "lỗi mạng" }}). Đang dùng dữ liệu offline."
+            }
+            loadInitialCachedOrBundled().copy(errorMessage = hint)
         }
     }
 
@@ -80,13 +85,14 @@ class NewsRepository(
             )
         }
         val baseUrl = cache.getFeedBaseUrl()
+        val token = cache.getGitHubToken()
         if (baseUrl.isBlank()) {
             return loadInitialCachedOrBundled().copy(
                 errorMessage = "Chưa cấu hình Feed URL để tải các ngày trước."
             )
         }
         return try {
-            val fetched = api.fetchEdition(baseUrl, entry.path)
+            val fetched = api.fetchEdition(baseUrl, entry.path, token)
             cache.saveEditionDigest(fetched)
             LoadedFeedData(
                 digest = fetched,
@@ -103,6 +109,10 @@ class NewsRepository(
     fun getFeedBaseUrl(): String = cache.getFeedBaseUrl()
 
     fun saveFeedBaseUrl(url: String) = cache.setFeedBaseUrl(url)
+
+    fun getGitHubToken(): String = cache.getGitHubToken()
+
+    fun saveGitHubToken(token: String) = cache.setGitHubToken(token)
 
     fun getSavedVault(): List<SavedArticleEntry> = cache.loadSavedVault()
 
