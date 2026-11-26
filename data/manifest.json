@@ -1,11 +1,11 @@
 {
   "latest_date": "2026-11-26",
-  "updated_at": "2026-11-26T14:05:11.756641+00:00",
+  "updated_at": "2026-11-26T16:06:16.687436+00:00",
   "editions": [
     {
       "date": "2026-11-26",
-      "generated_at": "2026-11-26T14:05:11.756641+00:00",
-      "total_articles": 40,
+      "generated_at": "2026-11-26T16:06:16.687436+00:00",
+      "total_articles": 20,
       "path": "archive/2026-11-26.json"
     }
   ]
