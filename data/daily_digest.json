@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T16:06:16.687436+00:00",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T04:37:44.346550+00:00",
   "max_articles_per_topic": 10,
-  "total_articles": 20,
+  "total_articles": 34,
   "topics": [
     {
       "id": "ai",
@@ -12,139 +12,269 @@
       "description_en": "Frontier models, AI research, chips, and global regulation.",
       "description_vi": "Mô hình AI mới, nghiên cứu, bán dẫn và chính sách toàn cầu.",
       "accent_hex": "#2563EB",
-      "overview_en": "Today's top tech news covers significant developments in AI hardware infrastructure, regulatory actions on AI data practices, and emerging consumer AI devices.",
-      "overview_vi": "Tin tức công nghệ hàng đầu hôm nay bao gồm các bước phát triển quan trọng về hạ tầng phần cứng AI, hành động quản lý dữ liệu AI và các thiết bị AI tiêu dùng mới.",
-      "article_count": 5,
+      "overview_en": "Today's top tech stories highlight tightening AI hardware trade restrictions, legal battles over data privacy and smart wearables, and the growing energy and administrative demands of AI infrastructure.",
+      "overview_vi": "Các tin tức công nghệ nổi bật hôm nay tập trung vào việc siết chặt hạn chế thương mại phần cứng AI, các vụ kiện về quyền riêng tư dữ liệu và thiết bị đeo thông minh, cùng áp lực năng lượng và hành chính từ hạ tầng AI.",
+      "article_count": 10,
       "articles": [
+        {
+          "id": "23e521020038a454",
+          "topic_id": "ai",
+          "rank": 1,
+          "source_name": "Nature",
+          "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12VUpLWDF3ZnpaaDByLUM1N09mQkNENjRCeXBZb1JzRFVZNWxGdFBVUE9nQUljQktWekNPN2theERrSVU5WFNocVgzclFvNnRMblNHOEE1N0FiZUdpdGw0?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T02:21:48+00:00",
+          "read_minutes": 1,
+          "title_en": "Rumored AI Breakthrough Sparks Debate Over Internet Encryption Security",
+          "title_vi": "Tin đồn AI phá mã hóa internet gây chấn động cộng đồng khoa học",
+          "summary_en": "Scientists and cybersecurity researchers are reacting to unverified reports that artificial intelligence may have cracked standard internet encryption protocols. The rumored breakthrough has ignited widespread debate about digital security and the potential vulnerabilities of modern cryptographic standards.\n\nWhile details remain unconfirmed, experts are assessing the implications if AI models can bypass widely used security algorithms, which protect global online communications and transactions.",
+          "summary_vi": "Các nhà khoa học và chuyên gia an ninh mạng đang xôn xao trước thông tin AI có thể đã phá vỡ các giao thức mã hóa internet tiêu chuẩn. Tin đồn này làm dấy lên những thảo luận gay gắt về an toàn kỹ thuật số và lỗ hổng mã hóa.\n\nDù chưa được xác nhận, các chuyên gia đang đánh giá tác động nghiêm trọng nếu AI thực sự giải được các thuật toán bảo mật vốn bảo vệ truyền thông và giao dịch trực tuyến toàn cầu.",
+          "key_points_en": [
+            "Reports suggest AI may have compromised standard internet encryption algorithms.",
+            "The scientific community is evaluating the validity and impact of the claim.",
+            "Uncertainty highlights potential risks to global cybersecurity infrastructure."
+          ],
+          "key_points_vi": [
+            "Báo cáo cho thấy AI có thể đã phá giải các thuật toán mã hóa internet.",
+            "Cộng đồng khoa học đang đánh giá tính xác thực và tác động của thông tin.",
+            "Sự việc nhấn mạnh rủi ro tiềm ẩn đối với hạ tầng an ninh mạng toàn cầu."
+          ],
+          "why_it_matters_en": "Cracking encryption with AI could undermine digital privacy and global financial security.",
+          "why_it_matters_vi": "Việc AI phá được mã hóa có thể đe dọa trực tiếp đến an toàn thông tin và an ninh tài chính toàn cầu."
+        },
+        {
+          "id": "09a5a3f6344d3942",
+          "topic_id": "ai",
+          "rank": 2,
+          "source_name": "TechCrunch",
+          "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3BvSkxTQnd6ZVRTQUJ4RHBUY3l5M0J1aW1yTl9zUVFNaE1tUjlrVG1MeE9lVlNTMTVrOFFPUjA3R0RnWktyNERHcGhnWk9YYlQ3RXRRVXQtUXhCZDg3d3Foa2dxZndDSTU5UW51eU1ZSW91Nk45bFFZVjk2YzU0MGtwal9zbldIVU93NkpDLTFXdw?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-26T20:03:54+00:00",
+          "read_minutes": 1,
+          "title_en": "Nvidia Pauses Chip Shipments to Southeast Asia",
+          "title_vi": "Nvidia tạm dừng giao chip AI sang khu vực Đông Nam Á",
+          "summary_en": "Nvidia has reportedly halted exports of its advanced chips to clients in Southeast Asia. The pause comes amid tightening trade regulations and increased scrutiny around global semiconductor supply chains.\n\nTech companies across the region may face operational delays as access to high-performance AI hardware is temporarily restricted pending regulatory clarifications.",
+          "summary_vi": "Nvidia đã tạm dừng xuất khẩu các dòng chip tiên tiến sang khu vực Đông Nam Á. Quyết định này diễn ra trong bối cảnh các quy định thương mại và sự kiểm soát chuỗi cung ứng bán dẫn đang ngày càng thắt chặt.\n\nCác doanh nghiệp công nghệ tại Đông Nam Á có thể đối mặt với tình trạng gián đoạn vận hành khi việc truy cập phần cứng AI bị hạn chế tạm thời.",
+          "key_points_en": [
+            "Nvidia pauses AI hardware deliveries to Southeast Asian buyers.",
+            "Decision reflects tightening export regulations and trade pressures.",
+            "Regional tech firms face potential delays in scaling AI infrastructure."
+          ],
+          "key_points_vi": [
+            "Nvidia tạm dừng cung cấp phần cứng AI cho các đối tác Đông Nam Á.",
+            "Quy định xuất khẩu thắt chặt gây áp lực lên chuỗi cung ứng.",
+            "Doanh nghiệp công nghệ khu vực đối mặt với nguy cơ chậm hạ tầng AI."
+          ],
+          "why_it_matters_en": "Disruptions in GPU distribution directly impact regional technology expansion and global supply chain dynamics.",
+          "why_it_matters_vi": "Việc gián đoạn nguồn cung GPU ảnh hưởng trực tiếp tới tiến trình phát triển công nghệ tại Đông Nam Á."
+        },
         {
           "id": "b672c670d5642ec1",
           "topic_id": "ai",
-          "rank": 1,
+          "rank": 3,
           "source_name": "The Verge AI",
           "source_url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
           "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
           "published_at": "2026-11-26T09:54:40+00:00",
           "read_minutes": 1,
-          "title_en": "42 state AGs try to stop Character.AI from selling user chats",
-          "title_vi": "42 tổng chưởng lý bang ngăn Character.AI bán đoạn chat của người dùng",
-          "summary_en": "A bipartisan coalition of 42 state attorneys general is working to prevent Character.AI from selling personal data during its Chapter 11 bankruptcy proceedings. The attorneys general accuse the company of planning to auction off private chat histories, specifically targeting the data of minors to the highest bidder.\n\nThe legal challenge highlights rising concerns over user privacy and the handling of sensitive personal information by distressed tech startups. State regulators are increasingly intervening to protect vulnerable users from having their conversational histories monetized without explicit consent.",
-          "summary_vi": "Một liên minh gồm 42 tổng chưởng lý tiểu bang đang nỗ lực ngăn chặn Character.AI bán dữ liệu cá nhân trong quá trình phá sản theo Chương 11. Các tổng chưởng lý cáo buộc công ty có kế hoạch đem đấu giá lịch sử trò chuyện riêng tư, đặc biệt là dữ liệu của trẻ vị thành niên cho người trả giá cao nhất.\n\nThử thách pháp lý này làm nổi bật những lo ngại ngày càng tăng về quyền riêng tư của người dùng và việc xử lý thông tin cá nhân nhạy cảm bởi các startup công nghệ gặp khó khăn. Các cơ quan quản lý bang đang ngày càng can thiệp để bảo vệ người dùng dễ bị tổn thương khỏi việc lịch sử trò chuyện bị thương mại hóa.",
+          "title_en": "42 US State AGs Move to Stop Character.AI from Selling User Data",
+          "title_vi": "42 bang Mỹ ngăn Character.AI bán dữ liệu trò chuyện của người dùng",
+          "summary_en": "A bipartisan coalition of 42 state attorneys general has filed to prevent Character.AI from selling user chat histories as part of its Chapter 11 bankruptcy. Officials allege the company planned to auction sensitive personal data, including private chats belonging to minors.\n\nThe legal filing aims to block the monetization of private user conversations during corporate liquidation, setting a clear boundary on consumer privacy rights.",
+          "summary_vi": "Liên minh 42 tổng chưởng lý tại Mỹ đã nộp đơn ngăn chặn Character.AI bán dữ liệu trò chuyện của người dùng trong quá trình phá sản. Các cơ quan chức năng cáo buộc công ty có kế hoạch đấu giá thông tin cá nhân nhạy cảm, bao gồm dữ liệu của trẻ em.\n\nĐộng thái pháp lý này nhằm chặn việc thương mại hóa cuộc trò chuyện riêng tư khi công ty giải thể, thiết lập ranh giới rõ ràng về quyền riêng tư.",
           "key_points_en": [
-            "A bipartisan coalition of 42 state attorneys general is intervening.",
-            "Character.AI faces accusations of planning to sell minors' data in bankruptcy.",
-            "Regulators aim to protect private chat histories from being auctioned off."
+            "42 state AGs file motion to stop Character.AI data sale in bankruptcy.",
+            "Coalition highlights severe risks to minor privacy and unconsented chat exposure.",
+            "Action sets legal precedent for protecting user data during bankruptcy."
           ],
           "key_points_vi": [
-            "Liên minh lưỡng đảng gồm 42 tổng chưởng lý tiểu bang đang can thiệp.",
-            "Character.AI đối mặt cáo buộc định bán dữ liệu trẻ vị thành niên khi phá sản.",
-            "Các cơ quan quản lý nhằm bảo vệ lịch sử chat riêng tư khỏi việc bị đấu giá."
+            "42 tổng chưởng lý ngăn Character.AI bán dữ liệu khi phá sản.",
+            "Liên minh cảnh báo nguy cơ rò rỉ thông tin riêng tư của vị thành niên.",
+            "Động thái tạo tiền lệ pháp lý bảo vệ dữ liệu người dùng khi doanh nghiệp phá sản."
           ],
-          "why_it_matters_en": "This bipartisan intervention sets a major precedent for protecting minor user data during tech startup bankruptcies.",
-          "why_it_matters_vi": "Sự can thiệp này tạo ra tiền lệ lớn trong việc bảo vệ dữ liệu người dùng trẻ vị thành niên khi các startup công nghệ phá sản."
+          "why_it_matters_en": "Regulators are establishing strict boundaries to protect consumer privacy during AI company liquidations.",
+          "why_it_matters_vi": "Các cơ quan quản lý đang thiết lập quy tắc nghiêm ngặt bảo vệ quyền riêng tư khi doanh nghiệp AI phá sản."
         },
         {
-          "id": "e7c402a6898407e3",
-          "topic_id": "ai",
-          "rank": 2,
-          "source_name": "The Verge AI",
-          "source_url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
-          "published_at": "2026-11-25T17:44:51+00:00",
-          "read_minutes": 1,
-          "title_en": "FCC approves SpaceX plan for up to 1 million space data centers",
-          "title_vi": "FCC phê duyệt kế hoạch của SpaceX đưa tới 1 triệu trung tâm dữ liệu không gian",
-          "summary_en": "The FCC has authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of Elon Musk's Starmind initiative. The project aims to power Earth-bound artificial intelligence capabilities from space.\n\nSpaceX joins other companies like Google and Blue Origin in pursuing space-based AI data centers. This milestone marks the first time the agency has approved such a large-scale orbital computing constellation.",
-          "summary_vi": "FCC đã ủy quyền cho SpaceX triển khai tới 1 triệu vệ tinh được trang bị chip AI như một phần của sáng kiến Starmind thuộc sở hữu của Elon Musk. Dự án nhằm cung cấp năng lượng cho các khả năng trí tuệ nhân tạo trên Trái Đất từ không gian.\n\nSpaceX tham gia cùng các công ty khác như Google và Blue Origin trong việc theo đuổi các trung tâm dữ liệu AI trên không gian. Mốc quan trọng này đánh dấu lần đầu tiên cơ quan này phê duyệt một chòm sao điện toán quỹ đạo quy mô lớn như vậy.",
-          "key_points_en": [
-            "The FCC authorized SpaceX to deploy up to 1 million satellites.",
-            "The Starmind initiative aims to power AI capabilities from space.",
-            "SpaceX joins Google and Blue Origin in space-based data center pursuits."
-          ],
-          "key_points_vi": [
-            "FCC đã ủy quyền cho SpaceX triển khai tới 1 triệu vệ tinh.",
-            "Sáng kiến Starmind nhằm cung cấp năng lượng cho AI từ không gian.",
-            "SpaceX tham gia cùng Google và Blue Origin trong lĩnh vực trung tâm dữ liệu không gian."
-          ],
-          "why_it_matters_en": "Orbital data centers could bypass terrestrial energy constraints and fundamentally transform global AI infrastructure.",
-          "why_it_matters_vi": "Các trung tâm dữ liệu quỹ đạo có thể vượt qua giới hạn năng lượng mặt đất và biến đổi căn bản hạ tầng AI toàn cầu."
-        },
-        {
-          "id": "4b04005d0376a1e6",
-          "topic_id": "ai",
-          "rank": 3,
-          "source_name": "The Verge AI",
-          "source_url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
-          "published_at": "2026-11-25T16:00:59+00:00",
-          "read_minutes": 1,
-          "title_en": "Nothing unveils AI earbuds with call recording and conversational summary",
-          "title_vi": "Nothing ra mắt tai nghe AI với tính năng ghi âm cuộc gọi và tóm tắt hội thoại",
-          "summary_en": "Nothing is showcasing a detailed look at its upcoming AI-powered earbuds, the Ear Note, ahead of their December 8th release. The buds feature call recording capabilities, while their charging case doubles as an AI-connected tool to record, transcribe, and summarize conversations.\n\nThe device represents an expanding hardware trend integrating ambient AI capabilities directly into everyday consumer accessories. Consumers can seamlessly capture voice notes and meeting summaries on the go.",
-          "summary_vi": "Nothing đang hé lộ chi tiết về dòng tai nghe tích hợp AI sắp ra mắt mang tên Ear Note trước ngày phát hành 8 tháng 12. Tai nghe có khả năng ghi âm cuộc gọi, trong khi hộp sạc kiêm công cụ kết nối AI để ghi âm, chuyển đổi thành văn bản và tóm tắt cuộc hội thoại.\n\nThiết bị đại diện cho xu hướng phần cứng mở rộng, tích hợp trực tiếp khả năng AI xung quanh vào các phụ kiện tiêu dùng hàng ngày. Người dùng có thể dễ dàng lưu lại ghi chú giọng nói và tóm tắt cuộc họp khi di chuyển.",
-          "key_points_en": [
-            "Nothing scheduled the Ear Note earbuds release for December 8th.",
-            "The earbuds can record phone calls directly.",
-            "The charging case records, transcribes, and summarizes conversations."
-          ],
-          "key_points_vi": [
-            "Nothing lên lịch phát hành tai nghe Ear Note vào ngày 8 tháng 12.",
-            "Tai nghe có thể ghi lại các cuộc gọi điện thoại trực tiếp.",
-            "Hộp sạc ghi âm, phiên âm và tóm tắt các cuộc trò chuyện."
-          ],
-          "why_it_matters_en": "Integrating ambient AI processing into everyday accessories expands conversational intelligence into physical consumer tech.",
-          "why_it_matters_vi": "Việc tích hợp xử lý AI xung quanh vào phụ kiện hàng ngày giúp mở rộng trí tuệ hội thoại sang công nghệ tiêu dùng vật lý."
-        },
-        {
-          "id": "1e5e587394ded240",
+          "id": "81b1946804099f6a",
           "topic_id": "ai",
           "rank": 4,
-          "source_name": "MIT Technology Review",
-          "source_url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
-          "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?w=840",
-          "published_at": "2026-11-26T13:10:00+00:00",
+          "source_name": "CNBC",
+          "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ydHdQWUpYRU16SjgyRXBibzZ6UFN4RThEMUV3VkRJV0NCNmk1Nm1wTFlvTnpsLS1VVHdmczlIQjZRN0RKZnlBdm5oSmFUY0lCaWV5dTY2bDBiRHcyV0lfMjk3ZS1TQW1oM3F0TTJFRdIBdEFVX3lxTE1hb0dnX1V6U3RzcVduQUhNcHBONFFMMVVaaThOcEc5dy1EOVMwUXBVM1lSMWljNm12aTJXT0FvMWdkaUdyTEZyZGY0dHJ0R3kxQllKQ2RaMl9MYmxIY2pHcTh6TWVDRkhCSkVqUVUtbVFOam81?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-26T15:34:08+00:00",
           "read_minutes": 1,
-          "title_en": "Experimental bionic hand allows amputee to feel pressure independently",
-          "title_vi": "Tay bionic thử nghiệm cho phép người cụt tay cảm nhận áp lực độc lập",
-          "summary_en": "An experimental bionic hand wired directly to arm nerves has allowed a patient to feel pressure for the first time in years. As the ninth person to receive the implant, he is the first to take the device home and use it independently to handle delicate objects like grapes and eggs.\n\nResearchers hope his real-world experience will demonstrate how effectively the technology restores function and impacts the nervous system. This marks a meaningful step forward in advanced neural prosthetics.",
-          "summary_vi": "Một bàn tay bionic thử nghiệm được nối dây trực tiếp vào dây thần kinh cánh tay đã giúp một bệnh nhân cảm nhận được áp lực lần đầu tiên sau nhiều năm. Là người thứ chín nhận thiết bị cấy ghép này, anh là người đầu tiên đưa thiết bị về nhà và sử dụng độc lập để cầm nắm các vật mỏng manh như nho và trứng.\n\nCác nhà nghiên cứu hy vọng trải nghiệm thực tế của anh sẽ chứng minh mức độ hiệu quả của công nghệ trong việc khôi phục chức năng và tác động đến hệ thần kinh. Đây là bước tiến ý nghĩa trong lĩnh vực chi giả thần kinh tiên tiến.",
+          "title_en": "Nvidia Tells GPU Buyers to Rule Out Chinese Renters",
+          "title_vi": "Nvidia yêu cầu khách hàng mua GPU không cho bên Trung Quốc thuê lại",
+          "summary_en": "Nvidia is instructing buyers of its advanced AI GPUs to ensure their hardware is not rented out to Chinese entities. The condition aims to strictly enforce compliance with international trade restrictions and prevent unauthorized access to high-performance compute resources.\n\nCloud providers and data center operators must now implement stricter screening measures for compute rentals to maintain access to Nvidia's hardware.",
+          "summary_vi": "Nvidia đang yêu cầu các bên mua chip AI đảm bảo không cho các đơn vị Trung Quốc thuê lại hệ thống GPU. Điều kiện này nhằm tuân thủ các quy định hạn chế thương mại quốc tế và ngăn chặn truy cập trái phép vào hạ tầng tính toán cao cấp.\n\nCác nhà cung cấp đám mây và trung tâm dữ liệu phải siết chặt quy trình xác minh khách hàng cho thuê để duy trì quyền mua chip Nvidia.",
           "key_points_en": [
-            "The bionic hand is wired directly into forearm nerves.",
-            "The patient is the first to use the experimental device independently at home.",
-            "It enables handling of delicate objects by restoring the sense of pressure."
+            "Nvidia imposes rules banning GPU rentals to Chinese customers.",
+            "Measures target regulatory loopholes in high-tech export controls.",
+            "Data center operators must verify client eligibility for cloud compute access."
           ],
           "key_points_vi": [
-            "Bàn tay bionic được nối dây trực tiếp vào dây thần kinh cẳng tay.",
-            "Bệnh nhân là người đầu tiên sử dụng thiết bị thử nghiệm độc lập tại nhà.",
-            "Thiết bị cho phép cầm nắm đồ vật mong manh nhờ khôi phục cảm giác áp lực."
+            "Nvidia cấm khách hàng cho các thực thể Trung Quốc thuê GPU.",
+            "Biện pháp nhằm bịt lỗ hổng trong kiểm soát xuất khẩu công nghệ cao.",
+            "Các trung tâm dữ liệu phải xác minh kỹ đối tượng thuê hạ tầng đám mây."
           ],
-          "why_it_matters_en": "Advances in nerve-integrated prosthetics offer unprecedented independence and sensory restoration for amputees.",
-          "why_it_matters_vi": "Những tiến bộ trong bộ phận giả tích hợp dây thần kinh mang lại sự độc lập chưa từng có và khôi phục giác quan cho người cụt tay."
+          "why_it_matters_en": "Tech export restrictions are expanding beyond hardware sales into cloud rental and compute access services.",
+          "why_it_matters_vi": "Các quy định hạn chế công nghệ đang mở rộng từ bán phần cứng sang cả dịch vụ cho thuê điện toán đám mây."
+        },
+        {
+          "id": "d84e4df2a9f58f50",
+          "topic_id": "ai",
+          "rank": 5,
+          "source_name": "Reuters",
+          "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTW1YMnQzOGZCbUZNd2loMlNOS203R0ZwcGg3STdSRTlXcnFraDRvNzFwcG5URDlGMDI4Skt3WDRybmVQUi1mUlBMSGwxakl4eEFkU1NtdEdWb3pHc0w5Z2l6cHA0dUloalM1ZkhJYTRTTzlIdVdSUG41ZkpxRElOMG5UUHdobklDckZCZUt3VkxqV1pOYW13b1c5MTBsaXhKcG1sUmhrNnFjdy00VG9OWWhGUDVjRGxINUZaUWdwck9uY2tNeGc?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-26T15:20:42+00:00",
+          "read_minutes": 1,
+          "title_en": "Dutch Groups Ask Court to Halt Meta Smart Glasses Sales Over Privacy Concerns",
+          "title_vi": "Các tổ chức Hà Lan kiến nghị dừng bán kính thông minh Meta vì lo ngại riêng tư",
+          "summary_en": "Privacy groups in the Netherlands have asked a court to halt sales of Meta smart glasses. The lawsuit argues that the wearable device allows recording in public spaces without consent, posing significant risks to bystander privacy.\n\nThe case is part of a broader push by European advocates to regulate consumer hardware equipped with integrated cameras and AI data capture capabilities.",
+          "summary_vi": "Các nhóm bảo vệ quyền riêng tư tại Hà Lan đã nộp đơn yêu cầu tòa án dừng bán kính thông minh của Meta. Vụ kiện cho rằng thiết bị này cho phép quay lén nơi công cộng mà không có sự đồng ý, gây nguy cơ lớn đến quyền riêng tư.\n\nVụ kiện nằm trong nỗ lực của các tổ chức châu Âu nhằm siết chặt quản lý các thiết bị đeo tích hợp camera và khả năng thu thập dữ liệu bằng AI.",
+          "key_points_en": [
+            "Dutch organizations request court ban on Meta smart glasses sales.",
+            "Lawsuit highlights risks of unconsented recording in public spaces.",
+            "Case reflects growing legal scrutiny of AI-powered wearable tech in Europe."
+          ],
+          "key_points_vi": [
+            "Các tổ chức Hà Lan kiến nghị tòa án cấm bán kính thông minh Meta.",
+            "Vụ kiện tập trung vào nguy cơ quay lén riêng tư nơi công cộng.",
+            "Vụ việc thể hiện sự kiểm soát pháp lý ngày càng tăng với thiết bị đeo AI."
+          ],
+          "why_it_matters_en": "Legal challenges in Europe could force hardware makers to redesign privacy safeguards for wearable devices.",
+          "why_it_matters_vi": "Thách thức pháp lý tại châu Âu có thể buộc các hãng sản xuất điều chỉnh tính năng bảo mật trên thiết bị đeo."
         },
         {
           "id": "4e78beff060a6231",
           "topic_id": "ai",
-          "rank": 5,
+          "rank": 6,
           "source_name": "MIT Technology Review",
           "source_url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
           "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/261124_RichlandParishDataCenter.jpg?resize=1200,600",
           "published_at": "2026-11-25T17:00:00+00:00",
           "read_minutes": 1,
-          "title_en": "US data center boom accelerates a massive natural-gas resurgence",
-          "title_vi": "Bùng nổ trung tâm dữ liệu tại Mỹ thúc đẩy sự trỗi dậy mạnh mẽ của khí tự nhiên",
-          "summary_en": "The rapid expansion of artificial intelligence data centers across the United States is fueling a massive natural-gas resurgence. Although renewable power sources remain viable, rising electricity demand has led local utilities to dramatically expand planned natural-gas power plants.\n\nFor example, power requirements for a major tech data center project in Louisiana expanded significantly, pushing local utility plans from three natural-gas plants to ten. This trend illustrates the heavy energy footprint tied to AI infrastructure growth.",
-          "summary_vi": "Sự mở rộng nhanh chóng của các trung tâm dữ liệu trí tuệ nhân tạo trên khắp Hoa Kỳ đang thúc đẩy sự bùng nổ mạnh mẽ về khí tự nhiên. Mặc dù các nguồn năng lượng tái tạo vẫn khả thi, nhu cầu điện năng tăng cao đã khiến các công ty tiện ích địa phương mở rộng đáng kể các nhà máy điện khí tự nhiên.\n\nVí dụ, nhu cầu điện cho một dự án trung tâm dữ liệu lớn ở Louisiana đã tăng mạnh, đẩy kế hoạch của công ty điện lực địa phương từ ba nhà máy điện khí lên mười nhà máy. Xu hướng này minh họa lượng tiêu thụ năng lượng lớn gắn liền với sự phát triển hạ tầng AI.",
+          "title_en": "AI Data Centers Fuel Surge in US Natural-Gas Power Generation",
+          "title_vi": "Sự bùng nổ trung tâm dữ liệu AI thúc đẩy nhu cầu khí đốt tại Mỹ",
+          "summary_en": "Rapid expansion of AI data centers is driving a resurgence in natural-gas infrastructure across the United States. Utilities are scaling up plans for gas-fired power plants to supply continuous electricity to power-hungry computing facilities.\n\nFor example, utility expansion plans supporting Meta's Louisiana data center grew from three proposed natural-gas plants to ten, highlighting the massive energy needs of AI workloads.",
+          "summary_vi": "Sự phát triển nhanh chóng của các trung tâm dữ liệu AI đang thúc đẩy hạ tầng khí đốt tại Mỹ tăng trưởng mạnh. Các công ty điện lực đang mở rộng kế hoạch xây nhà máy nhiệt điện khí để cung cấp nguồn điện liên tục cho các hệ thống tính toán lớn.\n\nVí dụ, kế hoạch điện lực phục vụ trung tâm dữ liệu Meta tại Louisiana đã tăng từ 3 lên 10 nhà máy khí đốt, phản ánh nhu cầu năng lượng khổng lồ của AI.",
           "key_points_en": [
-            "AI data center growth is fueling a US natural-gas energy boom.",
-            "Rising electricity demand has forced utilities to scale up fossil fuel plans.",
-            "A Louisiana data center project increased planned gas plants from three to ten."
+            "AI computing demands trigger significant expansion in natural-gas energy projects.",
+            "Utilities increase gas plant construction to sustain data center operations.",
+            "Surging energy requirements present challenges for corporate clean energy targets."
           ],
           "key_points_vi": [
-            "Sự tăng trưởng trung tâm dữ liệu AI đang thúc đẩy bùng nổ năng lượng khí tự nhiên tại Mỹ.",
-            "Nhu cầu điện tăng buộc các công ty tiện ích mở rộng kế hoạch sử dụng nhiên liệu hóa thạch.",
-            "Một dự án trung tâm dữ liệu ở Louisiana tăng số nhà máy khí dự kiến từ 3 lên 10."
+            "Nhu cầu điện cho AI làm bùng nổ các dự án phát điện bằng khí đốt.",
+            "Các công ty điện lực tăng xây nhà máy khí để cấp điện cho trung tâm dữ liệu.",
+            "Nhu cầu năng lượng tăng vọt gây áp lực lên mục tiêu năng lượng sạch."
           ],
-          "why_it_matters_en": "The surging energy needs of AI data centers complicate global carbon reduction efforts by extending fossil fuel dependence.",
-          "why_it_matters_vi": "Nhu cầu năng lượng tăng vọt của các trung tâm dữ liệu AI làm phức tạp các nỗ lực giảm carbon toàn cầu do kéo dài sự phụ thuộc vào nhiên liệu hóa thạch."
+          "why_it_matters_en": "AI's immense electricity consumption is reshaping national power infrastructure and climate strategies.",
+          "why_it_matters_vi": "Mức tiêu thụ điện khổng lồ của AI đang định hình lại hạ tầng năng lượng và chiến lược khí hậu."
+        },
+        {
+          "id": "3bc1c86ab59b1627",
+          "topic_id": "ai",
+          "rank": 7,
+          "source_name": "The Verge AI",
+          "source_url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375%2C11.97652241473%2C93.788122558594%2C75.148782257541&w=1200",
+          "published_at": "2026-11-25T21:51:26+00:00",
+          "read_minutes": 1,
+          "title_en": "Google Patent Outlines Personalized AI Video Feeds",
+          "title_vi": "Bằng sáng chế của Google hé lộ ý tưởng nguồn video AI cá nhân hóa",
+          "summary_en": "Google filed a patent for a system called 'My Channel,' designed to generate continuous feeds of personalized AI video content and advertisements tailored to individual users. The system leverages user data to cast viewers as main characters in AI-generated stories.\n\nAlthough the initial patent application was rejected, the filing signals major tech platforms' interest in deploying fully synthetic, personalized entertainment feeds.",
+          "summary_vi": "Google đã nộp bằng sáng chế cho hệ thống 'My Channel', chuyên tạo nguồn video và quảng cáo AI cá nhân hóa cho từng người dùng. Hệ thống tận dụng dữ liệu để biến người xem thành nhân vật chính trong các câu chuyện do AI tạo ra.\n\nDù ứng dụng bị từ chối ban đầu, động thái này cho thấy sự quan tâm của các tập đoàn công nghệ trong việc tự động hóa nội dung giải trí tổng hợp.",
+          "key_points_en": [
+            "Google patent details AI system for generating personalized video feeds.",
+            "Content and ads are dynamically customized using personal user data.",
+            "Rejection of patent leaves room for potential future revised submissions."
+          ],
+          "key_points_vi": [
+            "Bằng sáng chế Google mô tả hệ thống tạo video AI cá nhân hóa.",
+            "Nội dung và quảng cáo được tùy chỉnh linh hoạt dựa trên dữ liệu cá nhân.",
+            "Dù bị từ chối, Google có thể nộp bản điều chỉnh trong tương lai."
+          ],
+          "why_it_matters_en": "Automated synthetic content feeds could fundamentally alter how digital media is created and consumed.",
+          "why_it_matters_vi": "Nguồn nội dung do AI tự động tạo ra có thể làm thay đổi hoàn toàn phương thức tiêu thụ truyền thông số."
+        },
+        {
+          "id": "1e5e587394ded240",
+          "topic_id": "ai",
+          "rank": 8,
+          "source_name": "MIT Technology Review",
+          "source_url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+          "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?w=840",
+          "published_at": "2026-11-26T13:10:00+00:00",
+          "read_minutes": 1,
+          "title_en": "Nerve-Connected Bionic Hand Restores Sense of Touch for Patient",
+          "title_vi": "Bàn tay sinh học nối dây thần kinh giúp bệnh nhân phục hồi cảm giác chạm",
+          "summary_en": "Researchers have implanted an experimental bionic hand wired directly into forearm nerves, enabling amputees to perceive tactile pressure. Patient Avi Davidson became the first person to take the device home for independent daily use.\n\nThe advanced prosthetic allows him to safely manipulate delicate objects like eggs and grapes, offering scientists valuable data on how neural integration impacts everyday life and brain adaptation.",
+          "summary_vi": "Các nhà nghiên cứu đã cấy ghép bàn tay sinh học nối trực tiếp vào dây thần kinh cẳng tay, giúp người khuyết chi cảm nhận được lực chạm. Bệnh nhân Avi Davidson đã trở thành người đầu tiên mang thiết bị này về nhà tự sử dụng hàng ngày.\n\nChi giả tiên tiến giúp ông cầm nắm an toàn các vật dụng dễ vỡ như trứng hay quả nho, cung cấp dữ liệu quý giá về khả năng thích ứng của não bộ và hệ thần kinh.",
+          "key_points_en": [
+            "Experimental prosthetic hand connects directly to forearm nerves for sensory feedback.",
+            "First patient uses nerve-linked bionic hand independently in daily routine.",
+            "Trial evaluates real-world functionality and long-term neural system integration."
+          ],
+          "key_points_vi": [
+            "Bàn tay giả thử nghiệm kết nối trực tiếp với dây thần kinh cẳng tay.",
+            "Bệnh nhân đầu tiên tự sử dụng bàn tay sinh học trong sinh hoạt hàng ngày.",
+            "Thử nghiệm đánh giá hiệu quả thực tế và sự thích ứng của hệ thần kinh."
+          ],
+          "why_it_matters_en": "Bionic breakthroughs bringing touch feedback to prosthetics mark significant progress in restorative medical technology.",
+          "why_it_matters_vi": "Đột phá trong việc tái tạo cảm giác cho chi giả đánh dấu bước tiến lớn của công nghệ y tế phục hồi."
+        },
+        {
+          "id": "ff6b8026530d372a",
+          "topic_id": "ai",
+          "rank": 9,
+          "source_name": "MIT Technology Review",
+          "source_url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+          "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?w=840",
+          "published_at": "2026-11-25T13:10:00+00:00",
+          "read_minutes": 1,
+          "title_en": "Automated AI Requests Overwhelm US Open Records Systems",
+          "title_vi": "Các yêu cầu tự động từ AI gây quá tải hệ thống thông tin công cộng tại Mỹ",
+          "summary_en": "Automated AI tools and commercial startups are flooding US government agencies with public records requests. Startups use the data to train AI models that generate commercial insights, while chatbots make it easier for individuals to file automated inquiries.\n\nIn response to the unprecedented volume, several states are passing laws allowing agencies to deny automated requests, raising concerns about potential impacts on public transparency.",
+          "summary_vi": "Các công cụ AI tự động và công ty khởi nghiệp đang làm ngập các cơ quan chính phủ Mỹ bằng các yêu cầu truy cập thông tin công cộng. Dữ liệu được dùng để huấn luyện AI commercial, trong khi chatbot giúp cá nhân nộp đơn dễ dàng hơn.\n\nTrước làn sóng quá tải, nhiều bang đã thông qua luật cho phép từ chối các yêu cầu tự động, làm dấy lên lo ngại về ảnh hưởng tới tính minh bạch công cộng.",
+          "key_points_en": [
+            "AI bots cause massive surge in automated public record requests across US agencies.",
+            "States pass legislation enabling public offices to reject automated submissions.",
+            "Trend raises concerns over government transparency and public access to information."
+          ],
+          "key_points_vi": [
+            "Công cụ AI gây gia tăng đột biến các yêu cầu thông tin công cộng tự động.",
+            "Nhiều bang ban hành luật cho phép bác bỏ các yêu cầu nộp tự động.",
+            "Xu hướng dấy lên lo ngại về tính minh bạch và quyền truy cập thông tin."
+          ],
+          "why_it_matters_en": "The influx of automated AI data scraping tests the balance between open government transparency and administrative capacity.",
+          "why_it_matters_vi": "Làn sóng khai thác dữ liệu tự động đặt ra thách thức lớn giữa tính minh bạch hành chính và khả năng xử lý của chính phủ."
+        },
+        {
+          "id": "57fae3916ae67f11",
+          "topic_id": "ai",
+          "rank": 10,
+          "source_name": "Hugging Face Blog",
+          "source_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "image_url": "https://cdn-uploads.huggingface.co/production/uploads/6365c3f398da81987e2753f2/zArpuP9uLsLz9luMW0K2g.png",
+          "published_at": "2026-11-26T05:05:36+00:00",
+          "read_minutes": 1,
+          "title_en": "Hugging Face and Nvidia Release Tools for Nemotron 3.5 Document Model",
+          "title_vi": "Hugging Face và Nvidia phát hành công cụ cho mô hình tài liệu Nemotron 3.5",
+          "summary_en": "Hugging Face and Nvidia have released synthetic datasets, fine-tuning workflows, and speculative inference tools for the Nemotron 3.5 Parse document model. The compact model extracts structured data from page images for RAG and AI agent applications.\n\nThe update details how the model combines supervised fine-tuning with reinforcement learning to locate document elements and extract reading orders accurately.",
+          "summary_vi": "Hugging Face và Nvidia đã phát hành các bộ dữ liệu tổng hợp, quy trình tinh chỉnh và công cụ tăng tốc suy luận cho mô hình Nemotron 3.5 Parse. Mô hình nhỏ gọn này trích xuất dữ liệu có cấu trúc từ hình ảnh trang tài liệu cho các ứng dụng RAG.\n\nCập nhật mô tả cách kết hợp tinh chỉnh có giám sát và học tăng cường để xác định chính xác vị trí và thứ tự đọc nội dung tài liệu.",
+          "key_points_en": [
+            "New datasets and speculative inference tools released for Nemotron 3.5 Parse.",
+            "Model converts document images into structured formats for AI agents and RAG.",
+            "Combines supervised learning and reinforcement learning to improve extraction accuracy."
+          ],
+          "key_points_vi": [
+            "Phát hành bộ dữ liệu và công cụ tăng tốc mới cho Nemotron 3.5 Parse.",
+            "Mô hình chuyển ảnh tài liệu thành dữ liệu cấu trúc cho ứng dụng RAG.",
+            "Kết hợp học có giám sát và học tăng cường để nâng cao độ chính xác trích xuất."
+          ],
+          "why_it_matters_en": "Open-access document processing tools improve the efficiency of building AI systems that analyze complex visual documents.",
+          "why_it_matters_vi": "Các công cụ xử lý tài liệu mã nguồn mở giúp nâng cao hiệu quả xây dựng AI phân tích văn bản phức tạp."
         }
       ]
     },
@@ -155,139 +285,191 @@
       "description_en": "Space missions, telescopes, astronomy breakthroughs, and launches.",
       "description_vi": "Sứ mệnh không gian, kính thiên văn, khám phá vũ trụ và phóng tàu.",
       "accent_hex": "#7C3AED",
-      "overview_en": "Today's space science highlights feature commercial rocket launches, deep space observations, and massive satellite constellation approvals.",
-      "overview_vi": "Các điểm nổi bật về khoa học vũ trụ hôm nay bao gồm các vụ phóng tên lửa thương mại, quan sát không gian sâu và phê duyệt chòm sao vệ tinh lớn.",
-      "article_count": 5,
+      "overview_en": "Today's space highlights feature major developments in planetary exploration and astrophysics alongside significant regulatory and commercial milestones. Key stories include spacecraft approaching Mercury, new dark matter insights, and deep-space agricultural research by NASA.",
+      "overview_vi": "Tiêu điểm khoa học vũ trụ hôm nay nổi bật với các bước tiến trong khám phá hành tinh và vật lý thiên văn cùng những cột mốc quản lý thương mại quan trọng. Các tin chính gồm tàu vũ trụ tiến gần sao Thủy, phát hiện mới về vật chất tối và nghiên cứu nông nghiệp vũ trụ của NASA.",
+      "article_count": 7,
       "articles": [
         {
-          "id": "6c9e9132559f2315",
+          "id": "df6422bbbc20e958",
           "topic_id": "space",
           "rank": 1,
-          "source_name": "Space.com",
-          "source_url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-sending-japanese-satellite-to-orbit-on-thanksgiving-day-launch-watch-it-live",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/5fu2jLB5FYDbB2bLUEjaTD-1920-80.jpg",
-          "published_at": "2026-11-26T16:00:00+00:00",
+          "source_name": "BBC",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15Q3QxOHpEbWRuT2pvSnhrRGp5OVZsMGM4azFVMmI5TTF0SHBNd08yRnhnbVF2ZU9tMHJqdGZFVnV6ZDl6dnh5Y1FPNmo2ZHh6bU5qSnF3Z1dPb2M?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-26T14:58:15+00:00",
           "read_minutes": 1,
-          "title_en": "Rocket Lab launching Japanese satellite on Thanksgiving",
-          "title_vi": "Rocket Lab phóng vệ tinh Nhật Bản vào Ngày Lễ Tạ ơn",
-          "summary_en": "Rocket Lab is adding another satellite to a growing Japanese Earth-observation constellation with a scheduled Thanksgiving Day launch. An Electron rocket carrying a radar imaging satellite for Tokyo-based Synspective is lifting off from New Zealand.\n\nThe mission, titled 'Night Owls Never Sleep,' highlights commercial partnerships in Earth observation. Synspective is steadily building an expansive network of Strix spacecraft equipped with advanced synthetic aperture radar technology.",
-          "summary_vi": "Rocket Lab đang bổ sung thêm một vệ tinh vào chòm sao quan sát Trái Đất của Nhật Bản trong một vụ phóng vào Ngày Lễ Tạ ơn. Tên lửa Electron mang theo vệ tinh hình ảnh radar cho công ty Synspective cất cánh từ New Zealand.\n\nSứ mệnh mang tên 'Cú đêm không bao giờ ngủ' làm nổi bật các mối quan hệ đối tác thương mại trong lĩnh vực quan sát Trái Đất. Synspective đang xây dựng mạng lưới tàu vũ trụ Strix trang bị công nghệ radar.",
+          "title_en": "Space Team Celebrates as Spacecraft Nears Mercury",
+          "title_vi": "Đội ngũ vũ trụ ăn mừng khi tàu vũ trụ tiến gần sao Thủy",
+          "summary_en": "A space exploration team is celebrating as their spacecraft approaches Mercury. The mission represents a major milestone in planetary exploration as the probe draws closer to the innermost planet of the Solar System.",
+          "summary_vi": "Đội ngũ thực hiện sứ mệnh vũ trụ đang ăn mừng khi tàu thăm dò tiến gần đến sao Thủy. Đây là một cột mốc quan trọng trong quá trình khám phá hành tinh gần Mặt Trời nhất trong Hệ Mặt Trời.",
           "key_points_en": [
-            "Electron rocket lifts off from New Zealand on Thanksgiving.",
-            "Payload is a radar imaging satellite for Japanese firm Synspective.",
-            "Mission is part of building an ongoing Earth-observation constellation."
+            "Spacecraft approaches Mercury for upcoming planetary study.",
+            "Mission team expresses joy over successful navigation and progress.",
+            "Deepens human understanding of the innermost planet in the solar system."
           ],
           "key_points_vi": [
-            "Tên lửa Electron cất cánh từ New Zealand vào Ngày Lễ Tạ ơn.",
-            "Tải trọng là vệ tinh hình ảnh radar cho hãng Synspective của Nhật Bản.",
-            "Sứ mệnh là một phần trong việc xây dựng chòm sao quan sát Trái Đất."
+            "Tàu vũ trụ tiến gần sao Thủy phục vụ nghiên cứu hành tinh.",
+            "Đội ngũ sứ mệnh vui mừng trước tiến trình điều hướng thành công.",
+            "Mở rộng hiểu biết của con người về hành tinh trong cùng Hệ Mặt Trời."
           ],
-          "why_it_matters_en": "Expands commercial Earth-observation capabilities through international aerospace collaboration.",
-          "why_it_matters_vi": "Mở rộng năng lực quan sát Trái Đất thương mại thông qua sự hợp tác hàng không vũ trụ quốc tế."
+          "why_it_matters_en": "Reaching Mercury provides valuable data about the formation and evolution of terrestrial planets.",
+          "why_it_matters_vi": "Việc tiếp cận sao Thủy cung cấp dữ liệu giá trị về sự hình thành và tiến hóa của các hành tinh đất đá."
         },
         {
-          "id": "438de1a7705931ee",
+          "id": "efe8bfd04241403a",
           "topic_id": "space",
           "rank": 2,
-          "source_name": "Space.com",
-          "source_url": "https://www.space.com/astronomy/cosmic-betta-fish-glows-in-spectacular-nebula-portrait-space-photo-of-the-day-for-nov-26-2026",
-          "image_url": "https://cdn.mos.cms.futurecdn.net/jmDeT3Pp9Fe2CMvTWKNHSc-1920-80.png",
-          "published_at": "2026-11-26T15:00:00+00:00",
+          "source_name": "Nature",
+          "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ad2E3LUw3S0owdm94UUN3dnRNNm1PbDNvZXZtX1ZvczkyRFRzQTJtQlptUHhxc1l4ZUhsU0prbVozbUxhRnpOUGlLcXotVkxtX2g5UFlKNURvamtib1R3?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-26T14:55:20+00:00",
           "read_minutes": 1,
-          "title_en": "Cosmic Betta Fish Nebula captured in spectacular portrait",
-          "title_vi": "Tinh vân Cá Xiêm vũ trụ xuất hiện trong bức ảnh ngoạn mục",
-          "summary_en": "An image captured by the Dark Energy Camera showcases the stunning Betta Fish Nebula, located roughly 6,800 light-years from Earth. Nestled in the Centaurus constellation, this ghostly wisp of gas is a remnant of a supernova explosion.\n\nFormed when a massive star erupted and blasted its outer layers outward, the nebula gets its name from its floaty, fishy shape. This celestial portrait offers astronomers valuable insights into supernova remnants and stellar evolution.",
-          "summary_vi": "Một hình ảnh do Máy ảnh Năng lượng tối chụp lại cho thấy Tinh vân Cá Xiêm tuyệt đẹp, nằm cách Trái Đất khoảng 6.800 năm ánh sáng. Nằm trong chòm sao Centaurus, dải khí kỳ ảo này là tàn dư của một vụ nổ siêu tân tinh.\n\nĐược hình thành khi một ngôi sao khổng lồ phun trào và thổi bay các lớp bên ngoài, tinh vân này có tên nhờ hình dáng giống loài cá. Bức chân dung thiên thể này cung cấp cho các nhà thiên văn học những hiểu biết có giá trị.",
+          "title_en": "Study Finds Lower Dark Matter Densities in Nearby Galaxies Than Simulated",
+          "title_vi": "Nghiên cứu phát hiện mật độ vật chất tối ở các thiên hà lân cận thấp hơn dự đoán",
+          "summary_en": "New research published in Nature reveals that central dark matter densities in nearby galaxies are lower than predicted by theoretical computer simulations. This discrepancy challenges existing cosmological models regarding dark matter distribution.",
+          "summary_vi": "Nghiên cứu mới xuất bản trên tạp chí Nature chỉ ra rằng mật độ vật chất tối ở trung tâm các thiên hà lân cận thấp hơn dự báo từ mô phỏng máy tính. Phát hiện này đặt ra thách thức cho các mô hình vũ trụ học hiện tại về sự phân bố vật chất tối.",
           "key_points_en": [
-            "Captured by the Dark Energy Camera in the Centaurus constellation.",
-            "Located approximately 6,800 light-years away from Earth.",
-            "Formed from the outer layers of a massive exploded star."
+            "Nearby galaxies show lower central dark matter density than expected.",
+            "Findings conflict with current standard cosmological computer simulations.",
+            "Published in the scientific journal Nature."
           ],
           "key_points_vi": [
-            "Được chụp bởi Máy ảnh Năng lượng tối trong chòm sao Centaurus.",
-            "Nằm cách Trái Đất khoảng 6.800 năm ánh sáng.",
-            "Được hình thành từ các lớp ngoài của một ngôi sao phát nổ khổng lồ."
+            "Các thiên hà gần có mật độ vật chất tối trung tâm thấp hơn dự kiến.",
+            "Kết quả mâu thuẫn với các mô hình mô phỏng máy tính vũ trụ học hiện tại.",
+            "Nghiên cứu được công bố trên tạp chí khoa học Nature."
           ],
-          "why_it_matters_en": "Enhances our scientific understanding of stellar lifecycles and supernova remnant structures.",
-          "why_it_matters_vi": "Nâng cao hiểu biết khoa học về vòng đời của sao và cấu trúc tàn dư siêu tân tinh."
-        },
-        {
-          "id": "d5f94155ad1a47e7",
-          "topic_id": "space",
-          "rank": 3,
-          "source_name": "NASA Breaking News",
-          "source_url": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/",
-          "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Milky_Way_Lencois.jpg?w=2048&h=2048&fit=clip",
-          "published_at": "2026-11-26T05:05:00+00:00",
-          "read_minutes": 1,
-          "title_en": "Milky Way shines over Lençóis Maranhenses in APOD",
-          "title_vi": "Dải Ngân Hà tỏa sáng trên Lençóis Maranhenses trong APOD",
-          "summary_en": "NASA's Astronomy Picture of the Day features a breathtaking view of the Milky Way glowing over Brazil. The galaxy shines brightly above the white sand dunes and dark lagoons of Lençóis Maranhenses National Park.\n\nThis striking capture demonstrates the interplay between terrestrial landscapes and celestial wonders. Professional astronomers provide daily explanations to help the public appreciate these cosmic phenomena.",
-          "summary_vi": "Bức ảnh thiên văn trong ngày của NASA ghi lại khung cảnh tuyệt đẹp của Dải Ngân Hà tỏa sáng trên bầu trời Brazil. Ngân Hà chiếu sáng rực rỡ bên trên các cồn cát trắng và đầm phá tối của Vườn quốc gia Lençóis Maranhenses.\n\nBức ảnh nổi bật này minh họa sự tương tác giữa cảnh quan trên mặt đất và các kỳ quan thiên thể. Các nhà thiên văn học cung cấp giải thích hàng ngày để công chúng trân trọng các hiện tượng.",
-          "key_points_en": [
-            "Featured as NASA's Astronomy Picture of the Day.",
-            "Captured over the white sand dunes of Lençóis Maranhenses in Brazil.",
-            "Highlights the bright rotation of the Milky Way in the night sky."
-          ],
-          "key_points_vi": [
-            "Được vinh danh là Bức ảnh thiên văn trong ngày của NASA.",
-            "Được chụp trên các cồn cát trắng của Lençóis Maranhenses tại Brazil.",
-            "Làm nổi bật vòng quay rực rỡ của Dải Ngân Hà trên bầu trời đêm."
-          ],
-          "why_it_matters_en": "Inspires public interest in astronomy by combining natural Earth geography with deep space views.",
-          "why_it_matters_vi": "Khơi dậy sự quan tâm của công chúng đối với thiên văn học bằng cách kết hợp địa lý Trái Đất với không gian sâu."
+          "why_it_matters_en": "It forces astrophysicists to re-examine fundamental models of dark matter and galaxy formation.",
+          "why_it_matters_vi": "Phát hiện này buộc các nhà vật lý thiên văn phải xem xét lại các mô hình cốt lõi về vật chất tối và sự hình thành thiên hà."
         },
         {
           "id": "38ca16a8b815893f",
           "topic_id": "space",
-          "rank": 4,
+          "rank": 3,
           "source_name": "NASA Breaking News",
           "source_url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
           "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/space-crops/SpaceCrops_thanksgiving.jpg?w=1366&h=618&fit=clip",
           "published_at": "2026-11-25T17:53:42+00:00",
           "read_minutes": 1,
-          "title_en": "NASA eyes strawberries and cucumbers for future space menus",
-          "title_vi": "NASA nhắm đến dâu tây và dưa chuột cho thực đơn vũ trụ tương lai",
-          "summary_en": "As NASA prepares for future exploration missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food. Space crops help offer vital nutrition and variety far from Earth.\n\nRecent testing points to strawberries, cucumbers, and lemon basil as promising options for deep space explorers. Beyond nutrition, these plants absorb carbon dioxide, produce oxygen, and recycle resources in controlled chambers.",
-          "summary_vi": "Khi NASA chuẩn bị cho các sứ mệnh thám hiểm tương lai tới Mặt Trăng và Sao Hỏa, các nhà nghiên cứu đang nghiên cứu các loại cây trồng cung cấp thực phẩm tươi cho phi hành gia. Cây trồng trong không gian giúp cung cấp dinh dưỡng thiết yếu.\n\nCác thử nghiệm gần đây chỉ ra dâu tây, dưa chuột và húng chanh là những lựa chọn đầy hứa hẹn cho các nhà thám hiểm không gian sâu. Ngoài dinh dưỡng, những thực vật này còn hấp thụ CO2 và tạo oxy.",
+          "title_en": "NASA Evaluates Strawberries and Basil as Crops for Deep Space Missions",
+          "title_vi": "NASA thử nghiệm dâu tây và húng tây làm nguồn thực phẩm cho sứ mệnh vũ trụ xa",
+          "summary_en": "NASA researchers are evaluating potential crops to provide fresh food, nutrition, and variety for astronauts on long-duration missions to the Moon and Mars. Recent controlled environment tests highlight strawberries, cucumbers, and lemon basil as top candidates.",
+          "summary_vi": "Các nhà nghiên cứu NASA đang đánh giá các loại cây trồng nhằm cung cấp thực phẩm tươi, dinh dưỡng và sự đa dạng cho phi hành gia trên các sứ mệnh dài ngày tới Mặt Trăng và sao Hỏa. Thử nghiệm gần đây tập trung vào dâu tây, dưa chuột và húng tây chanh.",
           "key_points_en": [
-            "Research targets long-duration missions to the Moon and Mars.",
-            "Testing highlights strawberries, cucumbers, and lemon basil.",
-            "Plants provide nutrition while absorbing carbon dioxide and producing oxygen."
+            "NASA tests strawberries, cucumbers, and lemon basil in controlled environments.",
+            "Crops aim to supply fresh nutrition for future Moon and Mars missions.",
+            "Plants absorb carbon dioxide, produce oxygen, and recycle water."
           ],
           "key_points_vi": [
-            "Nghiên cứu nhắm đến các sứ mệnh dài hạn tới Mặt Trăng và Sao Hỏa.",
-            "Thử nghiệm làm nổi bật dâu tây, dưa chuột và húng chanh.",
-            "Cây trồng cung cấp dinh dưỡng đồng thời hấp thụ CO2 và sản xuất oxy."
+            "NASA thử nghiệm dâu tây, dưa chuột và húng tây chanh trong môi trường kiểm soát.",
+            "Cây trồng nhằm cung cấp dinh dưỡng tươi cho các sứ mệnh Mặt Trăng và sao Hỏa.",
+            "Thực vật hấp thụ khí CO2, sản xuất oxy và tái chế nước."
           ],
-          "why_it_matters_en": "Essential for sustaining human health and life support autonomy during long deep space voyages.",
-          "why_it_matters_vi": "Rất quan trọng để duy trì sức khỏe con người và tính tự chủ về hệ thống hỗ trợ sự sống trong không gian."
+          "why_it_matters_en": "Sustainable crop production is crucial for sustaining human life on long-term deep space exploration.",
+          "why_it_matters_vi": "Trồng trọt bền vững là yếu tố cốt lõi để duy trì sự sống của con người trong các hành trình khám phá vũ trụ dài hạn."
         },
         {
-          "id": "22ec3cd4b26a966f",
+          "id": "a057afbc57d539f8",
           "topic_id": "space",
-          "rank": 5,
-          "source_name": "SpaceNews",
-          "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWlmZVhFRHprYWpuWXlya1U1MDhEZGZ1NnFUbUREaUJZbExwMkhGaUhfWV9pYUFtN2RUODl3MWx0U1hEbnhCaUw0SGI2MjlNMzhJLUdYTExrcnpFNnFaWmthX3FqazMxZGx1RDl3VnpoekRPODRyd3NBb0pybGtRSHc3OXBNaHFkSjZWZW1FMEo?oc=5",
+          "rank": 4,
+          "source_name": "BBC",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZVjlHTlJ5Nkp5bkZHdUVLNTB0UzVPOWYxR2J5eEJ3cjV6emo2REhqcTh2RDhQS0ZRMndXYTFtQXlTbG5BbXFaemhZMXhnSHRZVm1xWHFud1A4Zw?oc=5",
           "image_url": null,
-          "published_at": "2026-11-26T04:49:58+00:00",
+          "published_at": "2026-11-26T17:16:39+00:00",
           "read_minutes": 1,
-          "title_en": "FCC authorizes SpaceX to deploy one million orbital data centers",
-          "title_vi": "FCC ủy quyền cho SpaceX triển khai một triệu trung tâm dữ liệu quỹ đạo",
-          "summary_en": "The Federal Communications Commission has officially authorized SpaceX to deploy an unprecedented constellation of one million orbital data centers. This ambitious initiative aims to bring advanced computing capabilities directly to space.\n\nThe regulatory approval marks a major milestone for orbital infrastructure development. Integrating massive data center networks in low Earth orbit could fundamentally transform global communication and space-based computing architectures.",
-          "summary_vi": "Ủy ban Truyền thông Liên bang đã chính thức cấp phép cho SpaceX triển khai một chòm sao gồm một triệu trung tâm dữ liệu quỹ đạo chưa từng có. Sáng kiến đầy tham vọng này nhằm đưa năng lực điện toán tiên tiến vào không gian.\n\nSự chấp thuận quản lý đánh dấu một cột mốc quan trọng đối với việc phát triển hạ tầng quỹ đạo. Việc tích hợp các mạng lưới trung tâm dữ liệu lớn ở quỹ đạo thấp của Trái Đất có thể biến đổi kiến trúc điện toán.",
+          "title_en": "US Regulators Approve Megaconstellations of One Million Data Satellites",
+          "title_vi": "Cơ quan quản lý Mỹ phê duyệt dự án một triệu vệ tinh dữ liệu trong không gian",
+          "summary_en": "United States regulators have approved plans allowing up to one million data satellites in space. This massive expansion of orbital satellite constellations reflects growing global demand for satellite-based data communications.",
+          "summary_vi": "Các cơ quan quản lý Hoa Kỳ đã chấp thuận kế hoạch cho phép triển khai lên tới một triệu vệ tinh dữ liệu trong không gian. Sự mở rộng quy mô lớn của các chùm vệ tinh quỹ đạo này phản ánh nhu cầu truyền thông vệ tinh ngày càng tăng.",
           "key_points_en": [
-            "FCC authorizes SpaceX for orbital data center deployment.",
-            "Plan involves launching one million data satellites into space.",
-            "Represents a massive scale-up in space-based computing infrastructure."
+            "US regulators approve deployment of one million data satellites.",
+            "Marks a massive expansion of satellite constellations in Earth orbit.",
+            "Addresses surging international demand for orbital data communication."
           ],
           "key_points_vi": [
-            "FCC ủy quyền cho SpaceX triển khai trung tâm dữ liệu quỹ đạo.",
-            "Kế hoạch liên quan đến việc phóng một triệu vệ tinh dữ liệu lên không gian.",
-            "Đại diện cho việc mở rộng quy mô lớn cơ sở hạ tầng điện toán vũ trụ."
+            "Cơ quan quản lý Mỹ chấp thuận triển khai một triệu vệ tinh dữ liệu.",
+            "Đánh dấu bước mở rộng khổng lồ của các chùm vệ tinh trên quỹ đạo Trái Đất.",
+            "Đáp ứng nhu cầu truyền thông dữ liệu qua vệ tinh đang tăng nhanh."
           ],
-          "why_it_matters_en": "Pioneers the large-scale integration of commercial cloud computing and data infrastructure in space.",
-          "why_it_matters_vi": "Tiên phong trong việc tích hợp quy mô lớn điện toán đám mây thương mại và hạ tầng dữ liệu ngoài không gian."
+          "why_it_matters_en": "Massive satellite deployment alters low Earth orbit management, space traffic safety, and global connectivity.",
+          "why_it_matters_vi": "Việc triển khai vệ tinh quy mô lớn làm thay đổi quản lý quỹ đạo thấp Trái Đất, an toàn giao thông vũ trụ và kết nối toàn cầu."
+        },
+        {
+          "id": "4c35fc2611b063f4",
+          "topic_id": "space",
+          "rank": 5,
+          "source_name": "Reuters",
+          "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU3MtcGEzRThwZDdGaEZ4RktzRml6Y0hfNllQby1FQi02alpfdmdXM2ROZk1idmpVcHFoYXJaRG53UnEwWjhDXzRtYzVPWjB4UVJ5Tno1OXV6OGFJZEtyTHc2RHNYVE9Uc0hseU5IaEdHNXdOSlI0MkNWYTFUUXNjNVhHdXpQanEzaWhvQ3NaUk11Nlc5Z1lUR3VFak5WX2JPZWdPOUVDaFEtLWRzMVZ5cHJHLTg?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-26T16:33:03+00:00",
+          "read_minutes": 1,
+          "title_en": "Mexico Seeks Bilateral Talks with US Over SpaceX Airspace Usage",
+          "title_vi": "Mexico đề nghị đàm phán với Mỹ về việc SpaceX sử dụng vùng không gian",
+          "summary_en": "Mexico is seeking official discussions with the United States regarding SpaceX's use of airspace. The request highlights growing international focus on cross-border coordination as private rocket launches increase in frequency.",
+          "summary_vi": "Mexico đang tìm kiếm các cuộc đàm phán chính thức với Hoa Kỳ liên quan đến việc SpaceX sử dụng không phận. Yêu cầu này phản ánh sự quan tâm quốc tế ngày càng tăng đối với sự phối hợp xuyên biên giới khi các vụ phóng tên lửa tư nhân gia tăng.",
+          "key_points_en": [
+            "Mexico requests talks with US regarding SpaceX operations in shared airspace.",
+            "Reflects cross-border sovereignty and airspace safety concerns.",
+            "Highlights challenges posed by increasing commercial space flight activities."
+          ],
+          "key_points_vi": [
+            "Mexico yêu cầu đàm phán với Mỹ về hoạt động của SpaceX trong không phận liên quan.",
+            "Phản ánh mối quan tâm về chủ quyền và an toàn không phận xuyên biên giới.",
+            "Nêu bật thách thức từ sự gia tăng của các hoạt động thương mại vũ trụ."
+          ],
+          "why_it_matters_en": "Rapid commercial space launches require new international frameworks to manage shared airspace and environmental impacts.",
+          "why_it_matters_vi": "Các chuyến phóng vũ trụ thương mại tăng nhanh đòi hỏi khuôn khổ quốc tế mới để quản lý không phận chung và tác động môi trường."
+        },
+        {
+          "id": "d5f94155ad1a47e7",
+          "topic_id": "space",
+          "rank": 6,
+          "source_name": "NASA Breaking News",
+          "source_url": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/",
+          "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Milky_Way_Lencois.jpg?w=2048&h=2048&fit=clip",
+          "published_at": "2026-11-26T05:05:00+00:00",
+          "read_minutes": 1,
+          "title_en": "NASA Highlights Stunning Milky Way View Over Brazil's Lençóis Dunes",
+          "title_vi": "NASA tôn vinh hình ảnh Dải Ngân hà trên vùng cồn cát Lençóis của Brazil",
+          "summary_en": "NASA's Astronomy Picture of the Day features a photograph of the Milky Way galaxy over the white sand dunes and dark lagoons of Lençóis Maranhenses National Park in Brazil. The image captures key regions of the galaxy as it appears in the night sky.",
+          "summary_vi": "Mục Bức ảnh Thiên văn trong Ngày của NASA đã giới thiệu bức ảnh Dải Ngân hà lấp lánh trên các cồn cát trắng và hồ nước tối màu tại Vườn quốc gia Lençóis Maranhenses ở Brazil. Bức ảnh ghi lại các góc nhìn độc đáo của thiên hà trên bầu trời đêm.",
+          "key_points_en": [
+            "NASA APOD features the Milky Way over Lençóis Maranhenses National Park.",
+            "Highlights contrast between dark lagoons, white sand dunes, and the cosmos.",
+            "Captures celestial rotation visible from the Brazilian night sky."
+          ],
+          "key_points_vi": [
+            "NASA APOD giới thiệu Dải Ngân hà phía trên Vườn quốc gia Lençóis Maranhenses.",
+            "Nổi bật sự tương phản giữa cồn cát trắng, hồ nước và vũ trụ.",
+            "Ghi lại sự chuyển động của bầu trời đêm tại Brazil."
+          ],
+          "why_it_matters_en": "Astrophotography inspires public interest in astronomy and highlights natural dark-sky reserves worldwide.",
+          "why_it_matters_vi": "Nhiếp ảnh thiên văn truyền cảm hứng yêu thích thiên văn học và tôn vinh các vùng trời đêm tự nhiên trên thế giới."
+        },
+        {
+          "id": "5f87b31e87e2618e",
+          "topic_id": "space",
+          "rank": 7,
+          "source_name": "NASA Breaking News",
+          "source_url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
+          "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/lrs00622.jpg?w=2048",
+          "published_at": "2026-11-25T19:06:56+00:00",
+          "read_minutes": 1,
+          "title_en": "NASA Announces Boeing and GRACE Aerospace Mentor-Protégé Agreement",
+          "title_vi": "NASA công bố thỏa thuận hỗ trợ giữa Boeing và GRACE Aerospace",
+          "summary_en": "NASA's Office of Small Business Programs hosted a ceremonial signing of a Mentor-Protégé Agreement between Boeing and GRACE Aerospace in Huntsville, Alabama. The partnership supports small business development within NASA's Space Launch System program.",
+          "summary_vi": "Văn phòng Chương trình Doanh nghiệp nhỏ của NASA đã tổ chức lễ ký kết Thỏa thuận Mentor-Protégé giữa Boeing và GRACE Aerospace tại Huntsville, Alabama. Hợp tác này hỗ trợ phát triển doanh nghiệp nhỏ trong chương trình Tên lửa SLS của NASA.",
+          "key_points_en": [
+            "NASA hosts signing between Boeing and GRACE Aerospace in Huntsville.",
+            "Mentorship agreement supports small business growth in aerospace technology.",
+            "Aligns with suppliers participating in NASA's Space Launch System (SLS) program."
+          ],
+          "key_points_vi": [
+            "NASA tổ chức lễ ký kết giữa Boeing và GRACE Aerospace tại Huntsville.",
+            "Thỏa thuận bảo trợ hỗ trợ phát triển doanh nghiệp nhỏ trong công nghệ vũ trụ.",
+            "Gắn liền với các nhà cung cấp cho chương trình Tên lửa SLS của NASA."
+          ],
+          "why_it_matters_en": "Strengthening supply chains through mentorship expands industrial capabilities for deep space exploration systems.",
+          "why_it_matters_vi": "Tăng cường chuỗi cung ứng qua bảo trợ giúp nâng cao năng lực công nghiệp cho các hệ thống khám phá vũ trụ sâu."
         }
       ]
     },
@@ -298,139 +480,191 @@
       "description_en": "Climate milestones, extreme weather, emissions, and clean energy.",
       "description_vi": "Biến đổi khí hậu, thời tiết cực đoan, phát thải và năng lượng sạch.",
       "accent_hex": "#059669",
-      "overview_en": "Recent global climate developments highlight mounting pressures, including historic high temperature streaks, missed national emissions targets, and intense fallout from UN climate summits.",
-      "overview_vi": "Các diễn biến khí hậu toàn cầu gần đây nêu bật những áp lực gia tăng, bao gồm chuỗi nhiệt độ cao lịch sử, các mục tiêu phát thải quốc gia không đạt được và hậu quả gay gắt từ các hội nghị thượng đỉnh khí hậu của Liên hợp quốc.",
-      "article_count": 5,
+      "overview_en": "Extreme weather impacts Thanksgiving travel and raises severe bushfire risks in Australia, while new research highlights sharp global freshwater depletion during record-hot years. Meanwhile, international climate talks at COP31 stumble and legal battles continue over fossil fuel expansion and deep-sea mining.",
+      "overview_vi": "Thời tiết cực đoan làm gián đoạn du lịch lễ Tạ ơn và gia tăng nguy cơ cháy rừng ở Úc, trong khi nghiên cứu mới cảnh báo mực nước ngọt toàn cầu sụt giảm kỷ lục. Cùng lúc đó, các cuộc đàm phán tại COP31 rơi vào bế tắc và căng thẳng pháp lý leo thang quanh việc khai thác khoáng sản biển sâu cùng nhiên liệu hóa thạch.",
+      "article_count": 7,
       "articles": [
         {
-          "id": "c80c7607dfe8daa4",
+          "id": "221ed7fc63c848f4",
           "topic_id": "climate",
           "rank": 1,
           "source_name": "The Guardian Climate",
-          "source_url": "https://www.theguardian.com/environment/2026/nov/25/world-six-consecutive-days-2c-above-preindustrial-levels-first-time",
-          "image_url": "https://i.guim.co.uk/img/media/a03a9d5da14e0d6e58807cfdd21dd330ca07727e/204_0_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=18fbcf645177ae6a4a6de4cb7fbb175f",
-          "published_at": "2026-11-25T14:52:30+00:00",
+          "source_url": "https://www.theguardian.com/environment/2026/nov/26/water-levels-fall-rivers-lakes-reservoirs-global-study",
+          "image_url": "https://i.guim.co.uk/img/media/1ccc4b628a196f08ae0ff650b021bfbb8fc4b51b/441_0_2799_2241/master/2799.jpg?width=140&quality=85&auto=format&fit=max&s=ba31844b52ebe95096edce0c1ede3ff0",
+          "published_at": "2026-11-26T19:00:41+00:00",
           "read_minutes": 1,
-          "title_en": "World experiences six consecutive days 2C above preindustrial levels",
-          "title_vi": "Thế giới trải qua sáu ngày liên tiếp cao hơn 2 độ C so với mức tiền công nghiệp",
-          "summary_en": "For the first time, global surface temperatures have remained two degrees Celsius above preindustrial levels for six consecutive days. A daily global surface temperature record of 2.24C above baseline was hit recently.\n\nThis record hot streak is too brief to breach the Paris climate agreement target, but scientists warn it indicates accelerating global heating unless fossil fuel emissions are rapidly eliminated.",
-          "summary_vi": "Lần đầu tiên, nhiệt độ bề mặt toàn cầu duy trì ở mức cao hơn hai độ C so với thời kỳ tiền công nghiệp trong sáu ngày liên tiếp. Kỷ lục nhiệt độ bề mặt toàn cầu hàng ngày là 2,24 độ C trên mức cơ sở vừa được ghi nhận.\n\nĐợt nắng nóng kỷ lục này quá ngắn để vi phạm mục tiêu của thỏa thuận khí hậu Paris, nhưng các nhà khoa học cảnh báo đây là dấu hiệu cho thấy tình trạng Trái Đất ấm lên đang gia tăng.",
+          "title_en": "Global Freshwater Levels Dropped Sharply in Record Hottest Years, Study Finds",
+          "title_vi": "Mực nước ngọt toàn cầu sụt giảm mạnh trong hai năm nóng kỷ lục theo nghiên cứu mới",
+          "summary_en": "Extreme global heat led to an unprecedented decline in water stored across lakes, rivers, and reservoirs during 2023 and 2024, the hottest years on record. An international study led by the Chinese Academy of Sciences revealed that global river flows dropped roughly 5.7% below normal levels, while surface freshwater stored in lakes and reservoirs plunged by 9.5%. Researchers noted this marks the largest synchronised contraction of global surface freshwater since at least 1991. The impacts were felt most severely in South America, where water levels plummeted significantly even as certain regional areas experienced bouts of extreme rainfall.",
+          "summary_vi": "Nắng nóng cực đoan trên toàn cầu đã gây ra sự suy giảm chưa từng có về lượng nước lưu trữ tại các sông ngòi, hồ chứa trong giai đoạn 2023-2024, hai năm nóng kỷ lục. Nghiên cứu do Viện Hàn lâm Khoa học Trung Quốc dẫn đầu cho thấy lưu lượng dòng chảy sông toàn cầu giảm khoảng 5,7% so với mức bình thường, trong khi lượng nước tích trữ trong hồ chứa sụt giảm 9,5%. Đây là mức suy giảm nước mặt đồng thời lớn nhất kể từ năm 1991. Tác động diễn ra đặc biệt nặng nề tại Nam Mỹ, nơi mực nước sụt giảm nghiêm trọng dù một số khu vực cục bộ vẫn có mưa lớn cực đoan.",
           "key_points_en": [
-            "Global temperatures stayed 2C above preindustrial levels for six days.",
-            "A daily record high of 2.24C above baseline was reached recently.",
-            "Scientists warn this points to potentially accelerating global heating."
+            "Global river flows fell about 5.7% below normal during 2023 and 2024.",
+            "Water stored in lakes and reservoirs decreased by 9.5% globally.",
+            "This event marks the largest synchronised drop in surface freshwater since 1991."
           ],
           "key_points_vi": [
-            "Nhiệt độ toàn cầu duy trì cao hơn 2 độ C trong sáu ngày liên tiếp.",
-            "Kỷ lục nhiệt độ hàng ngày cao hơn 2,24 độ C so với mức cơ sở vừa đạt được.",
-            "Các nhà khoa học cảnh báo điều này cho thấy Trái Đất ấm lên nhanh chóng."
+            "Dòng chảy sông ngòi toàn cầu giảm khoảng 5,7% so với mức trung bình.",
+            "Lượng nước trữ tại các hồ chứa sụt giảm 9,5% trên quy mô toàn cầu.",
+            "Đây là đợt suy giảm đồng bộ nguồn nước mặt lớn nhất kể từ năm 1991."
           ],
-          "why_it_matters_en": "This unprecedented streak signals that global heating may be accelerating dangerously fast.",
-          "why_it_matters_vi": "Chuỗi ngày chưa từng có này báo hiệu rằng tình trạng Trái Đất ấm lên có thể đang gia tăng nguy hiểm."
-        },
-        {
-          "id": "fc6d73eb978ac326",
-          "topic_id": "climate",
-          "rank": 2,
-          "source_name": "The Guardian Climate",
-          "source_url": "https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies",
-          "image_url": "https://i.guim.co.uk/img/media/6bc9fc5f6a817cf2c3f2ae94fa662f095a4a7e4a/152_0_2369_1896/master/2369.jpg?width=140&quality=85&auto=format&fit=max&s=cfed3809fab50aa7547ab0cc010d00dc",
-          "published_at": "2026-11-26T02:26:10+00:00",
-          "read_minutes": 1,
-          "title_en": "Australia projected to miss 2035 emissions target without new policies",
-          "title_vi": "Australia dự kiến bỏ lỡ mục tiêu phát thải năm 2035 nếu không có chính sách mới",
-          "summary_en": "New official projections show Australia is nearly on track to reach its 2030 climate goal. However, the country will fall massively short of its 2035 target without substantial new policies.\n\nUnder existing policies, Australia will cut climate pollution by only 48% by 2035 compared to 2005 levels, missing the targeted reduction range of 62% to 70%.",
-          "summary_vi": "Các dự báo chính thức mới cho thấy Australia gần đạt được mục tiêu khí hậu năm 2030. Tuy nhiên, nước này sẽụt giảm mạnh so với mục tiêu năm 2035 nếu thiếu các chính sách mới.\n\nDưới các chính sách hiện tại, Australia chỉ cắt giảm 48% ô nhiễm khí hậu vào năm 2035 so với năm 2005, thấp hơn nhiều so với mức giảm từ 62% đến 70%.",
-          "key_points_en": [
-            "Australia is nearly on track to meet its 2030 emissions goal.",
-            "By 2035, emissions will drop by only 48% under current policies.",
-            "The official target requires a 62% to 70% reduction by 2035."
-          ],
-          "key_points_vi": [
-            "Australia gần đạt được mục tiêu giảm phát thải vào năm 2030.",
-            "Đến năm 2035, lượng phát thải chỉ giảm 48% theo các chính sách hiện hành.",
-            "Mục tiêu chính thức đòi hỏi giảm từ 62% đến 70% vào năm 2035."
-          ],
-          "why_it_matters_en": "It highlights the critical gap between current government actions and long-term climate targets.",
-          "why_it_matters_vi": "Nó nhấn mạnh khoảng cách quan trọng giữa hành động của chính phủ và mục tiêu khí hậu dài hạn."
+          "why_it_matters_en": "Synchronised freshwater loss threatens global agriculture, municipal supplies, and ecosystem stability under worsening climate change.",
+          "why_it_matters_vi": "Sự suy giảm đồng loạt nguồn nước ngọt đe dọa an ninh lương thực, nguồn cung sinh hoạt và tính ổn định sinh thái toàn cầu."
         },
         {
           "id": "bf021fc81dba38ee",
           "topic_id": "climate",
-          "rank": 3,
+          "rank": 2,
           "source_name": "Carbon Brief",
           "source_url": "https://www.carbonbrief.org/media-reaction-who-is-to-blame-for-cop31-failure",
           "image_url": "https://www.carbonbrief.org/wp-content/uploads/2026/10/cb-plus-banner-scaled.png",
           "published_at": "2026-11-25T16:09:13+00:00",
           "read_minutes": 1,
-          "title_en": "Media reaction highlights fallout and controversy following COP31 failure",
-          "title_vi": "Phản ứng truyền thông nổi bật hậu quả và tranh cãi sau thất bại của COP31",
-          "summary_en": "COP31 came to a dramatic close when a coalition of nations rejected the proposed Antalya pact. Countries cited the agreement's complete failure to mention fossil fuels.\n\nThe tense final moments and lack of a final pact sparked extensive global media coverage, raising questions about the future of consensus processes and oil-rich nations.",
-          "summary_vi": "COP31 đã kết thúc đầy kịch tính khi một liên minh các quốc gia bác bỏ hiệp định Antalya được đề xuất. Các quốc gia viện dẫn việc thỏa thuận hoàn toàn không nhắc đến nhiên liệu hóa thạch.\n\nNhững khoảnh khắc cuối cùng căng thẳng và việc thiếu một hiệp định chung đã châm ngòi cho sự chú ý lớn từ truyền thông toàn cầu, đặt ra câu hỏi về tương lai của các tiến trình đồng thuận.",
+          "title_en": "COP31 Summit Closes in Disarray as Coalition Rejects Pact Over Fossil Fuels",
+          "title_vi": "Hội nghị COP31 kết thúc trong bế tắc khi dự thảo hiệp ước bị bác bỏ",
+          "summary_en": "The COP31 climate conference concluded with dramatic tensions as a coalition of nations rejected the proposed Antalya pact, citing its failure to mention fossil fuels. The refusal to endorse the draft agreement left the summit without a major final deal and sparked intensive international scrutiny regarding the future of UN consensus negotiations. The contentious outcome highlighted deep divides among developed economies, developing states, and major oil-producing nations. Analysts and media organizations are debating whether the collapse demonstrates institutional failure or a refusal by progressive countries to accept weakened climate compromises.",
+          "summary_vi": "Hội nghị khí hậu COP31 đã khép lại đầy căng thẳng khi một liên minh các quốc gia bác bỏ dự thảo hiệp ước Antalya vì không đề cập đến nhiên liệu hóa thạch. Việc từ chối phê chuẩn thỏa thuận khiến hội nghị kết thúc mà không đạt được hiệp ước chung, dấy lên nghi vấn về tương lai đàm phán đồng thuận của Liên Hợp Quốc. Kết quả gây tranh cãi này phơi bày rạn nứt sâu sắc giữa các nước phát triển, quốc gia đang phát triển và các bên sản xuất dầu mỏ lớn. Giới phân tích đang tranh luận liệu đây là sự thất bại thể chế hay lập trường kiên quyết bác bỏ thỏa hiệp yếu kém.",
           "key_points_en": [
-            "A coalition of nations rejected the proposed Antalya pact at COP31.",
-            "The rejection was driven by the absence of fossil fuel mentions.",
-            "The summit's dramatic end sparked widespread international media debate."
+            "Coalition rejected the proposed Antalya pact for omitting fossil fuel phaseout.",
+            "COP31 ended without a formal consensus agreement among nations.",
+            "Disputes erupted between oil-rich nations and climate-vulnerable states."
           ],
           "key_points_vi": [
-            "Một liên minh các quốc gia đã bác bỏ hiệp định Antalya tại COP31.",
-            "Sự việc bắt nguồn từ việc văn bản không đề cập đến nhiên liệu hóa thạch.",
-            "Kết thúc kịch tính của hội nghị đã châm ngòi cho tranh luận quốc tế rộng rãi."
+            "Liên minh các nước bác bỏ hiệp ước Antalya do bỏ qua nhiên liệu hóa thạch.",
+            "COP31 khép lại mà không đạt được hiệp ước chung theo nguyên tắc đồng thuận.",
+            "Bất đồng sâu sắc giữa các quốc gia sản xuất dầu và các nước chịu tổn thương."
           ],
-          "why_it_matters_en": "The collapse of the COP31 pact tests the effectiveness of global climate negotiations.",
-          "why_it_matters_vi": "Sự sụp đổ của hiệp định COP31 thử thách tính hiệu quả của các cuộc đàm phán khí hậu toàn cầu."
+          "why_it_matters_en": "Failure to address fossil fuels at multilateral climate summits imperils collective commitments to limit global temperature rise.",
+          "why_it_matters_vi": "Việc không thể thống nhất về nhiên liệu hóa thạch đe dọa trực tiếp các cam kết toàn cầu nhằm kiềm chế sự ấm lên của Trái Đất."
         },
         {
-          "id": "60f8b71a8c013655",
+          "id": "fc6d73eb978ac326",
+          "topic_id": "climate",
+          "rank": 3,
+          "source_name": "The Guardian Climate",
+          "source_url": "https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies",
+          "image_url": "https://i.guim.co.uk/img/media/6bc9fc5f6a817cf2c3f2ae94fa662f095a4a7e4a/152_0_2369_1896/master/2369.jpg?width=140&quality=85&auto=format&fit=max&s=cfed3809fab50aa7547ab0cc010d00dc",
+          "published_at": "2026-11-26T02:26:10+00:00",
+          "read_minutes": 1,
+          "title_en": "Australia Set to Miss 2035 Climate Target Without Policy Overhaul, Projections Show",
+          "title_vi": "Úc nguy cơ lỡ hẹn mục tiêu khí hậu năm 2035 nếu không bổ sung chính sách mới",
+          "summary_en": "Official government projections show Australia will dramatically fall short of its 2035 emissions reduction target unless federal climate policies are significantly reinforced. Current policies position the nation to reduce emissions by only 48% below 2005 levels by 2035, well below its formal target range of 62% to 70%. Climate Minister Chris Bowen highlighted undeniable headwinds facing the clean energy transition. Although Australia remains largely on track to satisfy its nearer-term 2030 benchmark, achieving deeper medium-term decarbonization will require extensive regulatory and structural overhauls.",
+          "summary_vi": "Các dự báo chính thức cho thấy Úc sẽ không thể đạt mục tiêu cắt giảm phát thải năm 2035 nếu chính phủ không tăng cường đáng kể các chính sách khí hậu. Với các biện pháp hiện nay, lượng phát thải vào năm 2035 ước tính chỉ giảm 48% so với năm 2005, thấp hơn nhiều so với mục tiêu đề ra từ 62% đến 70%. Bộ trưởng Khí hậu Chris Bowen cảnh báo về những trở ngại khó phủ nhận trong tiến trình này. Dù Úc gần như vẫn bám sát mục tiêu cho năm 2030, việc đạt được mức giảm phát thải sâu hơn vào năm 2035 đòi hỏi phải có những cải cách chính sách quyết liệt.",
+          "key_points_en": [
+            "Australia is currently projected to cut emissions by just 48% by 2035.",
+            "Official 2035 goals demand reductions between 62% and 70% below 2005 levels.",
+            "The country remains largely on track for its 2030 target despite headwinds."
+          ],
+          "key_points_vi": [
+            "Úc hiện chỉ trên đà giảm 48% phát thải vào năm 2035 theo chính sách hiện hành.",
+            "Mục tiêu cam kết năm 2035 đòi hỏi mức cắt giảm sâu từ 62% đến 70%.",
+            "Tiến độ mục tiêu năm 2030 vẫn khả quan dù đối mặt nhiều lực cản kinh tế."
+          ],
+          "why_it_matters_en": "Shortfalls in mid-century targets by major resource exporters risk slowing international momentum toward net-zero transitions.",
+          "why_it_matters_vi": "Việc các quốc gia xuất khẩu tài nguyên lớn hụt mục tiêu trung hạn có nguy cơ làm chậm động lực giảm phát thải ròng toàn cầu."
+        },
+        {
+          "id": "39c265f3af7f5752",
           "topic_id": "climate",
           "rank": 4,
           "source_name": "BBC Science & Environment",
-          "source_url": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bf7/live/ebffd790-e8c5-11f1-ac76-db9e97f93d67.jpg",
-          "published_at": "2026-11-25T14:41:42+00:00",
+          "source_url": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c748/live/bfd18aa0-e9b1-11f1-859a-37130cd3a1d7.jpg",
+          "published_at": "2026-11-26T18:22:28+00:00",
           "read_minutes": 1,
-          "title_en": "Approaching storm threatens New York's annual Thanksgiving Parade",
-          "title_vi": "Bão lớn đe dọa cuộc diễu hành Lễ Tạ ơn thường niên của thành phố New York",
-          "summary_en": "Strong winds from a potent Nor'easter storm are threatening the Macy's Thanksgiving Day Parade in New York City. The milestone 100th edition faces severe weather disruptions for the first time since World War Two.\n\nThe National Weather Service issued a high wind warning with gusts potentially reaching 60mph, raising risks that iconic balloons cannot fly.",
-          "summary_vi": "Gió mạnh từ một cơn bão Nor'easter đang đe dọa cuộc diễu hành Ngày Lễ Tạ ơn của Macy tại thành phố New York. Sự kiện kỷ niệm lần thứ 100 đối mặt với nguy cơ gián đoạn thời tiết từ Thế chiến Hai.\n\nDịch vụ Thời tiết Quốc gia đã ban hành cảnh báo gió lớn với sức gió giật có thể đạt 60 dặm/giờ, làm tăng rủi ro các quả bóng bay biểu tượng không thể bay.",
+          "title_en": "US Court Blocks Pacific Deep-Sea Mining Plans in Second Legal Setback",
+          "title_vi": "Tòa án Mỹ chặn kế hoạch khai thác biển sâu tại Thái Bình Dương",
+          "summary_en": "A US federal judge has dealt a second legal blow to the Trump administration's deep-sea mining agenda in the Pacific, ruling that leasing seabed off the Northern Mariana Islands violated the Endangered Species Act. Environmental groups mounted the legal challenge over fears that seafloor extraction would inflict irreversible damage on marine ecosystems, including sea turtles. The verdict follows an earlier court ruling invalidating proposed offshore leases near American Samoa. While the US government argued extraction is essential to counter Chinese control of critical minerals, judicial enforcement of environmental protections has halted the plans.",
+          "summary_vi": "Một thẩm phán liên bang Mỹ vừa giáng đòn pháp lý thứ hai vào kế hoạch khai thác đáy biển sâu ở Thái Bình Dương của chính quyền Trump, phán quyết rằng việc cấp phép quanh quần đảo Bắc Mariana vi phạm Đạo luật Bảo vệ Động vật Nguy cấp. Các tổ chức môi trường khởi kiện vì lo ngại hoạt động nạo vét đáy biển gây hại cho rùa biển và phá hủy hệ sinh thái đại dương. Quyết định này nối tiếp phán quyết tương tự đối với vùng biển ngoài khơi American Samoa. Dù chính phủ Mỹ coi đây là cách đối phó ảnh hưởng khoáng sản của Trung Quốc, quy chuẩn bảo tồn vẫn được giữ vững.",
           "key_points_en": [
-            "A potent Nor'easter storm threatens the New York Thanksgiving Parade.",
-            "Wind gusts could potentially reach 60mph during the warning period.",
-            "Iconic balloons face the risk of being grounded due to high winds."
+            "Federal court ruled seabed leasing off Northern Mariana Islands violates wildlife law.",
+            "Decision follows a prior legal defeat regarding leases off American Samoa.",
+            "US sought seafloor minerals to counter China despite marine ecological risks."
           ],
           "key_points_vi": [
-            "Cơn bão Nor'easter mạnh đe dọa cuộc diễu hành Lễ Tạ ơn ở New York.",
-            "Sức gió giật có thể đạt tới 60 dặm/giờ trong thời gian cảnh báo.",
-            "Các quả bóng bay biểu tượng đối mặt với nguy cơ không thể bay."
+            "Tòa liên bang phán quyết việc cấp phép biển Bắc Mariana vi phạm luật bảo tồn.",
+            "Đây là thất bại pháp lý thứ hai sau phán quyết tương tự tại American Samoa.",
+            "Mỹ tìm kiếm khoáng sản biển sâu nhằm đối trọng chuỗi cung ứng của Trung Quốc."
           ],
-          "why_it_matters_en": "Severe weather events increasingly disrupt major cultural and public outdoor events.",
-          "why_it_matters_vi": "Các hiện tượng thời tiết khắc nghiệt ngày càng làm gián đoạn các sự kiện ngoài trời lớn."
+          "why_it_matters_en": "The rulings affirm rigorous environmental safeguards against commercial seafloor mining across vulnerable marine ecosystems.",
+          "why_it_matters_vi": "Phán quyết khẳng định rào cản pháp lý vững chắc bảo vệ sinh thái đại dương trước tham vọng khai thác khoáng sản dưới đáy biển."
         },
         {
-          "id": "0872c7ada75db37e",
+          "id": "7df020593feabfb4",
           "topic_id": "climate",
           "rank": 5,
-          "source_name": "AP News",
-          "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU2RIalI0Uk5GZEJzRE9PVnpTeEVtNDcxLTVXNmptVDM5ZkhNU0xycm40M3BtNWlwWHFzOUtvc3l0WWxlTm80U1RYbDVENGtoQjFnbERyMTItaTZ5bFg2YTJ4QTg3OWNXVXQ3UFJGMGhmZEpHVklzM0ltcmhiM1Foa3pZdDlSNC10UUpRb3lhQlNpUQ?oc=5",
-          "image_url": null,
-          "published_at": "2026-11-25T10:53:00+00:00",
+          "source_name": "The Guardian Climate",
+          "source_url": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
+          "image_url": "https://i.guim.co.uk/img/media/7c233d5a70f62ffe7696a2a33f2be6960a88e27a/58_0_884_707/master/884.jpg?width=140&quality=85&auto=format&fit=max&s=504521c93e59c68ac8a90ea7c953c202",
+          "published_at": "2026-11-26T21:33:36+00:00",
           "read_minutes": 1,
-          "title_en": "Pope Leo laments lack of climate commitments after UN talks end",
-          "title_vi": "Giáo hoàng Leo phàn nàn về việc thiếu cam kết khí hậu sau hội đàm Liên hợp quốc",
-          "summary_en": "Pope Leo has expressed deep concern over the lack of concrete climate commitments. This follows the conclusion of UN climate talks that ended without a formal agreement.\n\nThe disappointing outcome highlights ongoing difficulties in bridging divides among nations regarding urgent environmental action and global emissions reduction.",
-          "summary_vi": "Giáo hoàng Leo đã bày tỏ sự quan ngại sâu sắc về việc thiếu các cam kết khí hậu cụ thể. Điều này diễn ra sau khi các cuộc đàm phán khí hậu của Liên hợp quốc kết thúc mà không đạt được thỏa thuận chính thức.\n\nKết quả đáng thất vọng này làm nổi bật những khó khăn trong việc thu hẹp bất đồng giữa các quốc gia về hành động môi trường và giảm phát thải.",
+          "title_en": "Australia Warned of Heightened Bushfire and Heatwave Risks Ahead of Summer",
+          "title_vi": "Nước Úc nhận cảnh báo nguy cơ cháy rừng và sóng nhiệt gia tăng trước mùa hè",
+          "summary_en": "Emergency authorities across Australia have warned that vast expanses of the continent face elevated bushfire dangers and severe heatwaves this upcoming summer. According to seasonal projections released by fire councils, heightened risks encompass most of Victoria, eastern Tasmania, and substantial sections of New South Wales, South Australia, Western Australia, and the Northern Territory. The dangerous conditions are driven by significant fuel loads, exceptionally low soil moisture, and hot, dry weather forecasts. Fire chiefs emphasized that intense heatwaves and above-average temperatures are probable nationwide, urging vulnerable populations to prepare early.",
+          "summary_vi": "Các cơ quan khẩn cấp tại Úc vừa đưa ra cảnh báo rằng nhiều khu vực rộng lớn trên khắp lục địa sẽ đối mặt với nguy cơ cháy rừng gia tăng và sóng nhiệt gay gắt trong mùa hè tới. Theo dự báo mùa từ Hội đồng Cứu hỏa và Dịch vụ Khẩn cấp, nguy cơ cháy rừng đe dọa hầu hết bang Victoria, phía đông Tasmania cùng nhiều phần thuộc New South Wales, Nam Úc, Tây Úc và Lãnh thổ phía Bắc. Tình trạng này bắt nguồn từ thảm thực vật tích tụ dày, độ ẩm đất thấp và dự báo khô hạn kéo dài. Giới chức cảnh báo nhiệt độ cao kỷ lục có thể bao trùm khắp toàn quốc.",
           "key_points_en": [
-            "Pope Leo lamented the absence of solid climate commitments.",
-            "The remarks follow UN climate talks concluding without an agreement.",
-            "The outcome reflects ongoing global divisions on environmental action."
+            "Elevated fire threat spans Victoria, Tasmania, NSW, SA, WA, and the Northern Territory.",
+            "Dry soils, heavy fuel accumulation, and high temperatures amplify wildfire risks.",
+            "Severe heatwaves are projected across most of Australia during the summer season."
           ],
           "key_points_vi": [
-            "Giáo hoàng Leo phàn nàn về việc thiếu các cam kết khí hậu vững chắc.",
-            "Phát biểu đưa ra sau khi đàm phán của LHQ kết thúc không có thỏa thuận.",
-            "Kết quả phản ánh sự chia rẽ toàn cầu về hành động bảo vệ môi trường."
+            "Nguy cơ cháy rừng tăng cao tại Victoria, Tasmania, New South Wales và Nam Úc.",
+            "Độ ẩm đất thấp kết hợp thảm thực vật khô làm tăng nguy cơ bùng phát hỏa hoạn.",
+            "Các đợt sóng nhiệt gay gắt được dự báo xuất hiện trên diện rộng khắp nước Úc."
           ],
-          "why_it_matters_en": "Moral voices like Pope Leo pressure world leaders to overcome political gridlock at climate summits.",
-          "why_it_matters_vi": "Tiếng nói đạo đức thúc đẩy các nhà lãnh đạo thế giới vượt qua bế tắc chính trị tại các hội nghị."
+          "why_it_matters_en": "Compound climate extremes of heat and fire threaten biodiversity, agricultural yield, and community infrastructure in Australia.",
+          "why_it_matters_vi": "Tổ hợp nhiệt độ cực đoan và cháy rừng đe dọa an toàn cộng đồng, đa dạng sinh học và hạ tầng kinh tế của Úc."
+        },
+        {
+          "id": "85c0dd2f5baf8d1a",
+          "topic_id": "climate",
+          "rank": 6,
+          "source_name": "BBC Science & Environment",
+          "source_url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
+          "published_at": "2026-11-27T00:52:11+00:00",
+          "read_minutes": 1,
+          "title_en": "Massive Thanksgiving Storm Triggers Floods and Extensive Flight Delays Across US",
+          "title_vi": "Bão lớn dịp Lễ Tạ ơn gây ngập lụt và hủy hoãn chuyến bay diện rộng tại Mỹ",
+          "summary_en": "A powerful Thanksgiving storm hammered the US Midwest and Northeast with fierce winds and heavy rain, causing major travel disruptions during one of the year's busiest periods. The extreme weather resulted in over 400 flight cancellations and more than 2,200 delays on Thursday, severely impacting travel plans for millions of holidaymakers. High coastal tides compounded flooding problems across western regions, while nearly one million households lost electrical power, with heavy outages concentrated in Pennsylvania. The Federal Aviation Administration had cautioned travelers to anticipate persistent delays throughout the week due to the severe weather front.",
+          "summary_vi": "Cơn bão mạnh dịp Lễ Tạ ơn đổ bộ khu vực Trung Tây và Đông Bắc nước Mỹ mang theo mưa lớn cùng gió giật, gây gián đoạn giao thông nghiêm trọng vào một trong những tuần lễ bận rộn nhất năm. Thời tiết cực đoan khiến hơn 400 chuyến bay bị hủy và hơn 2.200 chuyến bị trễ trong ngày thứ Năm, ảnh hưởng trực tiếp tới kế hoạch của hàng triệu hành khách. Triều cường lớn cũng gây ngập lụt tại bờ Tây, trong khi gần một triệu hộ gia đình rơi vào cảnh mất điện, đặc biệt tại bang Pennsylvania. Cơ quan Hàng không Liên bang trước đó đã cảnh báo nguy cơ chậm chuyến kéo dài.",
+          "key_points_en": [
+            "Over 400 US flights were cancelled and 2,200 delayed during Thanksgiving week.",
+            "Nearly one million homes lost power amid destructive wind and rainfall.",
+            "Coastal tides and storm surges triggered widespread flooding risks out west."
+          ],
+          "key_points_vi": [
+            "Hơn 400 chuyến bay bị hủy và 2.200 chuyến bị trễ trên khắp nước Mỹ vào thứ Năm.",
+            "Gần một triệu hộ dân mất điện do mưa bão, ảnh hưởng nặng nề ở Pennsylvania.",
+            "Triều cường kết hợp bão lớn gây ngập lụt diện rộng tại nhiều vùng ven biển phía Tây."
+          ],
+          "why_it_matters_en": "Intensified seasonal storms disrupt critical transport grids and leave millions without electricity as extreme weather events multiply.",
+          "why_it_matters_vi": "Bão mùa gia tăng cường độ làm gián đoạn hạ tầng giao thông huyết mạch và gây mất điện quy mô lớn trong bối cảnh khí hậu biến đổi."
+        },
+        {
+          "id": "f8328e1d553191db",
+          "topic_id": "climate",
+          "rank": 7,
+          "source_name": "The Guardian Climate",
+          "source_url": "https://www.theguardian.com/commentisfree/2026/nov/26/labour-mp-letter-andy-burnham-rosebank-oil-climate-crisis",
+          "image_url": "https://i.guim.co.uk/img/media/ba5262851964d5124a817774a99f5721676cee39/620_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=c14c048a666a6ee0e8fd727f539deeec",
+          "published_at": "2026-11-26T15:00:37+00:00",
+          "read_minutes": 1,
+          "title_en": "UK Labour Lawmakers Urge Rejection of Rosebank Oilfield Amid Rising Climate Toll",
+          "title_vi": "Các nghị sĩ Công đảng Anh kêu gọi dừng cấp phép mỏ dầu Rosebank",
+          "summary_en": "A coalition of nearly 100 UK Labour Members of Parliament has urged party leadership to reject development of the controversial Rosebank oilfield. Led by lawmaker Catherine Fookes, opponents argue that granting approval benefits fossil fuel majors while failing to alleviate fuel poverty for British households suffering from unaffordable energy bills. The political push highlights mounting evidence linking climate breakdown directly to domestic public health, noting that recent summer heatwaves caused over 5,000 heat-related deaths across the United Kingdom. Lawmakers insist that addressing the cost-of-living crisis requires ending fossil fuel reliance.",
+          "summary_vi": "Gần 100 nghị sĩ thuộc Công đảng Anh đã gửi thư kêu gọi giới lãnh đạo từ chối dự án khai thác mỏ dầu Rosebank đầy tranh cãi. Đại diện là nghị sĩ Catherine Fookes, các nhà lập pháp cho rằng việc phê duyệt chỉ mang lại lợi nhuận cho các tập đoàn dầu khí mà không giúp giảm hóa đơn năng lượng đắt đỏ của người dân. Căng thẳng này diễn ra trong bối cảnh các đợt sóng nhiệt mùa hè vừa qua khiến hơn 5.000 người tử vong tại Anh. Các nghị sĩ khẳng định cuộc khủng hoảng chi phí sinh hoạt và khủng hoảng khí hậu gắn liền với nhau, đòi hỏi chấm dứt sự phụ thuộc vào dầu khí.",
+          "key_points_en": [
+            "Nearly 100 Labour MPs signed a letter demanding the rejection of Rosebank oilfield.",
+            "Lawmakers argued fossil fuel expansion fails to lower domestic energy bills.",
+            "Recent UK summer heatwaves were linked to more than 5,000 heat-related deaths."
+          ],
+          "key_points_vi": [
+            "Gần 100 nghị sĩ Công đảng ký thư yêu cầu bác bỏ dự án mỏ dầu Rosebank.",
+            "Các nhà lập pháp chỉ ra việc khai thác dầu không giải quyết được hóa đơn tiền điện.",
+            "Sóng nhiệt mùa hè gần đây tại Anh có liên quan tới hơn 5.000 trường hợp tử vong."
+          ],
+          "why_it_matters_en": "Internal political battles over major oil projects reflect the growing tension between short-term energy strategies and statutory climate goals.",
+          "why_it_matters_vi": "Tranh cãi chính trị quanh các mỏ dầu lớn phản ánh mâu thuẫn giữa chiến lược năng lượng ngắn hạn và các cam kết giảm phát thải."
         }
       ]
     },
@@ -441,139 +675,269 @@
       "description_en": "Major armed conflicts, ceasefires, military shifts, and diplomacy.",
       "description_vi": "Diễn biến chiến sự, ngừng bắn, an ninh quốc tế và ngoại giao.",
       "accent_hex": "#DC2626",
-      "overview_en": "Recent updates highlight ongoing military strikes in Gaza and regional diplomatic efforts, alongside international fallout from geopolitical conflicts in Ukraine and Iran.",
-      "overview_vi": "Các thông tin mới nhất tập trung vào các cuộc tấn công quân sự tại Gaza và nỗ lực ngoại giao khu vực, bên cạnh những tranh chấp quốc tế từ xung đột ở Ukraine và Iran.",
-      "article_count": 5,
+      "overview_en": "Global tensions intensify as Ukraine prepares for imminent Russian strikes amid weapons supply strains, while Middle East hostilities expand with deadly attacks on infrastructure in Kuwait and Saudi Arabia.",
+      "overview_vi": "Căng thẳng toàn cầu leo thang khi Ukraine đối mặt nguy cơ không kích quy mô lớn từ Nga, trong khi xung đột Trung Đông lan rộng với các vụ tấn công cơ sở hạ tầng tại Kuwait và Saudi Arabia.",
+      "article_count": 10,
       "articles": [
         {
-          "id": "877fb9a402f7d231",
+          "id": "d5c8e8fedee0e916",
           "topic_id": "conflict",
           "rank": 1,
           "source_name": "BBC World News",
-          "source_url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b703/live/54fa7870-e981-11f1-99a1-253766e7ad8b.jpg",
-          "published_at": "2026-11-26T10:14:08+00:00",
+          "source_url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png",
+          "published_at": "2026-11-26T21:17:53+00:00",
           "read_minutes": 1,
-          "title_en": "Hamas official and wife among eight Palestinians killed in Israeli strikes",
-          "title_vi": "Quan chức Hamas và vợ nằm trong số tám người Palestine thiệt mạng do không kích",
-          "summary_en": "A Hamas political official and his wife were among eight Palestinians killed in three Israeli air strikes across the Gaza Strip on Thursday. Local sources reported that a residential apartment in Deir al-Balah was targeted at dawn, resulting in the death of deputy education minister Khaled Abu Nada and his wife.\n\nRescue teams and medical personnel transferred the bodies to Al-Aqsa Hospital in central Gaza and Al-Shifa Hospital in Gaza City. Israel's prime minister and defence minister stated in a joint release that the operation was targeted against militant infrastructure.",
-          "summary_vi": "Một quan chức chính trị của Hamas và vợ ông nằm trong số tám người Palestine thiệt mạng trong ba cuộc không kích của Israel trên Dải Gaza vào thứ Năm. Các nguồn tin địa phương cho biết một căn hộ dân cư ở Deir al-Balah đã bị nhắm mục tiêu vào lúc rạng sáng.\n\nCác đội cứu hộ và nhân viên y tế đã chuyển các thi thể đến Bệnh viện Al-Aqsa ở miền trung Gaza và Bệnh viện Al-Shifa ở Thành phố Gaza. Thủ tướng và Bộ trưởng Quốc phòng Israel tuyên bố trong một thông cáo chung rằng chiến dịch nhằm vào cơ sở hạ tầng quân sự.",
+          "title_en": "Strike on Rheinmetall Facility in Kuwait Kills Two Italian Workers",
+          "title_vi": "Vụ không kích nhà máy Rheinmetall ở Kuwait khiến hai người Italy thiệt mạng",
+          "summary_en": "Two Italian nationals have died following a strike on a Kuwait facility that Kuwaiti and Italian authorities attributed to Iran. The victims were technicians working for German arms manufacturing company Rheinmetall. Kuwait's defence ministry confirmed that falling shrapnel also injured four people, including a Kuwaiti and a Pakistani national. Iran has denied responsibility for the attack. Iranian Foreign Minister Abbas Araghchi stated that the incident appeared suspicious and announced that Tehran is ready to cooperate with Kuwait and Italy to investigate the cause of the explosion.",
+          "summary_vi": "Hai công dân Italy đã thiệt mạng sau một đòn tấn công nhằm vào cơ sở ở Kuwait mà chính quyền Kuwait và Italy quy trách nhiệm cho Iran. Các nạn nhân là kỹ thuật viên làm việc cho tập đoàn sản xuất vũ khí Rheinmetall của Đức. Bộ Quốc phòng Kuwait xác nhận mảnh vỡ rơi xuống cũng làm bị thương bốn người, gồm công dân Kuwait và Pakistan. Phía Iran đã phủ nhận trách nhiệm về vụ tấn công này. Ngoại trưởng Iran Abbas Araghchi nhận định sự việc có dấu hiệu đáng ngờ và cho biết Tehran sẵn sàng phối hợp cùng Kuwait và Italy để điều tra nguyên nhân.",
           "key_points_en": [
-            "A Hamas political official and his wife were killed in Deir al-Balah.",
-            "Eight Palestinians total were reported killed across three air strikes.",
-            "Bodies were transferred to hospitals in central Gaza and Gaza City."
+            "Two Italian technicians working for German arms maker Rheinmetall were killed in Kuwait.",
+            "Kuwait and Italy blamed Iran for the attack, which also injured several individuals.",
+            "Iran denied responsibility, with Foreign Minister Araghchi calling the strike suspicious."
           ],
           "key_points_vi": [
-            "Một quan chức Hamas và vợ thiệt mạng tại Deir al-Balah.",
-            "Tổng cộng có 8 người Palestine thiệt mạng trong ba cuộc không kích.",
-            "Thi thể được đưa đến các bệnh viện ở miền trung Gaza và Thành phố Gaza."
+            "Hai kỹ thuật viên Italy làm việc cho hãng vũ khí Rheinmetall của Đức thiệt mạng tại Kuwait.",
+            "Kuwait và Italy cáo buộc Iran thực hiện vụ tấn công khiến nhiều người bị thương.",
+            "Iran bác bỏ cáo buộc, Ngoại trưởng Araghchi gọi vụ việc là đáng ngờ và đề nghị điều tra."
           ],
-          "why_it_matters_en": "The high-profile casualties underscore the relentless intensity of the ongoing Gaza conflict and its devastating toll.",
-          "why_it_matters_vi": "Thương vong ở cấp độ cao nhấn mạnh cường độ khốc liệt của cuộc xung đột Gaza đang diễn ra và cái giá tàn khốc của nó."
+          "why_it_matters_en": "The deadly strike on European defense contractors in the Gulf risks drawing European nations and regional players deeper into the ongoing Middle East conflict.",
+          "why_it_matters_vi": "Cuộc tấn công gây chết người nhằm vào nhân viên quốc phòng châu Âu tại vùng Vịnh có nguy cơ kéo các nước phương Tây lún sâu hơn vào xung đột Trung Đông."
         },
         {
-          "id": "8593b0a8bee3b4f4",
+          "id": "83d5076736b9b33f",
           "topic_id": "conflict",
           "rank": 2,
           "source_name": "Al Jazeera",
-          "source_url": "https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya?traffic_source=rss",
-          "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b082eb4eac41-1795698356.jpg?resize=1920%2C1440",
-          "published_at": "2026-11-26T15:02:50+00:00",
+          "source_url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+          "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b08bc55aa9c5-1795734613.jpg?resize=1920%2C1440",
+          "published_at": "2026-11-27T02:14:25+00:00",
           "read_minutes": 1,
-          "title_en": "Italy denounces Ukraine for striking Russian ships off Libyan waters",
-          "title_vi": "Ý lên án Ukraine vì tấn công tàu Nga ngoài khơi vùng biển Libya",
-          "summary_en": "Italy has denounced Ukraine for carrying out attacks against Russian vessels in Libyan waters, stating that it was wrong to violate Libya's sovereignty. Rome's rebuke marks a notable diplomatic crack in its relationship with Kyiv.\n\nThe friction coincides with growing European concern about foreign powers operating in a divided Libya and the risk of other nations being drawn deeper into the broader Russia-Ukraine conflict.",
-          "summary_vi": "Ý đã lên án Ukraine vì tiến hành các cuộc tấn công nhằm vào các tàu Nga ở vùng biển Libya, tuyên bố rằng việc vi phạm chủ quyền của Libya là sai trái. Sự quở trách của Roma đánh dấu một vết rạn nứt ngoại giao đáng chú ý.\n\nSự căng thẳng này trùng hợp với mối lo ngại ngày càng tăng ở châu Âu về các thế lực nước ngoài hoạt động tại một Libya bị chia cắt và nguy cơ các quốc gia bị lôi kéo vào xung đột rộng lớn hơn.",
+          "title_en": "Zelenskyy Warns of Imminent Mass Russian Strike as Trump Urges Putin to Pull Back",
+          "title_vi": "Ông Zelensky cảnh báo Nga sắp không kích lớn, ông Trump kêu gọi ông Putin lùi bước",
+          "summary_en": "Ukrainian President Volodymyr Zelenskyy has warned that intelligence indicates Russia is preparing a new mass strike in the coming days. In his nightly video address, he urged citizens to heed missile sirens, marking his second such alert within a week, while vowing that Ukraine will retaliate and rebuild. Meanwhile, US President Donald Trump announced that he had personally pressed Russian President Vladimir Putin to scale back military aggression in Europe. The exchange comes amid intensifying cross-border attacks and escalating military pressure along the frontlines.",
+          "summary_vi": "Tổng thống Ukraine Volodymyr Zelensky cảnh báo thông tin tình báo cho thấy Nga đang chuẩn bị một đợt tập kích ồ ạt trong vài ngày tới. Trong bài phát biểu hàng đêm, ông kêu gọi người dân chú ý còi báo động tên lửa, đánh dấu lời cảnh báo thứ hai trong tuần, đồng thời khẳng định Ukraine sẽ trả đũa và tái thiết. Trong khi đó, Tổng thống Mỹ Donald Trump cho biết ông đã thúc giục Tổng thống Nga Vladimir Putin giảm bớt hành động quân sự tại châu Âu. Diễn biến này diễn ra giữa bối cảnh các cuộc tấn công qua lại ngày càng gia tăng.",
           "key_points_en": [
-            "Italy criticized Ukraine for targeting Russian ships in Libyan waters.",
-            "Rome argued the attacks violate Libya's sovereign integrity.",
-            "The dispute highlights fears of the war spreading to new regions."
+            "Ukrainian President Zelenskyy warned that Russia is planning a new mass missile strike in the coming days.",
+            "It represents the second alert from Kyiv this week as Zelenskyy vowed retaliation against Russian attacks.",
+            "US President Donald Trump stated he pressed Vladimir Putin to pull back military aggression in Europe."
           ],
           "key_points_vi": [
-            "Ý chỉ trích Ukraine nhắm vào tàu Nga tại vùng biển Libya.",
-            "Roma lập luận các cuộc tấn công vi phạm chủ quyền của Libya.",
-            "Tranh chấp làm nổi bật nỗi sợ chiến tranh lan rộng sang khu vực mới."
+            "Tổng thống Ukraine cảnh báo Nga đang chuẩn bị một đợt tấn công tên lửa quy mô lớn trong những ngày tới.",
+            "Đây là cảnh báo thứ hai trong tuần của Kiev, đi kèm tuyên bố Ukraine sẽ đáp trả tương xứng.",
+            "Tổng thống Mỹ Donald Trump cho biết đã kêu gọi Tổng thống Vladimir Putin thu hẹp quy mô chiến sự."
           ],
-          "why_it_matters_en": "This friction exposes potential diplomatic fractures among Western allies as the Russia-Ukraine war spills over globally.",
-          "why_it_matters_vi": "Sự ma sát này phơi bày các rạn nứt ngoại giao tiềm tàng giữa các đồng minh phương Tây khi chiến tranh Nga-Ukraine lan rộng toàn cầu."
+          "why_it_matters_en": "A renewed mass aerial assault threatens to shatter Ukraine's fragile critical infrastructure as international diplomatic pressures struggle to halt the fighting.",
+          "why_it_matters_vi": "Một đợt không kích ồ ạt mới đe dọa tàn phá hạ tầng thiết yếu của Ukraine giữa lúc các nỗ lực ngoại giao quốc tế chưa thể ngăn chặn xung đột leo thang."
         },
         {
-          "id": "60d2d37bf0cfb2af",
+          "id": "d2ed5fd38593f87e",
           "topic_id": "conflict",
           "rank": 3,
-          "source_name": "Al Jazeera",
-          "source_url": "https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff?traffic_source=rss",
-          "image_url": "https://www.aljazeera.com/wp-content/uploads/2023/11/346836E-highres-1701333865.jpg?resize=1920%2C1440",
-          "published_at": "2026-11-26T15:00:47+00:00",
+          "source_name": "BBC World News",
+          "source_url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+          "published_at": "2026-11-26T22:49:27+00:00",
           "read_minutes": 1,
-          "title_en": "UN tribunal casts doubt on evidence used to dismiss UNRWA staff",
-          "title_vi": "Tòa án Liên Hợp Quốc hoài nghi về bằng chứng sa thải nhân viên UNRWA",
-          "summary_en": "A United Nations tribunal has cast doubt on evidence used by UNRWA to dismiss staff in 2024, finding that the decision relied almost entirely on unsubstantiated Israeli allegations. UNRWA had dismissed nine employees over alleged October 7 attack ties.\n\nThe UNRWA Dispute Tribunal noted that internal investigations failed to include testimonies from the accused staff members, raising serious questions about procedural fairness and the credibility of the decision.",
-          "summary_vi": "Một tòa án của Liên Hợp Quốc đã hoài nghi về bằng chứng mà UNRWA dùng để sa thải nhân sự vào năm 2024, cho thấy quyết định này dựa gần như hoàn toàn vào các cáo buộc không có căn cứ từ Israel. UNRWA trước đó đã sa thải 9 nhân viên.\n\nTòa án Tranh chấp UNRWA lưu ý rằng các cuộc điều tra nội bộ đã bỏ qua lời khai từ các nhân viên bị buộc tội, làm dấy lên những câu hỏi nghiêm trọng về tính công bằng thủ tục.",
+          "title_en": "Zelensky Criticizes US Delays in Missile Deliveries and Questions Trump-Putin Ties",
+          "title_vi": "Ông Zelensky chỉ trích Mỹ chậm viện trợ tên lửa và hoài nghi quan hệ Trump-Putin",
+          "summary_en": "In an interview with the BBC, Ukrainian President Volodymyr Zelensky expressed deep frustration with Washington, warning that delays in receiving anti-ballistic missiles are costing Ukrainian lives. He criticized the US for focusing heavily on the Middle East while failing to exert sufficient pressure on Russia in peace negotiations. Zelensky also questioned Donald Trump's description of Vladimir Putin as a friend following an embrace posted online. The Ukrainian leader firmly stated that Putin is an aggressor and killer who cannot be considered a friend to anyone seeking peace.",
+          "summary_vi": "Trong cuộc phỏng vấn với BBC, Tổng thống Ukraine Volodymyr Zelensky bày tỏ thất vọng sâu sắc với Washington khi sự chậm trễ trong cung cấp tên lửa chống đạn đạo đang cướp đi sinh mạng người Ukraine. Ông nhận định Mỹ quá tập trung vào Trung Đông mà chưa gây đủ sức ép lên Nga trong đàm phán hòa bình. Ông Zelensky cũng bày tỏ hoài nghi khi ông Donald Trump gọi ông Vladimir Putin là bạn sau bức ảnh ôm nhau lan truyền trên mạng. Nhà lãnh đạo Ukraine nhấn mạnh ông Putin là bên gây chiến và không thể trở thành bạn bè.",
           "key_points_en": [
-            "A UN tribunal questioned the basis for dismissing UNRWA employees.",
-            "Dismissals in 2024 relied on unsubstantiated allegations.",
-            "Internal probes lacked testimonies from the accused individuals."
+            "Zelensky warned that delayed US anti-ballistic missile deliveries are actively costing Ukrainian lives.",
+            "The Ukrainian leader accused the US of prioritizing Middle East affairs over pressuring Moscow.",
+            "Zelensky called Trump's warm rhetoric toward Putin strange, branding the Russian leader a killer."
           ],
           "key_points_vi": [
-            "Tòa án LHQ đặt câu hỏi về cơ sở sa thải nhân viên UNRWA.",
-            "Việc sa thải năm 2024 dựa trên các cáo buộc không có căn cứ.",
-            "Các cuộc điều tra nội bộ thiếu lời khai từ các cá nhân bị buộc tội."
+            "Ông Zelensky cảnh báo việc Mỹ chậm chuyển giao tên lửa chống đạn đạo đang khiến Ukraine tổn thất nhân mạng.",
+            "Nhà lãnh đạo Ukraine cho rằng Mỹ quá bận tâm tới Trung Đông mà lơ là gây áp lực lên Nga.",
+            "Ông Zelensky gọi mối quan hệ Trump-Putin là kỳ lạ và nhấn mạnh Tổng thống Nga là bên gây hấn."
           ],
-          "why_it_matters_en": "The tribunal's findings challenge institutional transparency and accountability within major humanitarian operations.",
-          "why_it_matters_vi": "Những phát hiện của tòa án thách thức tính minh bạch và trách nhiệm giải trình thể chế trong các hoạt động nhân đạo lớn."
+          "why_it_matters_en": "Frictions between Kyiv and Washington over weapon supplies and diplomatic stances highlight growing vulnerability for Ukraine as frontline combat intensifies.",
+          "why_it_matters_vi": "Bất đồng giữa Kiev và Washington về viện trợ vũ khí và lập trường ngoại giao cho thấy nguy cơ ngày càng lớn đối với Ukraine trong bối cảnh chiến sự cam go."
         },
         {
-          "id": "d7bd0a1f3f0b0f8d",
+          "id": "47a654d2bb795a71",
           "topic_id": "conflict",
           "rank": 4,
           "source_name": "Al Jazeera",
-          "source_url": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
-          "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sheikh-Tamim-in-Egypt-1795704122.jpg?resize=1920%2C1440",
-          "published_at": "2026-11-26T15:45:59+00:00",
+          "source_url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+          "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b08ef9340ba-1795747731.jpg?resize=1920%2C1440",
+          "published_at": "2026-11-27T03:49:08+00:00",
           "read_minutes": 1,
-          "title_en": "Qatari and Egyptian leaders discuss Gaza ceasefire and regional security",
-          "title_vi": "Lãnh đạo Qatar và Ai Cập thảo luận về lệnh ngừng bắn Gaza và an ninh",
-          "summary_en": "Qatari Emir Sheikh Tamim bin Hamad Al Thani and Egyptian President Abdel Fattah el-Sisi have discussed regional tensions and efforts to implement a Gaza ceasefire during talks in Cairo. The meeting aimed to strengthen bilateral ties.\n\nBoth leaders focused on investment, energy cooperation, and coordinating diplomatic efforts to de-escalate ongoing conflicts across the Middle East amidst persistent instability.",
-          "summary_vi": "Quốc vương Qatar Sheikh Tamim bin Hamad Al Thani và Tổng thống Ai Cập Abdel Fattah el-Sisi đã thảo luận về căng thẳng khu vực và các nỗ lực thực hiện lệnh ngừng bắn ở Gaza. Cuộc gặp nhằm củng cố quan hệ song phương.\n\nCả hai nhà lãnh đạo tập trung vào đầu tư, hợp tác năng lượng và phối hợp ngoại giao để hạ nhiệt các cuộc xung đột đang diễn ra khắp Trung Đông giữa lúc bất ổn.",
+          "title_en": "Trump Discusses War on Iran and Minimizes Russian and Chinese Support for Tehran",
+          "title_vi": "Ông Trump đề cập cuộc chiến với Iran và đánh giá thấp sự ủng hộ của Nga, Trung Quốc",
+          "summary_en": "US President Donald Trump addressed military personnel on Thanksgiving, praising American troops for their involvement in the war against Iran. Speaking from his Mar-a-Lago estate, Trump claimed Iran possesses missiles capable of reaching Europe and warned that Tehran could launch nuclear attacks if peace is not established. Trump also downplayed the level of strategic support provided to Tehran by Russia and China. Emphasizing that the US does not rely on Middle Eastern oil, he maintained that achieving regional peace remains imperative to avert catastrophic nuclear proliferation.",
+          "summary_vi": "Tổng thống Mỹ Donald Trump đã phát biểu trước các quân nhân nhân dịp Lễ Tạ ơn, ca ngợi lực lượng Mỹ vì vai trò trong cuộc chiến chống Iran. Phát biểu từ Mar-a-Lago, ông Trump nhận định Iran sở hữu tên lửa đủ tầm bắn tới châu Âu và cảnh báo Tehran có thể tung đòn hạt nhân nếu hòa bình không được thiết lập. Ông Trump đồng thời hạ thấp mức độ ủng hộ của Nga và Trung Quốc dành cho Iran. Nhấn mạnh Mỹ không phụ thuộc vào dầu mỏ Trung Đông, ông khẳng định việc đạt được hòa bình khu vực là yêu cầu tối quan trọng.",
           "key_points_en": [
-            "Qatari Emir met with Egyptian President in Cairo.",
-            "Talks centered on a Gaza ceasefire and regional security.",
-            "Leaders also explored bilateral investment and energy cooperation."
+            "Trump praised US troops for their actions in the conflict against Iran during a Thanksgiving address.",
+            "The US president warned of Iranian missile ranges reaching Europe and risks of nuclear escalation.",
+            "Trump downplayed military and diplomatic backing for Iran from global powers Russia and China."
           ],
           "key_points_vi": [
-            "Quốc vương Qatar gặp Tổng thống Ai Cập tại Cairo.",
-            "Đàm phán tập trung vào lệnh ngừng bắn Gaza và an ninh khu vực.",
-            "Lãnh đạo hai nước cũng thảo luận về đầu tư và năng lượng."
+            "Ông Trump ca ngợi quân đội Mỹ vì vai trò trong chiến dịch quân sự đối phó với Iran dịp Lễ Tạ ơn.",
+            "Tổng thống Mỹ cảnh báo Iran có tên lửa vươn tới châu Âu và nguy cơ xảy ra tấn công hạt nhân.",
+            "Ông Trump đánh giá thấp mức độ can dự và hỗ trợ của Nga cũng như Trung Quốc dành cho Tehran."
           ],
-          "why_it_matters_en": "Regional diplomatic coordination remains crucial for brokering durable truces and stabilizing the Middle East.",
-          "why_it_matters_vi": "Sự phối hợp ngoại giao khu vực vẫn đóng vai trò quan trọng trong việc đạt được thỏa thuận đình chiến bền vững và ổn định Trung Đông."
+          "why_it_matters_en": "Rhetoric surrounding direct US engagement with Iran signals a potentially volatile new phase in Middle Eastern security and global alliances.",
+          "why_it_matters_vi": "Những phát biểu của nhà lãnh đạo Mỹ về đụng độ trực tiếp với Iran báo hiệu giai đoạn bất ổn nghiêm trọng đối với an ninh Trung Đông và các liên minh toàn cầu."
+        },
+        {
+          "id": "88315bb8ad9e3ef3",
+          "topic_id": "conflict",
+          "rank": 5,
+          "source_name": "Reuters",
+          "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnNINWJlUzU0bDVSQ1Z5TWhtZTl1dzVxa01lbWhiMTg0bjBKZzQtbld6RmpIQ3NOSkctT29wTmdmR3VCcHpMbzdBQUdQSU0wVWItQU1COHhCS1BzYnpoOTJsRzl2TWp0aVNNZWVpZVFhS2cwWXVtNnA0bzRfUXNTRTJRTEVHem5BY2V2SURxZG9Vb3VkT3FNa1RuR3RfZWJQUE15WTdGaVFudnJaeVJIdVhXdE9PcWFuY2c?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-26T20:56:28+00:00",
+          "read_minutes": 1,
+          "title_en": "Fatal Attack on Saudi Aramco Jazan Refinery Halts Industrial Operations",
+          "title_vi": "Vụ tấn công nhà máy lọc dầu Aramco ở Jazan khiến công nhân thiệt mạng, ngưng trệ sản xuất",
+          "summary_en": "An attack targeting Saudi Aramco's refinery in the city of Jazan has resulted in the death of a worker and forced a partial halt to facility operations. The facility was struck amid ongoing regional hostilities that continue to threaten critical energy infrastructure across the Middle East. Company officials and local authorities moved quickly to contain the aftermath of the strike and secure the perimeter. The disruption raises renewed concerns over stability in the Red Sea corridor and vulnerability of commercial oil production assets to hostile bombardment.",
+          "summary_vi": "Một vụ tấn công nhằm vào nhà máy lọc dầu của Saudi Aramco tại Jazan đã khiến một công nhân thiệt mạng và buộc cơ sở này phải tạm dừng một số hoạt động. Vụ việc xảy ra giữa lúc tình hình giao tranh trong khu vực leo thang, đe dọa trực tiếp đến các cơ sở hạ tầng năng lượng huyết mạch tại Trung Đông. Giới chức địa phương và ban quản lý nhà máy đã khẩn trương xử lý hậu quả vụ tấn công và tăng cường an ninh. Sự cố làm dấy lên quan ngại sâu sắc về sự an toàn của chuỗi cung ứng dầu mỏ toàn cầu.",
+          "key_points_en": [
+            "An attack on Saudi Aramco's Jazan refinery killed one worker and suspended operations.",
+            "Critical regional oil infrastructure remains vulnerable amid escalating regional combat.",
+            "Authorities implemented emergency measures to manage damage at the energy facility."
+          ],
+          "key_points_vi": [
+            "Vụ tấn công vào nhà máy lọc dầu Jazan của Aramco khiến một công nhân tử vong và đình trệ vận hành.",
+            "Hạ tầng dầu mỏ trọng yếu tại khu vực tiếp tục đứng trước rủi ro cao do xung đột leo thang.",
+            "Các lực lượng chức năng đã triển khai biện pháp khẩn cấp để kiểm soát thiệt hại tại nhà máy."
+          ],
+          "why_it_matters_en": "Direct strikes on Persian Gulf energy infrastructure threaten to disrupt global oil flows and provoke sharp market volatility worldwide.",
+          "why_it_matters_vi": "Các cuộc tấn công trực tiếp vào cơ sở hạ tầng năng lượng vùng Vịnh đe dọa làm gián đoạn dòng chảy dầu mỏ và gây chấn động thị trường năng lượng toàn cầu."
+        },
+        {
+          "id": "dc44fd12bc90ce83",
+          "topic_id": "conflict",
+          "rank": 6,
+          "source_name": "Reuters",
+          "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzFiM29KUVhvZHZUYTV1SWtlLXNYbXg3ZzRodFVmanZkNzJsczZ4UldfRkNkSW1fVDhMaTFYOW9ETUxXaXFKcktCTThoYnBYS21mVjQxYkNWM19MR1h0WHNSdjlGenRTNkExU2RKU0ZKNUhCRWR0OVU2VmFqTUJHeE5QMVNybDE4Qk1WTmp5VGgyWDV0NjhaM3h4Ulp1bWZDUThnSlI0TFMwMnQzNk5KQnZXVTRCUUxvc2FLbmlDYVREeHpwOUpV?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-26T20:56:54+00:00",
+          "read_minutes": 1,
+          "title_en": "Hamas Considers Response After Israeli Strikes Kill Ten People in Gaza",
+          "title_vi": "Hamas cân nhắc đáp trả sau khi các đòn tấn công của Israel khiến 10 người thiệt mạng ở Gaza",
+          "summary_en": "Hamas is evaluating its military response after recent Israeli operations in the Gaza Strip resulted in the deaths of at least ten people. The deadly incident follows sustained exchanges of fire that have repeatedly shattered fragile lulls in the devastated coastal enclave. The casualties have fueled heightened tensions on the ground as regional mediators attempt to prevent a wider escalation. Hamas leadership signaled that retaliation remains under active review as military groups assess their strategic options.",
+          "summary_vi": "Phong trào Hamas đang cân nhắc phản ứng sau khi các hoạt động quân sự của Israel tại Dải Gaza khiến ít nhất 10 người thiệt mạng. Đợt thương vong mới nhất diễn ra sau những màn giao tranh liên tiếp, tiếp tục đe dọa những nỗ lực duy trì tình trạng ngừng bắn mong manh tại dải đất này. Vụ tấn công làm dấy lên lo ngại về làn sóng bạo lực mới trong bối cảnh các nhà trung gian nỗ lực hạ nhiệt căng thẳng. Giới lãnh đạo Hamas cảnh báo đang xem xét kỹ lưỡng các phương án đối phó.",
+          "key_points_en": [
+            "Israeli strikes in the Gaza Strip killed at least ten people according to reports.",
+            "Hamas leadership is currently deliberating on its strategic retaliation.",
+            "The deadly episode adds pressure to strained regional diplomatic and ceasefire efforts."
+          ],
+          "key_points_vi": [
+            "Các đòn không kích của Israel tại Dải Gaza đã khiến ít nhất 10 người thiệt mạng.",
+            "Lãnh đạo Hamas đang họp bàn để đưa ra phương án trả đũa đối với vụ tấn công.",
+            "Sự cố chết người tiếp tục đặt các nỗ lực đàm phán ngừng bắn khu vực vào thế khó khăn."
+          ],
+          "why_it_matters_en": "Renewed flare-ups in Gaza risk igniting another destructive cycle of retaliation, complicating broader international efforts to broker regional truces.",
+          "why_it_matters_vi": "Các vụ bùng phát xung đột mới tại Gaza có nguy cơ kích hoạt vòng xoáy bạo lực trả đũa, cản trở mọi nỗ lực đàm phán hòa bình của cộng đồng quốc tế."
         },
         {
           "id": "72ab36f33556d9d9",
           "topic_id": "conflict",
-          "rank": 5,
+          "rank": 7,
           "source_name": "BBC World News",
           "source_url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7152/live/395fc860-e975-11f1-acd8-af22a7ebb474.jpg",
           "published_at": "2026-11-26T10:25:51+00:00",
           "read_minutes": 1,
-          "title_en": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-          "title_vi": "Myanmar từ chối tuân thủ các phần trong phán quyết diệt chủng của ICJ",
-          "summary_en": "Myanmar will not comply with inappropriate parts of the genocide ruling by the International Court of Justice, military leader Min Aung Hlaing stated. The landmark ruling found Myanmar guilty of genocide against the Rohingya minority.\n\nMin Aung Hlaing defended the military actions, claiming security forces responded legitimately to attacks by armed groups. Myanmar stands as the first state found in violation of the 1948 Genocide Convention.",
-          "summary_vi": "Myanmar sẽ không tuân thủ các phần không phù hợp trong phán quyết diệt chủng của Tòa án Công lý Quốc tế, lãnh đạo quân sự Min Aung Hlaing tuyên bố. Phán quyết lịch sử kết luận Myanmar phạm tội diệt chủng đối với người Rohingya.\n\nMin Aung Hlaing biện minh cho các hành động quân sự, cho rằng lực lượng an ninh đã phản ứng hợp pháp trước các cuộc tấn công từ nhóm vũ trang. Myanmar là quốc gia đầu tiên vi phạm Công ước Diệt chủng.",
+          "title_en": "Myanmar Junta Rejects Parts of ICJ Genocide Ruling Concerning Rohingya Crackdown",
+          "title_vi": "Chính quyền quân sự Myanmar bác bỏ một phần phán quyết diệt chủng của ICJ về người Rohingya",
+          "summary_en": "Myanmar's military ruler Min Aung Hlaing announced that the country will refuse to comply with what he termed inappropriate aspects of a landmark genocide ruling by the International Court of Justice. The UN court ruled that Myanmar committed genocide against the Rohingya minority during a 2017 campaign that left thousands dead and displaced 700,000 people. The military regime rejected the ruling, asserting that armed forces were merely reacting to attacks launched by insurgent groups. The decision marks Myanmar as the first state formally found in violation of the 1948 Genocide Convention.",
+          "summary_vi": "Nhà lãnh đạo quân sự Myanmar Min Aung Hlaing tuyên bố nước này sẽ không tuân thủ các điều khoản bị coi là không phù hợp trong phán quyết của Tòa án Công lý Quốc tế. Phán quyết mang tính bước ngoặt của ICJ kết luận Myanmar phạm tội diệt chủng đối với cộng đồng thiểu số Rohingya trong chiến dịch quân sự năm 2017 khiến hàng nghìn người chết và hơn 700.000 người phải tháo chạy. Chính quyền quân sự phủ nhận cáo buộc diệt chủng, khẳng định quân đội chỉ đáp trả các cuộc tấn công của phiến quân.",
           "key_points_en": [
-            "Myanmar rejects parts of the ICJ genocide ruling.",
-            "Military leader Min Aung Hlaing defended operations against the Rohingya.",
-            "The ICJ previously found Myanmar in violation of the 1948 convention."
+            "Myanmar leader Min Aung Hlaing rejected inappropriate parts of the ICJ genocide ruling.",
+            "The ICJ found Myanmar guilty of genocide against the Rohingya during a 2017 military crackdown.",
+            "Myanmar is the first nation found to have breached the historic 1948 Genocide Convention."
           ],
           "key_points_vi": [
-            "Myanmar bác bỏ các phần trong phán quyết diệt chủng của ICJ.",
-            "Lãnh đạo quân sự Min Aung Hlaing biện minh cho chiến dịch chống người Rohingya.",
-            "ICJ trước đó kết luận Myanmar vi phạm công ước năm 1948."
+            "Lãnh đạo quân sự Min Aung Hlaing từ chối tuân thủ các điểm không phù hợp trong phán quyết của ICJ.",
+            "Tòa án Liên Hợp Quốc phán quyết Myanmar phạm tội diệt chủng đối với người thiểu số Rohingya.",
+            "Myanmar trở thành quốc gia đầu tiên bị tuyên bố vi phạm Công ước diệt chủng năm 1948."
           ],
-          "why_it_matters_en": "Defiance of international judicial rulings undermines global accountability mechanisms for mass atrocities.",
-          "why_it_matters_vi": "Việc phớt lờ các phán quyết tư pháp quốc tế làm suy yếu cơ chế trách nhiệm giải trình toàn cầu đối với tội ác tànatrocity lớn."
+          "why_it_matters_en": "Defiance of the UN top court challenges the enforcement power of international humanitarian law and deepens the international isolation of Myanmar's military junta.",
+          "why_it_matters_vi": "Việc chính quyền quân sự khước từ phán quyết của ICJ đặt ra thách thức cho luật pháp quốc tế và khiến Myanmar ngày càng bị cô lập trên trường ngoại giao."
+        },
+        {
+          "id": "6fb76da9d599585f",
+          "topic_id": "conflict",
+          "rank": 8,
+          "source_name": "Reuters",
+          "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGZNYmhWbXVQeV9PUk1VSzhINEtld1dWWkx3TGpvR09DMnR6RkVOdVBMUlpvM0pPejg2azBRZUFDcmRrQ2x1UVd4MDZTdHlxNEpORVZnTTBnQi1FdHhyNHlKSlhDdFduc3pxa2VsbVhhaDlqVUZINXhoNE1HM0x2MFJJcXk5SFd5WUZYNFk5QW9OMmJUNXhfVWxybXdaYmFEY0otMnpXSDVjTVBqMms4SFpITnBKYkxUMzMxVTF3?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T00:01:00+00:00",
+          "read_minutes": 1,
+          "title_en": "Philippine Families Seek Justice as ICC War on Drugs Trial for Duterte Approaches",
+          "title_vi": "Thân nhân các nạn nhân Philippines tìm kiếm công lý khi phiên tòa ICC xử ông Duterte sắp diễn ra",
+          "summary_en": "Families of victims killed during the controversial Philippine war on drugs are demanding accountability as the International Criminal Court prepares to open proceedings against former President Rodrigo Duterte. Thousands of Filipinos were killed during anti-narcotics sweeps conducted under Duterte's administration. Relatives of the deceased view the impending international trial as their only remaining avenue for legal redress. Legal representatives and victims' rights advocates continue to push for international scrutiny to ensure that state-sponsored killings do not remain unpunished.",
+          "summary_vi": "Thân nhân của các nạn nhân thiệt mạng trong chiến dịch chống ma túy đẫm máu tại Philippines đang tìm kiếm công lý khi Tòa án Hình sự Quốc tế chuẩn bị mở phiên tòa xét xử cựu Tổng thống Rodrigo Duterte. Hàng nghìn người đã thiệt mạng trong các chiến dịch trấn áp mạnh tay dưới thời chính quyền ông Duterte. Gia đình các nạn nhân coi phiên tòa quốc tế sắp tới là cơ hội duy nhất để đòi lại công bằng, trong bối cảnh các tổ chức bảo vệ quyền lợi nỗ lực thúc đẩy tiến trình xét xử.",
+          "key_points_en": [
+            "Families of Philippine drug war victims are demanding justice ahead of Duterte's ICC trial.",
+            "The International Criminal Court is set to commence proceedings regarding drug war killings.",
+            "Advocates view international justice as a critical recourse for addressing state abuses."
+          ],
+          "key_points_vi": [
+            "Thân nhân các nạn nhân trong cuộc chiến chống ma túy ở Philippines đòi công lý trước phiên xử ông Duterte.",
+            "Tòa án Hình sự Quốc tế chuẩn bị mở phiên tòa xem xét trách nhiệm liên quan đến các vụ tiêu diệt nghi phạm.",
+            "Các gia đình hy vọng phiên tòa quốc tế sẽ đem lại sự trừng phạt thích đáng cho các hành vi sai phạm."
+          ],
+          "why_it_matters_en": "The impending ICC trial represents a crucial test of international judicial mechanisms in holding former national leaders accountable for widespread state violence.",
+          "why_it_matters_vi": "Phiên tòa ICC sắp tới là phép thử quan trọng đối với khả năng của tư pháp quốc tế trong việc quy trách nhiệm cho các cựu nguyên thủ quốc gia về các tội ác bạo lực."
+        },
+        {
+          "id": "45f977e0aca06d82",
+          "topic_id": "conflict",
+          "rank": 9,
+          "source_name": "Al Jazeera",
+          "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
+          "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740363.jpg?resize=1920%2C1080&quality=80",
+          "published_at": "2026-11-27T00:46:19+00:00",
+          "read_minutes": 1,
+          "title_en": "Severe Power and Water Shortages Grip Kyiv Amid Ongoing Russian Bombardment",
+          "title_vi": "Tình trạng cắt điện và thiếu nước nghiêm trọng bủa vây Kiev do chiến sự kéo dài",
+          "summary_en": "Residents in Ukraine's capital of Kyiv are facing relentless electricity and water shortages as the ongoing conflict with Russia continues to devastate the nation's energy grid. Businesses and households have been forced to rely heavily on fuel-powered generators to maintain basic operations whenever the central grid fails. The systemic breakdown of municipal utilities has become a defining aspect of daily life for millions across the country. Local authorities and utility teams work constantly to repair damage, yet repeated bombardment leaves power supplies highly unstable.",
+          "summary_vi": "Người dân thủ đô Kiev của Ukraine đang phải đối mặt với tình trạng mất điện và thiếu nước sinh hoạt triền miên do cuộc chiến với Nga tàn phá nặng nề mạng lưới năng lượng. Các doanh nghiệp và hộ gia đình buộc phải sử dụng máy phát điện chạy nhiên liệu để duy trì sinh hoạt cơ bản mỗi khi mất điện. Sự gián đoạn nghiêm trọng của các dịch vụ công cộng thiết yếu đã trở thành một phần quen thuộc trong đời sống hàng ngày của người dân giữa mùa đông khắc nghiệt.",
+          "key_points_en": [
+            "Electricity and water shortages have become daily realities across Ukraine's capital city.",
+            "Local businesses and civilians are increasingly dependent on generators to cope with power cuts.",
+            "Continual targeting of energy infrastructure maintains severe pressure on Ukraine's utility network."
+          ],
+          "key_points_vi": [
+            "Mất điện và thiếu nước sạch đã trở thành thực tế hàng ngày đối với người dân thủ đô Kiev.",
+            "Các cơ sở kinh doanh và người dân phải phụ thuộc vào máy phát điện khi lưới điện trung tâm gặp sự cố.",
+            "Các cuộc tấn công liên tục vào hạ tầng năng lượng tiếp tục gây áp lực khổng lồ lên hệ thống dân sinh."
+          ],
+          "why_it_matters_en": "Russia's systematic campaign against Ukraine's civil energy grid aims to exhaust civilian resilience and paralyze the country's wartime economy.",
+          "why_it_matters_vi": "Chiến dịch nhằm vào hạ tầng năng lượng của Ukraine gây khủng hoảng nhân đạo sâu sắc, đe dọa làm suy kiệt sức chống chịu của dân thường giữa thời chiến."
+        },
+        {
+          "id": "540f2dd06649192c",
+          "topic_id": "conflict",
+          "rank": 10,
+          "source_name": "Reuters",
+          "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjY3Sm9MUkZXUEQyNDc3MFdwRlFBaWcyWkpxbDRYT21RVFYySkgtUm9WeFNFb1lZUU9lM1BqbDBWLW5VLW9PR1ZvMjFxVHZNX2Q2b01rNXdVQUJIYmZ5ZHd4eEI1RkI3dlctelgwODgwczQta2ZWZEpDU2Jwa29MT21ZMlJ1clVNMkM0?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T00:35:00+00:00",
+          "read_minutes": 1,
+          "title_en": "Trump States Russian President Vladimir Putin Is Welcome to Attend G20 Summit",
+          "title_vi": "Ông Trump tuyên bố Tổng thống Nga Vladimir Putin có thể tham dự hội nghị G20 nếu muốn",
+          "summary_en": "US President Donald Trump stated that Russian President Vladimir Putin is welcome to participate in the upcoming G20 summit if he chooses to attend. The remarks reflect Trump's continuous emphasis on maintaining direct personal diplomacy with Moscow despite ongoing Western efforts to isolate the Russian government. Western allies have consistently pushed to exclude Russia from major multilateral platforms following its invasion of Ukraine. Trump's openness to Putin's presence highlights an ongoing divergence between Washington's emerging diplomatic stance and the consensus of traditional European allies.",
+          "summary_vi": "Tổng thống Mỹ Donald Trump tuyên bố Tổng thống Nga Vladimir Putin có thể tham dự hội nghị thượng đỉnh G20 sắp tới nếu nhà lãnh đạo Nga mong muốn. Tuyên bố này phản ánh lập trường cởi mở của ông Trump trong ngoại giao trực tiếp với Moscow, bất chấp nỗ lực của nhiều nước phương Tây nhằm cô lập Nga trên trường quốc tế. Các đồng minh châu Âu trước nay luôn phản đối sự xuất hiện của Nga tại các diễn đàn đa phương cấp cao kể từ khi chiến sự Ukraine bùng nổ.",
+          "key_points_en": [
+            "Donald Trump indicated that Vladimir Putin is free to attend the G20 summit if he desires.",
+            "The statement contrasts with broader Western policies aimed at isolating the Kremlin diplomatically.",
+            "Multilateral attendance by Russia remains a deeply divisive issue among international leaders."
+          ],
+          "key_points_vi": [
+            "Ông Donald Trump cho biết ông Vladimir Putin hoàn toàn có thể tới dự hội nghị thượng đỉnh G20 nếu muốn.",
+            "Tuyên bố này đi ngược lại nỗ lực của các đồng minh phương Tây nhằm cô lập ngoại giao với Nga.",
+            "Việc Nga tham gia các diễn đàn đa phương vẫn là chủ đề gây tranh cãi gay gắt trong cộng đồng quốc tế."
+          ],
+          "why_it_matters_en": "A potential reintegration of Russia into major multilateral diplomatic summits like the G20 could fracture coordinated Western pressure against Moscow.",
+          "why_it_matters_vi": "Khả năng Nga tái xuất hiện tại các hội nghị thượng đỉnh lớn như G20 có nguy cơ làm rạn nứt mặt trận ngoại giao chung của phương Tây đối với Moscow."
         }
       ]
     }
