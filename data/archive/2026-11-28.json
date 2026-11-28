@@ -1,0 +1,1023 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T04:23:46.803857+00:00",
+  "max_articles_per_topic": 10,
+  "total_articles": 37,
+  "topics": [
+    {
+      "id": "ai",
+      "name_en": "AI & Tech",
+      "name_vi": "Trí tuệ nhân tạo",
+      "description_en": "Frontier models, AI research, chips, and global regulation.",
+      "description_vi": "Mô hình AI mới, nghiên cứu, bán dẫn và chính sách toàn cầu.",
+      "accent_hex": "#2563EB",
+      "overview_en": "Today's tech digest highlights major AI industry legal disputes, breakthrough photonic hardware, regulatory calls regarding self-improving AI, and strategic defense software adoption.",
+      "overview_vi": "Điểm tin công nghệ hôm nay nổi bật với các tranh chấp pháp lý trong ngành AI, phần cứng quang học đột phá, lời kêu gọi quản lý AI tự cải thiện và hợp đồng phần mềm quốc phòng chiến lược.",
+      "article_count": 9,
+      "articles": [
+        {
+          "id": "37cd374fc0fa7d43",
+          "topic_id": "ai",
+          "rank": 1,
+          "source_name": "Reuters",
+          "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T23:00:08+00:00",
+          "read_minutes": 1,
+          "title_en": "OpenAI Counterclaims Against Apple Over Trade Secrets",
+          "title_vi": "OpenAI Đệ Đơn Kiện Ngược Apple Về Hành Vi Trộm Bí Mật Thương Mại",
+          "summary_en": "OpenAI has filed a countersuit against Apple, accusing the tech giant of stealing proprietary trade secrets. The legal action escalates tension between two of the most influential players in the artificial intelligence and consumer technology sectors. This legal battle marks a dramatic shift in relations as both companies compete fiercely for control over next-generation AI integrations and intellectual property rights across enterprise and consumer markets.",
+          "summary_vi": "OpenAI đã chính thức đệ đơn kiện ngược Apple, cáo buộc tập đoàn công nghệ này đánh cắp các bí mật thương mại độc quyền. Hành động pháp lý này làm gia tăng căng thẳng giữa hai thực thể ảnh hưởng hàng đầu trong lĩnh vực trí tuệ nhân tạo và công nghệ tiêu dùng. Cuộc chiến pháp lý này đánh dấu sự thay đổi lớn trong mối quan hệ khi cả hai công ty đang cạnh tranh gay gắt để giành quyền kiểm soát việc tích hợp AI thế hệ mới cùng các quyền sở hữu trí tuệ liên quan.",
+          "key_points_en": [
+            "OpenAI countersues Apple over alleged theft of trade secrets.",
+            "The lawsuit escalates high-stakes tension between the two tech giants.",
+            "The dispute focuses on proprietary AI technology and intellectual property."
+          ],
+          "key_points_vi": [
+            "OpenAI kiện ngược Apple vì cáo buộc trộm bí mật thương mại.",
+            "Vụ kiện làm gia tăng căng thẳng pháp lý giữa hai gã khổng lồ công nghệ.",
+            "Tranh chấp tập trung vào công nghệ AI độc quyền và sở hữu trí tuệ."
+          ],
+          "why_it_matters_en": "A legal rift between OpenAI and Apple could reshape corporate alliances and intellectual property standards across the AI industry.",
+          "why_it_matters_vi": "Mâu thuẫn pháp lý giữa OpenAI và Apple có thể làm thay đổi các liên minh doanh nghiệp và tiêu chuẩn sở hữu trí tuệ trong ngành AI."
+        },
+        {
+          "id": "f01b531fab53cd44",
+          "topic_id": "ai",
+          "rank": 2,
+          "source_name": "WIRED",
+          "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQVowbW05d25XUFpMQlA4c1lmaHdCUktmWHhMWkNqNW4xSnMwZWtEc0FtZDM0RFh5MW9HSWxNRDVIMGZzdjQyaXdxM2ozWjVOeEZFaUZvZ3dTeDN0ZTh0TjROVGpDVGZGSThTOHZlbFRkYnhPVkNrZFJVbUtqQ19yc1FQUC1HbUxHT2pzcg?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T07:00:00+00:00",
+          "read_minutes": 1,
+          "title_en": "New Photonic Chips Run AI Models Using Light Waves",
+          "title_vi": "Dòng Chip Mới Chạy Mô Hình AI Bằng Sóng Ánh Sáng",
+          "summary_en": "Researchers and hardware developers have introduced a novel category of microchips that process artificial intelligence workloads using light waves rather than traditional electrical signals. This optical approach aims to drastically improve processing speeds and energy efficiency. By leveraging photonics, these innovative processors could help resolve major computational bottlenecks currently faced by massive AI models, paving the way for faster and more sustainable computing infrastructure.",
+          "summary_vi": "Các nhà nghiên cứu và phát triển phần cứng vừa giới thiệu dòng vi chip mới xử lý khối lượng công việc AI bằng sóng ánh sáng thay vì tín hiệu điện truyền thống. Phương pháp quang học này hướng tới việc nâng cao tốc độ xử lý và hiệu suất năng lượng. Bằng cách tận dụng công nghệ quang học, các bộ xử lý tiên tiến này có thể giúp giải quyết các điểm nghẽn tính toán lớn mà các mô hình AI khổng lồ đang gặp phải, mở ra đường cho hạ tầng máy tính nhanh và bền vững hơn.",
+          "key_points_en": [
+            "New optical chips execute AI processing tasks using light waves.",
+            "Technology promises significantly higher speed and reduced power consumption.",
+            "Photonic hardware could relieve bandwidth bottlenecks in AI compute centers."
+          ],
+          "key_points_vi": [
+            "Chip quang học mới thực hiện các tác vụ AI bằng sóng ánh sáng.",
+            "Công nghệ hứa hẹn tăng tốc độ tính toán và giảm mức tiêu thụ điện năng.",
+            "Phần cứng quang học giúp khắc phục điểm nghẽn băng thông ở các trung tâm AI."
+          ],
+          "why_it_matters_en": "Optical AI chips represent a potential paradigm shift in hardware design to meet the soaring energy demands of AI models.",
+          "why_it_matters_vi": "Chip AI quang học đại diện cho bước ngoặt tiềm năng trong thiết kế phần cứng nhằm đáp ứng nhu cầu năng lượng tăng vọt của các mô hình AI."
+        },
+        {
+          "id": "56eae75c03cc5c4b",
+          "topic_id": "ai",
+          "rank": 3,
+          "source_name": "Nature",
+          "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84ak00a1pHdDRMNTBKMHEtRm9RN2t2TXFld04yY25aQmNON1BfVFhVVmp5RVMzSkZSVHhXUno1SmdyYl9NWDNoZk9Ba3p0OXF5UU5fOTJVa2ZaN1V6OS1F?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T10:17:55+00:00",
+          "read_minutes": 1,
+          "title_en": "Nature Article Calls for Ban on Self-Improving AI",
+          "title_vi": "Tạp Chí Nature Kêu Gọi Quốc Hội Mỹ Cấm AI Tự Cải Thiện",
+          "summary_en": "A perspective published in Nature argues that the incoming US Congress should enact a prohibition on the development of self-improving artificial intelligence systems. Experts express concerns over potential risks associated with recursive self-enhancement. The authors urge lawmakers to institute preventive regulatory boundaries before autonomous AI systems surpass human ability to safely monitor and control their evolution.",
+          "summary_vi": "Một bài viết trên tạp chí Nature lập luận rằng Quốc hội Mỹ khóa mới nên ban hành lệnh cấm phát triển các hệ thống trí tuệ nhân tạo có khả năng tự cải thiện. Các chuyên gia bày tỏ lo ngại về những rủi ro đi kèm với việc tự nâng cấp đệ quy. Các tác giả kêu gọi giới lập pháp thiết lập các ranh giới pháp lý phòng ngừa trước khi các hệ thống AI tự chủ vượt quá khả năng giám sát và kiểm soát an toàn của con người.",
+          "key_points_en": [
+            "Experts urge the US Congress to ban self-improving AI development.",
+            "Concerns center on recursive self-enhancement exceeding human oversight.",
+            "Proposals advocate strict statutory safeguards for advanced autonomous AI."
+          ],
+          "key_points_vi": [
+            "Chuyên gia kêu gọi Quốc hội Mỹ cấm phát triển AI tự cải thiện.",
+            "Lo ngại tập trung vào việc AI tự nâng cấp đệ quy vượt kiểm soát của con người.",
+            "Đề xuất kiến nghị lập rào cản pháp lý nghiêm ngặt cho AI tự chủ."
+          ],
+          "why_it_matters_en": "Proactive governance of autonomous self-improving AI could establish critical global precedents for safety and ethical alignment.",
+          "why_it_matters_vi": "Việc quản trị chủ động AI tự cải thiện có thể tạo ra tiền lệ toàn cầu quan trọng cho sự an toàn và chuẩn mực đạo đức."
+        },
+        {
+          "id": "fb4d2792318d8016",
+          "topic_id": "ai",
+          "rank": 4,
+          "source_name": "Reuters",
+          "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcE9acGJ4ZnNpRGhDSXVvN1lpUWNyQTlJalVfQ25acTN3Q0JuTW9ydHFPb3paNUx4MEQxQUhpSnVfV0xwaEVvblo3NG8xOGtMZHlLdEs0Qi1iSGVhM1RYcVg4ZlhjU0VfYW9ReFk2cU1DdXVWMzVweElzQjkyN0ZZUFZjTDNaZmk4TF9jTnhGZDVDRnRuVWxaaUhxckxQTEJQYVJmTERxRFlGaFpNSGc?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T14:48:10+00:00",
+          "read_minutes": 1,
+          "title_en": "Poland Signs $300 Million Defense Deal with Palantir",
+          "title_vi": "Ba Lan Ký Hợp Đồng Công Nghệ 300 Triệu USD Với Palantir",
+          "summary_en": "Poland has finalized a five-year contract valued at $300 million with data analytics and AI software provider Palantir. The deal underscores European nations' expanding investment in advanced software architecture for defense and national security. Under the multi-year agreement, Palantir will supply enterprise data integration and analytics tools to bolster Poland's strategic digital capabilities and operational decision-making framework.",
+          "summary_vi": "Ba Lan đã hoàn tất hợp đồng 5 năm trị giá 300 triệu USD với nhà cung cấp phần mềm phân tích dữ liệu và AI Palantir. Thỏa thuận này nhấn mạnh sự gia tăng đầu tư của các quốc gia châu Âu vào kiến trúc phần mềm tiên tiến cho quốc phòng. Theo thỏa thuận nhiều năm này, Palantir sẽ cung cấp các công cụ phân tích và tích hợp dữ liệu doanh nghiệp nhằm củng cố năng lực số chiến lược và khung ra quyết định vận hành của Ba Lan.",
+          "key_points_en": [
+            "Poland awards Palantir a $300 million contract over five years.",
+            "The agreement enhances national defense and data analytical infrastructure.",
+            "Highlights growing government adoption of commercial AI software tools."
+          ],
+          "key_points_vi": [
+            "Ba Lan trao cho Palantir hợp đồng 300 triệu USD trong 5 năm.",
+            "Thỏa thuận củng cố hạ tầng quốc phòng và phân tích dữ liệu quốc gia.",
+            "Cho thấy xu hướng chính phủ tăng cường ứng dụng công cụ AI thương mại."
+          ],
+          "why_it_matters_en": "Large-scale state contracts reflect the accelerating integration of AI software into national defense and geopolitical security strategies.",
+          "why_it_matters_vi": "Các hợp đồng nhà nước quy mô lớn phản ánh sự tích hợp nhanh chóng của phần mềm AI vào chiến lược an ninh và quốc phòng quốc gia."
+        },
+        {
+          "id": "2050d0a3fc444db5",
+          "topic_id": "ai",
+          "rank": 5,
+          "source_name": "CNBC",
+          "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcGVpMG9hdjAtT3RHYnpST1ZxNXBOd25ROXdNZWx0WXhwOVlETDdhUklOeDZvOHR5ZzZQd3RoNk8wRVBnc1VRNzdIQk0xSTZmWjlnZDAwOFV5Sk56MFlxbFVSV0NZVXNCbkJ2MlR4TE5kdDAyMW5qelFBLWNyb1Y1ZW5HQXVzNDhRWW1obG55R0Vrb3ZpYjF2ajBDaUFCZUhscDQ1VW5iTFpfeHNoeHVHSkstbk53RXV5ZjBBQ2JpMU0?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T18:46:20+00:00",
+          "read_minutes": 1,
+          "title_en": "Nvidia CEO Return Fails to Calm Wall Street AI Jitters",
+          "title_vi": "Sự Trở Lại Của CEO Nvidia Chưa Thể Làm Dịu Nỗi Lo Về AI",
+          "summary_en": "Statements and public appearances by Nvidia CEO Jensen Huang did little to alleviate financial market concerns surrounding AI sector valuations and demand sustainability. Investors remain cautious despite ongoing capital spending in tech. Financial analysts noted that market weakness presented buying opportunities for select institutional funds, even as overall tech equities experience heightened volatility.",
+          "summary_vi": "Các phát biểu và sự xuất hiện của CEO Nvidia Jensen Huang chưa thể làm dịu bớt lo ngại của thị trường tài chính về định giá và tính bền vững của nhu cầu trong ngành AI. Giới đầu tư vẫn thận trọng dù chi tiêu vốn công nghệ vẫn lớn. Các phân tích tài chính chỉ ra rằng sự sụt giảm của thị trường đã tạo ra cơ hội mua vào cho một số quỹ đầu tư, ngay cả khi cổ phiếu công nghệ nói chung biến động mạnh.",
+          "key_points_en": [
+            "Jensen Huang's comments failed to ease investor anxiety over AI stocks.",
+            "Market participants debate sustainability of high hardware capital spending.",
+            "Some funds utilized valuation weakness to acquire tech positions."
+          ],
+          "key_points_vi": [
+            "Phát biểu của Jensen Huang chưa làm dịu nỗi lo của nhà đầu tư cổ phiếu AI.",
+            "Giới thị trường tranh luận về độ bền vững của chi tiêu vốn phần cứng.",
+            "Một số quỹ đã tận dụng đợt giảm giá để mua thêm cổ phiếu công nghệ."
+          ],
+          "why_it_matters_en": "Fluctuations in AI market sentiment reflect broader debate over ROI on massive infrastructure investments.",
+          "why_it_matters_vi": "Sự biến động trong tâm lý thị trường AI phản ánh cuộc tranh luận rộng hơn về hiệu quả đầu tư vào hạ tầng khổng lồ."
+        },
+        {
+          "id": "8aa0dd1bba779cd7",
+          "topic_id": "ai",
+          "rank": 6,
+          "source_name": "The Verge AI",
+          "source_url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04405_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+          "published_at": "2026-11-27T14:00:00+00:00",
+          "read_minutes": 1,
+          "title_en": "Android Vibe-Coding Enables Custom DIY Mobile Widgets",
+          "title_vi": "Trào Lưu Vibe-Coding Trên Android Cho Phép Tự Tạo Widget",
+          "summary_en": "New generative AI tooling on Android allows users to quickly craft personalized mobile widgets via lightweight 'vibe-coding'. This approach lets non-developers generate functional screen tools like transit trackers without traditional coding. While the created widgets offer practical glanceable information, experts note that expectations should be kept realistic regarding complex functionality and long-term app integration.",
+          "summary_vi": "Các công cụ AI tạo sinh mới trên Android cho phép người dùng nhanh chóng tạo ra các widget di động cá nhân hóa thông qua phương pháp 'vibe-coding'. Cách tiếp cận này giúp người không chuyên tạo công cụ màn hình tiện ích như theo dõi xe buýt mà không cần lập trình. Dù các widget tự tạo cung cấp thông tin nhanh chóng và hữu ích, các chuyên gia lưu ý người dùng nên giữ kỳ vọng thực tế về các tính năng phức tạp và khả năng tích hợp ứng dụng lâu dài.",
+          "key_points_en": [
+            "Android users leverage AI vibe-coding to build custom home screen widgets.",
+            "Enables quick creation of simple utilities like real-time transit status.",
+            "Demonstrates practical consumer applications of generative AI coding."
+          ],
+          "key_points_vi": [
+            "Người dùng Android dùng AI vibe-coding để tự tạo widget màn hình chính.",
+            "Cho phép tạo nhanh các tiện ích đơn giản như theo dõi lịch trình xe buýt.",
+            "Minh họa ứng dụng thực tế của AI tạo sinh trong lập trình cho người dùng."
+          ],
+          "why_it_matters_en": "Consumer AI coding tools lower barriers for software customization, making personalized UI creation accessible to everyday users.",
+          "why_it_matters_vi": "Các công cụ lập trình AI cho người tiêu dùng hạ thấp rào cản tùy biến phần mềm, giúp việc tạo giao diện cá nhân hóa trở nên dễ tiếp cận."
+        },
+        {
+          "id": "117985ec8bf25c59",
+          "topic_id": "ai",
+          "rank": 7,
+          "source_name": "Nature",
+          "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoT21EMm5ndWpHWDM2R212LXhZRUJtVGszTkVRaGNLWUplZFpzR3oxQWFrQ2dCNnRTRklhZjQ4eGtkVlJ6OU1md3cwU1ROQUJ4UTF6NGZxanY3OFQ3OHFJ?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T08:53:28+00:00",
+          "read_minutes": 1,
+          "title_en": "Study Compares Attention, CNN, and SSM AI Architectures",
+          "title_vi": "Nghiên Cứu So Sánh Các Kiến Trúc AI Attention, CNN và SSM",
+          "summary_en": "A research paper published in Nature analyzes performance trade-offs between Attention mechanisms, Convolutional Neural Networks (CNNs), and State Space Models (SSMs) in multi-domain image recognition tasks. The comparative evaluation highlights how emerging architectural paradigms like SSMs offer computational efficiency improvements over standard Transformers when processing complex visual datasets.",
+          "summary_vi": "Một nghiên cứu đăng trên tạp chí Nature phân tích các điểm đánh đổi hiệu năng giữa cơ chế Attention, Mạng Nơ-ron Cuộn (CNN) và Mô hình Không gian Trạng thái (SSM) trong các tác vụ nhận dạng hình ảnh đa miền. Đánh giá so sánh làm nổi bật cách các mô hình kiến trúc mới nổi như SSM mang lại cải tiến về hiệu suất tính toán so với mô hình Transformer tiêu chuẩn khi xử lý dữ liệu thị giác phức tạp.",
+          "key_points_en": [
+            "Research evaluates Attention, CNNs, and SSMs for visual recognition.",
+            "State Space Models present promising computational efficiency gains.",
+            "Comparative benchmarks guide future architecture choices for computer vision."
+          ],
+          "key_points_vi": [
+            "Nghiên cứu đánh giá Attention, CNN và SSM cho nhận dạng thị giác.",
+            "Mô hình Không gian Trạng thái (SSM) mang lại hiệu quả tính toán triển vọng.",
+            "Các mốc so sánh giúp định hướng lựa chọn kiến trúc cho thị giác máy tính."
+          ],
+          "why_it_matters_en": "Architectural innovations beyond standard Transformers are critical to making vision models faster and less resource-intensive.",
+          "why_it_matters_vi": "Các đổi mới kiến trúc vượt ra ngoài Transformer tiêu chuẩn là yếu tố then chốt giúp mô hình thị giác nhanh hơn và tốn ít tài nguyên hơn."
+        },
+        {
+          "id": "5c5a8603919297f4",
+          "topic_id": "ai",
+          "rank": 8,
+          "source_name": "MIT Technology Review",
+          "source_url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+          "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MITcarscams.jpg?w=840",
+          "published_at": "2026-11-27T13:00:00+00:00",
+          "read_minutes": 1,
+          "title_en": "MIT Tech Review Opens Nominations for Innovators Under 35",
+          "title_vi": "MIT Tech Review Mở Đợt Đề Cử Cho Giải Thưởng Innovators Under 35",
+          "summary_en": "MIT Technology Review has officially opened global nominations for its 2027 Innovators Under 35 competition. The annual program recognizes young researchers, inventors, and entrepreneurs developing solutions to pressing global challenges. Eligible candidates must be under 35 years old by October 1, 2027, with achievements spanning fields from artificial intelligence and biotechnology to renewable energy and advanced computing.",
+          "summary_vi": "MIT Technology Review đã chính thức mở đợt đề cử toàn cầu cho cuộc thi Innovators Under 35 năm 2027. Chương trình thường niên này tôn vinh các nhà nghiên cứu, nhà sáng chế và doanh nhân trẻ đang phát triển giải pháp cho các thách thức lớn của thế giới. Ứng viên hợp lệ phải dưới 35 tuổi tính đến ngày 1 tháng 10 năm 2027, có thành tựu trải dài từ trí tuệ nhân tạo, công nghệ sinh học đến năng lượng tái tạo và tính toán tiên tiến.",
+          "key_points_en": [
+            "MIT Technology Review opens 2027 Innovators Under 35 nominations.",
+            "Recognizes global innovators under age 35 in tech and science.",
+            "Honors breakthroughs addressing critical societal and scientific problems."
+          ],
+          "key_points_vi": [
+            "MIT Tech Review mở đợt đề cử giải Innovators Under 35 năm 2027.",
+            "Tôn vinh các nhà đổi mới dưới 35 tuổi trên toàn cầu trong khoa học công nghệ.",
+            "Ghi nhận các đột phá giải quyết những thách thức quan trọng của xã hội."
+          ],
+          "why_it_matters_en": "The award highlights rising global talent driving transformative breakthroughs across tech, AI, and scientific research.",
+          "why_it_matters_vi": "Giải thưởng tôn vinh những tài năng trẻ toàn cầu đang thúc đẩy các đột phá biến đổi trong công nghệ, AI và nghiên cứu khoa học."
+        },
+        {
+          "id": "5102b2f768922e3c",
+          "topic_id": "ai",
+          "rank": 9,
+          "source_name": "CNBC",
+          "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUVYxUThJVkFQbnlISzZ1eC1SV0c5YWZjbWwxN2hPam1iTDhMbjRRWW1wU01XTDJQTnYzakM3R2xfX0dMV0ZhQ01icUJsbHJmWEFOeklaWUlIU1dfSFdWejNvRWxiN01WSXpiUE5KSG94THI4dHNMVURfb1lNbEZTX00zdmMxdWU5ckp0eEVCellMWEZ4Rk1Qb21DTzczeU42SVNXazl1cDcxX3MtOUppYWktakphUDNlbmQ3U2Zzb2I3ZFNQa01FZmdQSGpWMDRtVWhjUENR?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T14:41:55+00:00",
+          "read_minutes": 1,
+          "title_en": "Analyst Questions SpaceX's Terrestrial Wireless Potential",
+          "title_vi": "Chuyên Gia Nghi Ngờ Khả Năng SpaceX Cạnh Tranh Mạng Di Động",
+          "summary_en": "Telecom analyst Craig Moffett has expressed skepticism regarding narratives framing SpaceX as a major future competitor in terrestrial wireless services. The comments highlight doubts about satellite direct-to-cell deployment economics. While low-Earth orbit satellite constellations continue to expand, industry experts point out physical and capacity limitations when competing directly with dense ground-based cellular networks.",
+          "summary_vi": "Nhà phân tích viễn thông Craig Moffett đã bày tỏ sự hoài nghi đối với nhận định cho rằng SpaceX sẽ là đối thủ cạnh tranh lớn trong dịch vụ di động mặt đất. Nhận định này nhấn mạnh những nghi vấn về hiệu quả kinh tế của mô hình kết nối vệ tinh trực tiếp tới điện thoại. Dù các chòm sao vệ tinh tầm thấp tiếp tục mở rộng, các chuyên gia ngành chỉ ra những giới hạn về vật lý và dung lượng khi cạnh tranh trực tiếp với mạng tế bào mặt đất dày đặc.",
+          "key_points_en": [
+            "Analyst Craig Moffett disputes SpaceX's impact on terrestrial wireless.",
+            "Questions arise over technical and capacity limits of satellite mobile delivery.",
+            "Ground cellular infrastructure retains significant speed and capacity advantages."
+          ],
+          "key_points_vi": [
+            "Chuyên gia Craig Moffett hoài nghi tác động của SpaceX tới di động mặt đất.",
+            "Đặt ra câu hỏi về giới hạn kỹ thuật và dung lượng của kết nối vệ tinh di động.",
+            "Hạ tầng di động mặt đất vẫn duy trì lợi thế vượt trội về tốc độ và dung lượng."
+          ],
+          "why_it_matters_en": "The debate underscores realistic boundaries of satellite technology versus traditional cellular networks for mass consumer communications.",
+          "why_it_matters_vi": "Cuộc tranh luận làm nổi bật giới hạn thực tế của công nghệ vệ tinh so với mạng di động truyền thống trong truyền thông đại chúng."
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name_en": "Space Science",
+      "name_vi": "Khoa học vũ trụ",
+      "description_en": "Space missions, telescopes, astronomy breakthroughs, and launches.",
+      "description_vi": "Sứ mệnh không gian, kính thiên văn, khám phá vũ trụ và phóng tàu.",
+      "accent_hex": "#7C3AED",
+      "overview_en": "Today's space developments spotlight next-generation exploration prep—from NASA's Artemis III and ISS agricultural payloads to in-orbit refueling tests—alongside rising strategic satellite initiatives in orbit.",
+      "overview_vi": "Các diễn biến không gian hôm nay nổi bật với nỗ lực chuẩn bị cho sứ mệnh khám phá mới—từ Artemis III, nghiên cứu nông nghiệp ISS đến tiếp nhiên liệu trên quỹ đạo—cùng các bước tiến chiến lược vệ tinh.",
+      "article_count": 9,
+      "articles": [
+        {
+          "id": "fdbbf41d2827eb60",
+          "topic_id": "space",
+          "rank": 1,
+          "source_name": "NASA Breaking News",
+          "source_url": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
+          "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261117-ph-kls02-0020orig.jpg?w=2048",
+          "published_at": "2026-11-27T15:01:00+00:00",
+          "read_minutes": 1,
+          "title_en": "Artemis III Astronaut Andre Douglas Inspects SLS Engines Ahead of Orbital Test Mission",
+          "title_vi": "Phi hành gia Andre Douglas kiểm tra động cơ SLS chuẩn bị cho sứ mệnh Artemis III",
+          "summary_en": "NASA astronaut Andre Douglas, mission specialist for Artemis III, visited the Vehicle Assembly Building at Kennedy Space Center to inspect an RS-25 engine test article. The visit highlights ongoing assembly milestones for the agency's Space Launch System rocket ahead of human deep-space operations. During the Artemis III mission, four RS-25 engines will propel the SLS core stage to send the Orion spacecraft into space. Orion will execute critical rendezvous and docking trials with lunar lander systems in low Earth orbit, proving vital operational capabilities required before landing astronauts on the Moon during Artemis IV.",
+          "summary_vi": "Chuyên gia sứ mệnh Artemis III của NASA, phi hành gia Andre Douglas, đã đến thăm Tòa nhà Lắp ráp Tàu vũ trụ tại Trung tâm Vũ trụ Kennedy để trực tiếp kiểm tra mẫu thử nghiệm động cơ RS-25. Chuyến thăm đánh dấu các bước chuẩn bị quan trọng cho hệ thống tên lửa đẩy SLS. Trong khuôn khổ Artemis III, bốn động cơ RS-25 sẽ đẩy tầng lõi SLS đưa tàu Orion lên không gian. Tại quỹ đạo Trái Đất tầm thấp, tàu sẽ tiến hành các thử nghiệm tiếp cận và ghép nối then chốt với hệ thống đổ bộ mặt trăng, tạo tiền đề để đưa các phi hành gia hạ cánh xuống Mặt Trăng ở sứ mệnh Artemis IV.",
+          "key_points_en": [
+            "Astronaut Andre Douglas inspected an RS-25 engine inside Kennedy Space Center's Vehicle Assembly Building.",
+            "Four RS-25 engines will propel the SLS core stage to launch Orion for the Artemis III mission.",
+            "Artemis III will test rendezvous and docking with lunar landers in low Earth orbit before Artemis IV lands on the Moon."
+          ],
+          "key_points_vi": [
+            "Phi hành gia Andre Douglas đã thị sát động cơ thử nghiệm RS-25 tại Trung tâm Vũ trụ Kennedy.",
+            "Bốn động cơ RS-25 sẽ cung cấp lực đẩy cho tên lửa SLS đưa tàu vũ trụ Orion lên quỹ đạo.",
+            "Artemis III sẽ thử nghiệm ghép nối với trạm đổ bộ ở quỹ đạo Trái Đất trước khi Artemis IV đổ bộ Mặt Trăng."
+          ],
+          "why_it_matters_en": "Orbital docking validations on Artemis III serve as an essential proving ground before NASA returns astronauts to the lunar surface.",
+          "why_it_matters_vi": "Các thử nghiệm ghép nối trên quỹ đạo ở Artemis III là bước đệm then chốt trước khi nhân loại quay trở lại bề mặt Mặt Trăng."
+        },
+        {
+          "id": "9838740ce2b2431e",
+          "topic_id": "space",
+          "rank": 2,
+          "source_name": "NASA Breaking News",
+          "source_url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+          "image_url": "https://images-assets.nasa.gov/image/jsc2026e415098/jsc2026e415098~large.jpg?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint",
+          "published_at": "2026-11-27T14:22:00+00:00",
+          "read_minutes": 1,
+          "title_en": "NASA to Launch Pioneering Ohalo III Space Crop Production Facility on NG-25 Mission",
+          "title_vi": "NASA chuẩn bị phóng hệ thống trồng trọt không gian Ohalo III trên sứ mệnh NG-25",
+          "summary_en": "NASA is preparing to send groundbreaking space crop production experiments to the International Space Station aboard Northrop Grumman's 25th Commercial Resupply Services mission. Developed by NASA's Biological and Physical Sciences Division, the investigations aim to advance life support systems for long-duration human spaceflight. Central to the shipment is the Ohalo III research facility, designed to test innovative plant-water delivery methods and optimize growth volume in microgravity. These experiments are intended to provide essential data for designing autonomous food-production systems on deep-space voyages while offering agricultural insights applicable to Earth.",
+          "summary_vi": "NASA đang chuẩn bị gửi các thử nghiệm sản xuất cây trồng không gian tiên phong lên Trạm Vũ trụ Quốc tế thông qua sứ mệnh tiếp tế thương mại thứ 25 của Northrop Grumman. Các nghiên cứu do Ban Khoa học Vật lý và Sinh học của NASA chủ trì nhằm phục vụ cho mục tiêu bay dài ngày trong vũ trụ. Trọng tâm của chuyến bay là cơ sở nghiên cứu Ohalo III, được tạo ra nhằm xác thực hệ thống cung cấp nước cho thực vật và tối ưu hóa thể tích gieo trồng trong môi trường vi trọng lực. Dữ liệu thu được sẽ định hình các hệ thống lương thực cho các chuyến bay vũ trụ sâu.",
+          "key_points_en": [
+            "Northrop Grumman's NG-25 mission will deliver advanced agricultural experiments to the ISS.",
+            "The Ohalo III facility focuses on optimizing plant growth volume and validating plant-water delivery.",
+            "Findings will help engineer deep-space food systems and yield biological benefits on Earth."
+          ],
+          "key_points_vi": [
+            "Sứ mệnh NG-25 của Northrop Grumman sẽ chuyển các thí nghiệm nông nghiệp vũ trụ tiên tiến lên ISS.",
+            "Hệ thống Ohalo III tập trung xác thực công nghệ cấp nước cho cây và tối ưu không gian canh tác.",
+            "Kết quả nghiên cứu sẽ giúp thiết kế hệ thống sản xuất lương thực cho các chuyến thám hiểm tương lai."
+          ],
+          "why_it_matters_en": "Developing reliable crop systems in microgravity is critical for sustaining astronaut crews on long voyages to Mars and deep space.",
+          "why_it_matters_vi": "Hoàn thiện kỹ thuật trồng trọt trong vi trọng lực là điều kiện bắt buộc để duy trì sự sống cho các chuyến bay dài ngày tới Sao Hỏa."
+        },
+        {
+          "id": "b2007d672a96bd79",
+          "topic_id": "space",
+          "rank": 3,
+          "source_name": "Space.com",
+          "source_url": "https://www.space.com/technology/dropping-missiles-from-orbit-2-european-companies-sign-agreement-to-study-the-idea",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/ihTDar3HRcfjgiC5bDXJbU-1920-80.jpg",
+          "published_at": "2026-11-27T19:00:00+00:00",
+          "read_minutes": 1,
+          "title_en": "European Aerospace Firms Atmos and MBDA Study Orbital Strike Defense Concepts",
+          "title_vi": "Các tập đoàn châu Âu Atmos và MBDA nghiên cứu hệ thống tấn công từ quỹ đạo",
+          "summary_en": "European space transport company Atmos and missile manufacturer MBDA have signed a partnership agreement to study orbital defense weapon concepts. The project, named Precision Orbital Deep Strike (PODS), focuses on evaluating how weapons dropped from orbit could enhance regional security. According to Atmos Space Cargo leadership, the collaboration aims to pair proven defense equipment with cutting-edge reusable reentry technologies, such as the Phoenix orbital craft. The preliminary study evaluates the technical and strategic feasibility of space-to-ground deterrence to strengthen conventional European defense postures.",
+          "summary_vi": "Công ty không gian Atmos và nhà sản xuất tên lửa hàng đầu châu Âu MBDA vừa ký thỏa thuận nghiên cứu tính khả thi của hệ thống vũ khí thả từ quỹ đạo. Dự án mang tên Precision Orbital Deep Strike (PODS), tập trung đánh giá việc ứng dụng quỹ đạo Trái Đất nhằm tăng cường năng lực phòng thủ. Theo lãnh đạo Atmos Space Cargo, dự án sẽ kết hợp các hệ thống quốc phòng đã được kiểm chứng với công nghệ hồi quyển tái sử dụng Phoenix. Nghiên cứu ban đầu nhằm đánh giá tính thực tiễn và chiến lược của năng lực răn đe thông thường từ không gian.",
+          "key_points_en": [
+            "Atmos Space Cargo and missile maker MBDA partnered to evaluate space-to-surface orbital strike concepts.",
+            "The joint initiative is named Precision Orbital Deep Strike (PODS).",
+            "The concept leverages Atmos's Phoenix reusable reentry vehicle technology to augment conventional defense."
+          ],
+          "key_points_vi": [
+            "Atmos và MBDA ký thỏa thuận nghiên cứu tính khả thi của vũ khí tấn công mặt đất thả từ quỹ đạo.",
+            "Dự án hợp tác chung được định danh là Precision Orbital Deep Strike (PODS).",
+            "Sáng kiến tận dụng phương tiện hồi quyển tái sử dụng Phoenix nhằm củng cố năng lực răn đe."
+          ],
+          "why_it_matters_en": "The study marks an unprecedented push by European defense contractors to evaluate orbital platforms as potential conventional deterrence tools.",
+          "why_it_matters_vi": "Nghiên cứu đánh dấu bước chuyển đáng chú ý của các nhà thầu quốc phòng châu Âu trong việc xem xét quỹ đạo làm công cụ răn đe chiến lược."
+        },
+        {
+          "id": "64ee3b60150c0e6d",
+          "topic_id": "space",
+          "rank": 4,
+          "source_name": "NASA Breaking News",
+          "source_url": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/",
+          "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Plenilunio1_2048r.jpg?w=2022&h=2048&fit=clip",
+          "published_at": "2026-11-27T05:05:00+00:00",
+          "read_minutes": 1,
+          "title_en": "NASA APOD Highlights Beaver Supermoon Captured Near Orbital Perigee",
+          "title_vi": "Ảnh thiên văn NASA tôn vinh khoảnh khắc trăng tròn siêu sáng gần Trái Đất",
+          "summary_en": "NASA's Astronomy Picture of the Day featured the full Beaver Moon captured rising across twilight skies on November 24. Visible globally as it rose directly opposite the setting Sun, the celestial event presented an unusually large and luminous lunar disk to observers on the ground. Professional astronomers noted that the full phase coincided closely with the Moon's perigee, its closest orbital point to Earth. The alignment produced enhanced visual brightness and apparent size across backyards and rural horizons worldwide.",
+          "summary_vi": "Chuyên mục Ảnh Thiên văn trong Ngày (APOD) của NASA đã giới thiệu hình ảnh kỳ thú về kỳ trăng tròn tháng 11, thường gọi là Beaver Moon, mọc trên bầu trời hoàng hôn ngày 24/11. Hiện tượng xuất hiện đối diện với Mặt Trời lặn, mang đến đĩa trăng sáng và lớn khác thường cho người yêu thiên văn toàn cầu. Các nhà thiên văn học giải thích rằng pha trăng tròn này diễn ra rất gần điểm cận địa (perigee), vị trí gần Trái Đất nhất trên quỹ đạo Mặt Trăng, khiến độ sáng và kích thước biểu kiến của Mặt Trăng tăng lên rõ rệt.",
+          "key_points_en": [
+            "NASA APOD showcased the November Beaver Moon rising opposite sunset on November 24.",
+            "The Full Moon coincided with perigee, the Moon's closest orbital distance to Earth.",
+            "The perigee alignment produced a noticeably brighter and larger lunar silhouette."
+          ],
+          "key_points_vi": [
+            "NASA APOD giới thiệu hình ảnh trăng tròn tháng 11 mọc đối diện mặt trời lặn vào ngày 24/11.",
+            "Kỳ trăng tròn này trùng thời điểm Mặt Trăng tới điểm cận địa, gần Trái Đất nhất trên quỹ đạo.",
+            "Sự thẳng hàng này tạo nên đĩa trăng sáng rực rỡ và có kích thước biểu kiến lớn hơn bình thường."
+          ],
+          "why_it_matters_en": "Showcasing perigee full moons engages the public in observational astronomy while illustrating the mechanics of the lunar orbit.",
+          "why_it_matters_vi": "Hiện tượng trăng tròn cận địa giúp cộng đồng hiểu rõ hơn về chuyển động quỹ đạo và thúc đẩy niềm yêu thích quan sát bầu trời đêm."
+        },
+        {
+          "id": "eb477b0a873ecf71",
+          "topic_id": "space",
+          "rank": 5,
+          "source_name": "NASA Breaking News",
+          "source_url": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/",
+          "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shivelyuch-socked-in/shivelyuchcloud_oli2_20261108.jpg?w=1440&h=960&fit=clip",
+          "published_at": "2026-11-27T05:01:00+00:00",
+          "read_minutes": 1,
+          "title_en": "Landsat 9 Satellite Captures Obscured Shivelyuch Volcano in Kamchatka",
+          "title_vi": "Vệ tinh Landsat 9 ghi nhận hoạt động của núi lửa Shivelyuch ẩn mình trong mây",
+          "summary_en": "NASA's Earth Observatory highlighted recent orbital observations of the highly active Shivelyuch volcano in Russia's Kamchatka Peninsula. Captured by the Operational Land Imager aboard the Landsat 9 satellite on November 8, 2026, the imagery documents persistent cloud cover obscuring the volcanic edifice. Shivelyuch is known for frequent volcanic activity, but satellite tracking is routinely complicated by stubborn regional cloud cover. Earth-observing satellites remain crucial for tracking surface thermal signals and environmental impacts despite adverse atmospheric obstacles.",
+          "summary_vi": "Đài quan sát Trái Đất của NASA vừa công bố dữ liệu ảnh từ không gian về núi lửa Shivelyuch đang hoạt động mạnh tại bán đảo Kamchatka. Bức ảnh do thiết bị Chụp ảnh Mặt đất Hoạt động (OLI) trên vệ tinh Landsat 9 ghi nhận ngày 8 tháng 11 năm 2026, phản ánh tình trạng mây mù liên tục bao phủ đỉnh núi. Mặc dù Shivelyuch thường xuyên phun trào, các nỗ lực giám sát từ vệ tinh luôn gặp khó khăn bởi lớp mây dày đặc quanh năm. Các vệ tinh quan trắc Trái Đất đóng vai trò trọng yếu trong việc theo dõi biến động địa chất bất chấp thời tiết phức tạp.",
+          "key_points_en": [
+            "Landsat 9's Operational Land Imager captured images of Kamchatka's Shivelyuch volcano on Nov. 8, 2026.",
+            "The volcano frequently displays active eruptions but remains chronically shrouded by regional cloud cover.",
+            "Orbital monitoring provides vital tracking of remote volcanic hazards despite persistent weather barriers."
+          ],
+          "key_points_vi": [
+            "Thiết bị OLI trên vệ tinh Landsat 9 chụp hình ảnh núi lửa Shivelyuch tại Kamchatka vào ngày 8/11/2026.",
+            "Núi lửa Shivelyuch hoạt động phun trào liên tục nhưng thường xuyên bị che khuất bởi các tầng mây.",
+            "Quan sát từ không gian là công cụ không thể thiếu để theo dõi hiểm họa địa chất ở những nơi hẻo lánh."
+          ],
+          "why_it_matters_en": "Satellite earth observations are indispensable for monitoring remote, hazardous volcanoes that pose risks to aviation and climate systems.",
+          "why_it_matters_vi": "Quan sát vệ tinh là phương tiện quan trọng để theo dõi các ngọn núi lửa xa xôi, hạn chế rủi ro cho hàng không và đánh giá tác động khí quyển."
+        },
+        {
+          "id": "d5ad15ba58e4763a",
+          "topic_id": "space",
+          "rank": 6,
+          "source_name": "Reuters",
+          "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZlFOVkZidW11cWF5bnp4dktKSGE0MG43eWZhOGxuckt4QnlxcHNNTHlSTlFnR2lFWDVRNzlvcEdyZk5DdlM0Y3BDdzJGQVlkQXFCN0VmMVRTeXNHT3F6bU0zb3hwbkZoT1ExV2VfZnNQR2lBRER1bDVWZ010OFFqZTNWRElaRG43dlNfQVN3RGNqS1JFcWlSY0dLbU5LOGRWZ01SdHoxTF8xNEFORk1vLXRUYkVlMTBRekFLTQ?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T23:23:59+00:00",
+          "read_minutes": 1,
+          "title_en": "Reuters Analyzes Potential Impacts of SpaceX's Proposed Megaconstellation",
+          "title_vi": "Reuters phân tích tác động từ ý tưởng chùm một triệu vệ tinh của SpaceX",
+          "summary_en": "A new Reuters analysis examines the far-reaching operational and environmental implications of SpaceX's conceptual 'Starmind' network. The proposal envisions deploying up to one million satellites, far surpassing any constellation operated in Earth orbit today. The report explores how such massive scale could transform global orbital infrastructure and connectivity. However, specialists warn of substantial challenges, including space debris mitigation, collision risks in low Earth orbit, atmospheric re-entry pollution, and disruption to ground-based astronomical research.",
+          "summary_vi": "Một bài phân tích mới của Reuters đã mổ xẻ những tác động sâu rộng về mặt vận hành và môi trường từ mạng lưới vệ tinh khái niệm mang tên 'Starmind' của SpaceX. Ý tưởng này dự kiến triển khai tới một triệu vệ tinh, vượt xa mọi chùm vệ tinh hiện có trên quỹ đạo Trái Đất. Báo cáo đánh giá quy mô khổng lồ này có thể biến đổi hạ tầng thông tin toàn cầu. Tuy nhiên, giới chuyên gia cũng cảnh báo các rủi ro lớn như rác thải không gian, nguy cơ va chạm trên quỹ đạo thấp và tác động tới ngành thiên văn quang học mặt đất.",
+          "key_points_en": [
+            "A Reuters explainer assesses SpaceX's ambitious 'Starmind' concept involving up to one million satellites.",
+            "The scale would radically transform space communication infrastructure and orbital deployment models.",
+            "Scientists caution against severe orbital congestion, space debris risks, and optical interference."
+          ],
+          "key_points_vi": [
+            "Báo cáo của Reuters phân tích ý tưởng mạng lưới vệ tinh 'Starmind' với quy mô lên tới một triệu vệ tinh.",
+            "Quy mô chưa từng có này có thể thay đổi toàn diện hạ tầng viễn thông và kết nối không gian.",
+            "Các nhà khoa học cảnh báo về mật độ quỹ đạo quá tải, rác thải không gian và cản trở thiên văn."
+          ],
+          "why_it_matters_en": "Massive satellite constellations raise pressing regulatory, environmental, and safety concerns that will define the future of orbital traffic management.",
+          "why_it_matters_vi": "Các siêu chùm vệ tinh đặt ra bài toán cấp bách về môi trường và quy chuẩn pháp lý trong việc quản lý giao thông không gian quỹ đạo thấp."
+        },
+        {
+          "id": "cd2e39bd15a67c27",
+          "topic_id": "space",
+          "rank": 7,
+          "source_name": "SpaceNews",
+          "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNai1ucHJxTmtkU2xrd1ZWT1BObmU1SEpXSGRHSDA4VXNyNWEwWk5US0wwRFZuMUttdlE4bV9TOUttdnZFaWJmc0RYR3hMazBsVnZGaGhDS3drZlJseHVtMzBIM1o2S0NZazRXeEhteEpHaG05NmdHeGk0emtTYlBuRHR5MzF2YV8ydTJHNjNlZmpqV2dGUFFxc05faWVXdTJRQTNQcDFrQUVmUQ?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T17:12:22+00:00",
+          "read_minutes": 1,
+          "title_en": "Germany's DLR Awards Airbus $6.5M Contract for ISS In-Orbit Refueling Demonstration",
+          "title_vi": "DLR của Đức trao hợp đồng 6,5 triệu USD cho Airbus thử nghiệm tiếp nhiên liệu trên ISS",
+          "summary_en": "The German Aerospace Center (DLR) has awarded aerospace manufacturer Airbus a 6.5 million dollar contract to conduct an in-orbit satellite refueling experiment on the International Space Station. The initiative will validate fluid transfer technologies in microgravity. Conducting propellant transfers in orbit is widely viewed as a pivotal milestone for extending satellite lifespans and servicing future deep-space architectures. The ISS test platform will allow engineers to demonstrate fluid mechanics and coupling systems under realistic space conditions.",
+          "summary_vi": "Cơ quan Hàng không Vũ trụ Đức (DLR) đã trao cho tập đoàn Airbus hợp đồng trị giá 6,5 triệu USD để tiến hành thử nghiệm tiếp nhiên liệu vệ tinh ngay trên Trạm Vũ trụ Quốc tế (ISS). Sáng kiến này nhằm kiểm chứng công nghệ truyền dẫn chất lỏng trong điều kiện vi trọng lực. Tiếp nhiên liệu trên quỹ đạo được coi là cột mốc quyết định để kéo dài tuổi thọ vệ tinh và phục vụ các sứ mệnh không gian xa. Trạm ISS sẽ là nền tảng thực tế giúp các kỹ sư đánh giá cơ học chất lưu và hệ thống khớp nối an toàn.",
+          "key_points_en": [
+            "DLR awarded Airbus a $6.5 million contract for an orbital refueling experiment on the ISS.",
+            "The test focuses on validating safe liquid propellant transfer mechanics in microgravity.",
+            "In-orbit servicing is critical for prolonging satellite operational lifespans and reducing mission costs."
+          ],
+          "key_points_vi": [
+            "DLR trao hợp đồng trị giá 6,5 triệu USD cho Airbus để thực hiện thử nghiệm tiếp nhiên liệu trên ISS.",
+            "Mục tiêu là kiểm chứng cơ chế truyền nhiên liệu lỏng an toàn trong môi trường vi trọng lực.",
+            "Dịch vụ trên quỹ đạo là chìa khóa để kéo dài tuổi thọ vệ tinh và tối ưu hóa chi phí vận hành."
+          ],
+          "why_it_matters_en": "Mastering in-space propellant transfer enables extended satellite longevity and supports reusable architectures for deep-space exploration.",
+          "why_it_matters_vi": "Làm chủ kỹ thuật tiếp nhiên liệu trên không gian giúp kéo dài vòng đời vệ tinh và tạo nền tảng cho các phương tiện khám phá tầm xa."
+        },
+        {
+          "id": "8d34caab2c0bc848",
+          "topic_id": "space",
+          "rank": 8,
+          "source_name": "SpaceNews",
+          "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWEZwN25qWmhqd2d2UzhXLTdUN1piT1pzaldYQ3Jtd0xWNmxjVzRPdW51RnE3VkRMTFQ5TnJIRmxuM3ZVMGhnN1NCVjE4V3NlZnRuV08xSkYwRDR4QzNHN1d2VjB0Qnl2SktKdW5kU2VvTmhmd00yaXR5Rnl2SUlVLVBtaGRWMDJ5QzBGdFEyMFRCcXZGOTBIbVBQTlYydnZaQzFidnhJVU1udHdzeUxGLTNpSG10N0kzM1NEb1ctNFotVGlwYXVJcVBsWnNIZ1oyN1FUWnlCcDFxVW1F?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T12:28:42+00:00",
+          "read_minutes": 1,
+          "title_en": "Chinese Startup Publishes GEO Orbit Tracking Report on US and Chinese Satellites",
+          "title_vi": "Startup Trung Quốc công bố dữ liệu mạng kính viễn vọng giám sát vệ tinh GEO",
+          "summary_en": "A commercial Chinese space startup has published a detailed geostationary orbit tracking report utilizing its proprietary global network of optical telescopes. The report features orbital surveillance data covering multiple spacecraft, notably including both Chinese and United States military satellites operating in GEO. The release highlights the rapidly advancing capabilities of private commercial entities in space domain awareness. Independent telescope networks increasingly provide granular tracking of high-altitude national security assets, diminishing traditional governmental monopolies on orbital surveillance data.",
+          "summary_vi": "Một công ty khởi nghiệp vũ trụ thương mại của Trung Quốc vừa công bố báo cáo chi tiết theo dõi quỹ đạo địa tĩnh (GEO), dựa trên mạng lưới kính viễn vọng quang học phân bố toàn cầu của công ty. Báo cáo cung cấp dữ liệu giám sát hoạt động của nhiều vệ tinh, trong đó bao gồm cả vệ tinh quân sự của Trung Quốc và Mỹ. Động thái này nêu bật bước nhảy vọt của khối tư nhân trong lĩnh vực nhận thức không gian (SDA). Các mạng lưới quan sát độc lập đang dần xóa bỏ sự độc quyền của các cơ quan chính phủ đối với dữ liệu quỹ đạo tầm cao.",
+          "key_points_en": [
+            "A Chinese commercial startup released orbital tracking data of spacecraft in geostationary orbit.",
+            "The published tracking includes movements of both U.S. and Chinese military satellites.",
+            "The development underscores the growth of private space domain awareness networks globally."
+          ],
+          "key_points_vi": [
+            "Startup Trung Quốc công bố dữ liệu theo dõi quỹ đạo của các tàu vũ trụ đang hoạt động tại GEO.",
+            "Báo cáo chứa dữ liệu giám sát cả vệ tinh quân sự của Hoa Kỳ lẫn Trung Quốc.",
+            "Sự việc chứng minh năng lực nhận thức tình huống không gian ngày càng mạnh mẽ của khối tư nhân."
+          ],
+          "why_it_matters_en": "The growth of commercial space monitoring networks is transforming orbital transparency and strategic dynamics around military satellites.",
+          "why_it_matters_vi": "Sự lớn mạnh của các mạng lưới giám sát tư nhân đang nâng cao tính minh bạch trên quỹ đạo và làm thay đổi bảo mật của vệ tinh quốc phòng."
+        },
+        {
+          "id": "35a29d2b479f2a9c",
+          "topic_id": "space",
+          "rank": 9,
+          "source_name": "SpaceNews",
+          "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmZ0MjRYeFVLdVJOaU5UV2JJdHhjb1BDaXY2c3NEbHkydVFySXI0UERrdzRBaHNHQkNJc0ZVSkc0UkVnZ0F1aFZOZ1dSRmNYc3RDTXBmbDVrNXhoV3M1eEMySGVuUmkxcUFKYlNrcEVxVEJvNlA0Nl9sdUNGa0VHWm93VXFNWHNKQjFqbzRsQy1FQkc4QXRzcTRibw?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T12:00:00+00:00",
+          "read_minutes": 1,
+          "title_en": "US Space Force Reopens $13 Billion Satellite Services Contract to New Vendors",
+          "title_vi": "Lực lượng Không gian Mỹ mở lại gói thầu vệ tinh trị giá 13 tỷ USD cho nhà cung cấp mới",
+          "summary_en": "The United States Space Force has reopened its massive 13 billion dollar commercial satellite services procurement program to onboard new commercial vendors. The initiative allows defense buyers to tap into expanding private-sector satellite communications and orbital services. By opening the acquisition vehicle to additional aerospace competitors, the military aims to accelerate the integration of cutting-edge commercial technology into defense architectures while encouraging competitive pricing across orbital service categories.",
+          "summary_vi": "Lực lượng Không gian Hoa Kỳ đã mở lại chương trình mua sắm dịch vụ vệ tinh thương mại trị giá 13 tỷ USD để tiếp nhận thêm các nhà cung cấp mới. Động thái này cho phép quân đội tiếp cận hạ tầng viễn thông và các dịch vụ quỹ đạo tiên tiến từ khu vực tư nhân. Việc mở rộng danh sách nhà thầu giúp đẩy nhanh tốc độ tích hợp công nghệ không gian thương mại vào hệ thống phòng thủ, đồng thời thúc đẩy cạnh tranh về chi phí và nâng cao khả năng thích ứng của hạ tầng an ninh quốc gia.",
+          "key_points_en": [
+            "The U.S. Space Force reopened its $13 billion satellite services contract vehicle to new bidders.",
+            "The contract provides defense agencies with access to commercial satellite capabilities.",
+            "Expanding vendor participation fosters price competition and accelerates commercial tech adoption."
+          ],
+          "key_points_vi": [
+            "Lực lượng Không gian Mỹ mở lại chương trình đấu thầu dịch vụ vệ tinh trị giá 13 tỷ USD.",
+            "Hợp đồng tạo điều kiện để các cơ quan quốc phòng tận dụng năng lực vệ tinh thương mại.",
+            "Việc bổ sung nhà thầu giúp kích thích cạnh tranh giá và đẩy nhanh tích hợp công nghệ mới."
+          ],
+          "why_it_matters_en": "Broadening commercial satellite contracting allows military forces to rapidly integrate agile private-sector space innovations into national security.",
+          "why_it_matters_vi": "Việc mở rộng đấu thầu vệ tinh thương mại giúp quân đội tận dụng tốc độ đổi mới và năng lực công nghệ vượt trội của khối tư nhân."
+        }
+      ]
+    },
+    {
+      "id": "climate",
+      "name_en": "Climate",
+      "name_vi": "Khí hậu",
+      "description_en": "Climate milestones, extreme weather, emissions, and clean energy.",
+      "description_vi": "Biến đổi khí hậu, thời tiết cực đoan, phát thải và năng lượng sạch.",
+      "accent_hex": "#059669",
+      "overview_en": "Today's climate news highlights severe Thanksgiving storms in the US, unprecedented declines in global river and lake water levels, and growing coastal risks in Africa. Worldwide, extreme weather and shifting ecological baselines are pushing infrastructure and climate policy to their limits.",
+      "overview_vi": "Tin tức khí hậu hôm nay nổi bật với đợt bão lớn dịp lễ Tạ ơn tại Mỹ, sự sụt giảm kỷ lục của mực nước sông hồ toàn cầu và nguy cơ ngập lụt ven biển ở Châu Phi. Trên toàn thế giới, thời tiết cực đoan đang đặt ra thách thức lớn cho hạ tầng và chính sách khí hậu.",
+      "article_count": 9,
+      "articles": [
+        {
+          "id": "f1151df20d79c531",
+          "topic_id": "climate",
+          "rank": 1,
+          "source_name": "Carbon Brief",
+          "source_url": "https://www.carbonbrief.org/sinking-african-megacities-will-expose-seven-million-people-to-flooding-by-2050",
+          "image_url": "https://www.carbonbrief.org/wp-content/uploads/2026/11/span-stylefont-size1-2-1024x428.png",
+          "published_at": "2026-11-27T19:00:00+00:00",
+          "read_minutes": 1,
+          "title_en": "Sinking African Megacities Risk Exposing 7 Million People to Severe Flooding by 2050",
+          "title_vi": "Các Siêu Đô Thị Ven Biển Châu Phi Mất An Toàn Vì Sụt Lún và Nước Biển Dâng Đến Năm 2050",
+          "summary_en": "A new study published in Science Advances warns that sinking land and rising sea levels could expose over seven million people in Africa's coastal megacities to severe flooding by 2050. Researchers combined satellite data with sea level projections across 20 populous coastal cities. Under a moderate warming scenario, extreme sea level events could threaten one million buildings and $180 billion in assets, with Lagos in Nigeria and Alexandria in Egypt identified as among the most vulnerable urban centers.",
+          "summary_vi": "Một nghiên cứu mới trên tạp chí Science Advances cảnh báo tình trạng sụt lún đất kết hợp với nước biển dâng có thể khiến hơn 7 triệu người tại các siêu đô thị ven biển Châu Phi đối mặt với lũ lụt vào năm 2050. Phân tích kết hợp dữ liệu vệ tinh và dự báo mực nước biển tại 20 thành phố đông dân. Trong kịch bản biến đổi khí hậu trung bình, các đợt nước biển dâng cực đoan có thể đe dọa 1 triệu tòa nhà và 180 tỷ USD tài sản, trong đó Lagos và Alexandria chịu rủi ro cao nhất.",
+          "key_points_en": [
+            "New Science Advances study analyzes flood risk across 20 populous coastal cities in Africa.",
+            "Over 7 million residents and 1 million buildings face severe flood risk by 2050.",
+            "Extreme sea level events under moderate warming threaten $180 billion in physical assets."
+          ],
+          "key_points_vi": [
+            "Nghiên cứu trên Science Advances đánh giá rủi ro ngập lụt tại 20 thành phố ven biển Châu Phi.",
+            "Hơn 7 triệu dân và 1 triệu tòa nhà đối mặt nguy cơ ngập lụt nghiêm trọng vào năm 2050.",
+            "Các đợt dâng nước biển cực đoan đe dọa tổn thất 180 tỷ USD tài sản."
+          ],
+          "why_it_matters_en": "Rapid coastal subsidence combined with sea level rise poses severe socioeconomic threats to Africa's rapidly growing urban centers.",
+          "why_it_matters_vi": "Tình trạng sụt lún ven biển kết hợp với nước biển dâng đe dọa nghiêm trọng tới sự phát triển kinh tế xã hội của các đô thị Châu Phi."
+        },
+        {
+          "id": "3f7cdaef00c789cb",
+          "topic_id": "climate",
+          "rank": 2,
+          "source_name": "BBC Science & Environment",
+          "source_url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/058e/live/011ab230-eaab-11f1-9d2d-dd9286f639a6.jpg",
+          "published_at": "2026-11-28T01:55:33+00:00",
+          "read_minutes": 1,
+          "title_en": "Severe Thanksgiving Storms Leave Hundreds of Thousands Without Power Across the US",
+          "title_vi": "Bão Tố Mùa Tạ Ơn Gây Ngập Lụt và Mất Điện Rộng Khắp Tại Mỹ",
+          "summary_en": "Powerful Thanksgiving holiday storms lashed both coasts of the United States, leaving over 260,000 people without electricity and causing widespread travel chaos. High winds, heavy rainfall, and coastal flooding disrupted road and air transit, resulting in hundreds of flight delays and cancellations. Pennsylvania emerged as the hardest-hit state for power outages. While weather conditions have begun to improve, meteorologists warn recovery efforts will take time as travel volumes remain high across North America.",
+          "summary_vi": "Bão mạnh trong kỳ nghỉ lễ Tạ ơn đã càn quét cả hai bờ Đông và Tây nước Mỹ, làm hơn 260.000 người rơi vào cảnh mất điện và gây hỗn loạn giao thông. Gió lớn, mưa dày và ngập lụt ven biển khiến hàng trăm chuyến bay bị hủy hoặc hoãn, đồng thời làm trì trệ giao thông đường bộ. Bang Pennsylvania chịu ảnh hưởng nặng nề nhất về sự cố điện. Dù thời tiết đang dần cải thiện, các cơ quan khí tượng cảnh báo quá trình phục hồi sẽ mất thời gian.",
+          "key_points_en": [
+            "Over 260,000 customers lost power across the US following severe Thanksgiving storms.",
+            "Pennsylvania reported the highest number of power outages among affected states.",
+            "Heavy rains and coastal flooding caused hundreds of flight cancellations and travel delays."
+          ],
+          "key_points_vi": [
+            "Hơn 260.000 người dùng mất điện trên khắp nước Mỹ do đợt bão lớn dịp lễ Tạ ơn.",
+            "Bang Pennsylvania ghi nhận tình trạng mất điện diện rộng nặng nề nhất.",
+            "Mưa lớn và ngập lụt ven biển làm gián đoạn hàng trăm chuyến bay và tuyến giao thông."
+          ],
+          "why_it_matters_en": "Extreme holiday weather events highlight the vulnerability of critical energy and transport infrastructure to severe winter storm systems.",
+          "why_it_matters_vi": "Thời tiết cực đoan trong dịp lễ lớn phản ánh tính dễ bị tổn thương của hạ tầng năng lượng và giao thông trước các trận bão dữ dội."
+        },
+        {
+          "id": "221ed7fc63c848f4",
+          "topic_id": "climate",
+          "rank": 3,
+          "source_name": "The Guardian Climate",
+          "source_url": "https://www.theguardian.com/environment/2026/nov/26/water-levels-fall-rivers-lakes-reservoirs-global-study",
+          "image_url": "https://i.guim.co.uk/img/media/1ccc4b628a196f08ae0ff650b021bfbb8fc4b51b/441_0_2799_2241/master/2799.jpg?width=140&quality=85&auto=format&fit=max&s=ba31844b52ebe95096edce0c1ede3ff0",
+          "published_at": "2026-11-26T19:00:41+00:00",
+          "read_minutes": 1,
+          "title_en": "Global Water Levels Plunged Sharply in World's Rivers and Lakes During Hottest Years",
+          "title_vi": "Mực Nước Sông Hồ Toàn Cầu Giảm Kỷ Lục Trong Hai Năm Nóng Nhất Lịch Sử",
+          "summary_en": "An international study led by the Chinese Academy of Sciences revealed an unprecedented decline in surface freshwater across rivers, lakes, and reservoirs during 2023 and 2024, the hottest years on record. Global river flows dropped by approximately 5.7% below average, while water stored in lakes and reservoirs decreased by 9.5%. This marks the largest synchronized global drop in surface water since at least 1991, with severe impacts recorded in South America despite localized extreme rain events.",
+          "summary_vi": "Nghiên cứu quốc tế do Viện Hàn lâm Khoa học Trung Quốc dẫn đầu cho thấy lượng nước ngọt bề mặt ở các sông, hồ và hồ chứa giảm mạnh kỷ lục trong năm 2023 và 2024 - hai năm nóng nhất lịch sử. Lưu lượng sông toàn cầu giảm 5,7% so với mức bình thường, trong khi lượng nước tích trữ ở hồ chứa giảm 9,5%. Đây là đợt sụt giảm nước bề mặt đồng bộ lớn nhất kể từ năm 1991, ảnh hưởng nặng nề đến Nam Mỹ dù một số khu vực có mưa cực đoan.",
+          "key_points_en": [
+            "Global river flows fell 5.7% below normal during the record-hot years of 2023 and 2024.",
+            "Water stored in global lakes and reservoirs dropped by 9.5% in the same period.",
+            "Marks the largest synchronized decline in surface freshwater levels since at least 1991."
+          ],
+          "key_points_vi": [
+            "Lưu lượng sông toàn cầu giảm 5,7% dưới mức bình thường trong giai đoạn 2023-2024.",
+            "Trữ lượng nước trong các hồ và hồ chứa trên toàn thế giới giảm 9,5%.",
+            "Đánh dấu đợt sụt giảm nước ngọt bề mặt đồng bộ nghiêm trọng nhất từ năm 1991."
+          ],
+          "why_it_matters_en": "Record atmospheric heat directly depletes planetary freshwater reserves, threatening water security and ecosystem stability worldwide.",
+          "why_it_matters_vi": "Nhiệt độ kỷ lục làm cạn kiệt nguồn nước ngọt toàn cầu, đe dọa trực tiếp đến an ninh nguồn nước và sự ổn định của hệ sinh thái."
+        },
+        {
+          "id": "7df020593feabfb4",
+          "topic_id": "climate",
+          "rank": 4,
+          "source_name": "The Guardian Climate",
+          "source_url": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
+          "image_url": "https://i.guim.co.uk/img/media/7c233d5a70f62ffe7696a2a33f2be6960a88e27a/58_0_884_707/master/884.jpg?width=140&quality=85&auto=format&fit=max&s=504521c93e59c68ac8a90ea7c953c202",
+          "published_at": "2026-11-26T21:33:36+00:00",
+          "read_minutes": 1,
+          "title_en": "Southern and Central Australia Face Summer of Elevated Bushfire Risk and Heatwave Warning",
+          "title_vi": "Miền Nam và Miền Trung Australia Đối Mặt Nguy Cơ Cháy Rừng và Nắng Nóng Gay Gắt",
+          "summary_en": "Fire authorities warn that vast regions of southern and central Australia face heightened bushfire risks this summer, alongside severe heatwaves nationwide. Heavy vegetation fuel loads, combined with low soil moisture and dry weather, have raised danger levels across Victoria, South Australia, New South Wales, Tasmania, Western Australia, and the Northern Territory. Emergency service councils urge heightened readiness as climate conditions amplify seasonal fire hazards.",
+          "summary_vi": "Các cơ quan quản lý hỏa hoạn cảnh báo nhiều khu vực rộng lớn ở miền nam và miền trung Australia đối mặt với nguy cơ cháy rừng gia tăng trong mùa hè này, cùng với các đợt nắng nóng gay gắt trên toàn quốc. Lượng thực vật khô lớn kết hợp với độ ẩm đất thấp và thời tiết khô nóng đã đẩy rủi ro lên cao tại các bang Victoria, Nam Úc, New South Wales, Tasmania và Bắc Lãnh thổ.",
+          "key_points_en": [
+            "High fuel loads and dry soil boost bushfire risks across southern and central Australia.",
+            "Authorities issue warnings for major states including Victoria, NSW, and South Australia.",
+            "Extreme heatwaves are projected nationwide throughout the upcoming summer season."
+          ],
+          "key_points_vi": [
+            "Thảm thực vật khô và đất thiếu ẩm làm tăng nguy cơ cháy rừng tại Nam và Trung Úc.",
+            "Nhà chức trách phát cảnh báo cho hầu hết các bang bao gồm Victoria và New South Wales.",
+            "Các đợt nắng nóng cực đoan được dự báo sẽ diễn ra trên diện rộng trong mùa hè này."
+          ],
+          "why_it_matters_en": "Rising temperatures and prolonged dry spells in Australia demonstrate the growing climate vulnerability of fire-prone landscapes.",
+          "why_it_matters_vi": "Nhiệt độ tăng cao và các đợt khô hạn kéo dài ở Australia cho thấy rủi ro khí hậu ngày càng lớn đối với các vùng dễ xảy ra cháy rừng."
+        },
+        {
+          "id": "39c265f3af7f5752",
+          "topic_id": "climate",
+          "rank": 5,
+          "source_name": "BBC Science & Environment",
+          "source_url": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c748/live/bfd18aa0-e9b1-11f1-859a-37130cd3a1d7.jpg",
+          "published_at": "2026-11-26T18:22:28+00:00",
+          "read_minutes": 1,
+          "title_en": "US Federal Court Blocks Trump Administration Deep-Sea Mining Plans in Pacific Ocean",
+          "title_vi": "Tòa Án Mỹ Chặn Kế Hoạch Khai Thác Đáy Biển Của Chính Phủ Trump Tại Thái Bình Dương",
+          "summary_en": "A US federal judge issued a second legal defeat to the Trump administration's deep-sea mining ambitions in the Pacific Ocean, ruling that seafloor leasing off the Northern Mariana Islands violated the Endangered Species Act. Environmental groups filed the lawsuit over fears that mining operations could inflict long-term damage on marine ecosystems and sea turtle habitats. The US government had sought deep-sea mining access to secure critical minerals and counter regional influence.",
+          "summary_vi": "Một thẩm phán liên bang Mỹ đã giáng đòn pháp lý thứ hai vào tham vọng khai thác đáy biển của chính quyền Trump ở Thái Bình Dương, tuyên bố kế hoạch cho thuê đáy biển ngoài khơi Quần đảo Bắc Mariana vi phạm Luật Các loài có nguy cơ tuyệt chủng. Các tổ chức môi trường đệ đơn kiện do lo ngại hoạt động khai thác có thể gây tổn hại lâu dài cho hệ sinh thái đại dương và rùa biển. Chính phủ Mỹ trước đó muốn thúc đẩy khai thác để đảm bảo nguồn khoáng sản quan trọng.",
+          "key_points_en": [
+            "Federal judge rules proposed seabed leases off Northern Mariana Islands violate Endangered Species Act.",
+            "Marks the second legal setback for US deep-sea mining plans in the Pacific region.",
+            "Environmentalists raised concerns over potential long-term destruction of ocean ecosystems."
+          ],
+          "key_points_vi": [
+            "Tòa án liên bang tuyên bố kế hoạch cho thuê đáy biển vi phạm Luật Các loài có nguy cơ tuyệt chủng.",
+            "Đánh dấu thất bại pháp lý thứ hai đối với tham vọng khai thác đáy biển của Mỹ ở Thái Bình Dương.",
+            "Các nhà môi trường lo ngại nguy cơ hủy hoại lâu dài hệ sinh thái và sinh vật biển."
+          ],
+          "why_it_matters_en": "Environmental protections under federal law continue to check geopolitical and industrial pushes for deep-sea resource extraction.",
+          "why_it_matters_vi": "Phán quyết cho thấy luật bảo vệ môi trường vẫn đóng vai trò rào cản quan trọng đối với các nỗ lực khai thác tài nguyên đáy biển sâu."
+        },
+        {
+          "id": "f8328e1d553191db",
+          "topic_id": "climate",
+          "rank": 6,
+          "source_name": "The Guardian Climate",
+          "source_url": "https://www.theguardian.com/commentisfree/2026/nov/26/labour-mp-letter-andy-burnham-rosebank-oil-climate-crisis",
+          "image_url": "https://i.guim.co.uk/img/media/ba5262851964d5124a817774a99f5721676cee39/620_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=c14c048a666a6ee0e8fd727f539deeec",
+          "published_at": "2026-11-26T15:00:37+00:00",
+          "read_minutes": 1,
+          "title_en": "UK Labour MPs Urge Government to Reject Rosebank Offshore Oilfield Approval",
+          "title_vi": "Các Nghị Sĩ Công Đảng Anh Kêu Gọi Bác Bỏ Dự Án Mỏ Dầu Khí Rosebank",
+          "summary_en": "Nearly 100 UK Labour Members of Parliament have signed a letter urging political leaders to reject approval for the Rosebank offshore oilfield. Organizers argue that expanding fossil fuel production undermines climate commitments and fails to protect citizens struggling with high energy bills. The initiative highlights deep domestic concern over the dual challenges of living costs and extreme weather events linked to climate change.",
+          "summary_vi": "Gần 100 nghị sĩ Công đảng Anh đã ký thư kêu gọi giới lãnh đạo từ chối phê duyệt dự án mỏ dầu ngoài khơi Rosebank. Các nghị sĩ cho rằng việc mở rộng khai thác nhiên liệu hóa thạch làm tổn hại đến các cam kết khí hậu và không giúp ích cho người dân đang vật lộn với chi phí năng lượng đắt đỏ. Động thái này phản ánh nỗi lo ngại về sự kết hợp giữa khủng hoảng chi phí sinh hoạt và các sự kiện thời tiết cực đoan.",
+          "key_points_en": [
+            "Nearly 100 Labour MPs sign a letter opposing approval of the Rosebank oilfield.",
+            "Lawmakers argue fossil fuel expansion undermines UK climate action and raises energy costs.",
+            "Highlights growing political tension between energy security and decarbonization goals."
+          ],
+          "key_points_vi": [
+            "Gần 100 nghị sĩ Công đảng ký thư phản đối việc phê chuẩn mỏ dầu Rosebank.",
+            "Các nhà lập pháp khẳng định nhiên liệu hóa thạch cản trở mục tiêu khí hậu và làm tăng hóa đơn năng lượng.",
+            "Nhấn mạnh mâu thuẫn chính trị giữa an ninh năng lượng và cam kết giảm phát thải."
+          ],
+          "why_it_matters_en": "Political resistance to new oil and gas developments reflects increasing public scrutiny over alignment between energy policy and national climate targets.",
+          "why_it_matters_vi": "Sự phản đối chính trị đối với các dự án dầu khí mới thể hiện sự giám sát ngày càng tăng đối với cam kết cắt giảm phát thải của chính phủ."
+        },
+        {
+          "id": "935d932f9ed7f405",
+          "topic_id": "climate",
+          "rank": 7,
+          "source_name": "Inside Climate News",
+          "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNUhiQkVSSW5NOEd3WE1OUmR0SFFhRGZ0RFE5UlNWZ0N0M1dhUldrT2U0Q2JJNF9iVXRnZVliVE9PTWV0OVZCNW5qSG5mQmpBUnpWbzJ1WV9WUXJaSnZoYmpVNnZ3Q1lnMmpnd0Zjd2NKcndEVXVTODM1WnI5aE5Vc0loT2lnVlJVMUx4OHFDb3E?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-26T10:00:00+00:00",
+          "read_minutes": 1,
+          "title_en": "Lower Manhattan Unveils Concrete Flood Walls and Elevated Park for Coastal Defense",
+          "title_vi": "Hạ Manhattan Hoàn Thành Bức Tường Chống Lụt Và Công Viên Nâng Cao Để Chống Nước Biển Dâng",
+          "summary_en": "New York City has completed construction on concrete flood walls and an elevated East River Park to protect a vital section of Lower Manhattan from coastal surge and climate-driven flooding. The resilient infrastructure initiative combines heavy physical barriers with elevated public green spaces to shield residential and commercial neighborhoods. The project serves as an urban adaptation model for major coastal metropolises facing rising sea levels.",
+          "summary_vi": "Thành phố New York đã hoàn tất xây dựng hệ thống tường bê tông ngăn lũ và nâng cấp Công viên East River nhằm bảo vệ khu vực Hạ Manhattan khỏi triều cường và ngập lụt do biến đổi khí hậu. Dự án hạ tầng ứng phó này kết hợp rào chắn vật lý chắc chắn với không gian xanh công cộng được nâng cao để bảo vệ khu dân cư. Đây được xem là giải pháp thích ứng mẫu cho các đô thị ven biển trước rủi ro nước biển dâng.",
+          "key_points_en": [
+            "Concrete flood walls and elevated East River Park now protect Lower Manhattan.",
+            "Infrastructure designed to shield coastal neighborhoods from storm surges and rising seas.",
+            "Represents a key urban climate adaptation project in North America."
+          ],
+          "key_points_vi": [
+            "Tường ngăn lũ bê tông và công viên East River được nâng cao để bảo vệ Hạ Manhattan.",
+            "Công trình thiết kế nhằm che chắn các khu dân cư ven biển trước triều cường và nước biển dâng.",
+            "Đại diện cho giải pháp thích ứng khí hậu đô thị trọng điểm tại Bắc Mỹ."
+          ],
+          "why_it_matters_en": "Coastal megacities are actively converting climate adaptation plans into major engineering investments to safeguard dense populations and infrastructure.",
+          "why_it_matters_vi": "Các siêu đô thị ven biển đang hiện thực hóa kế hoạch thích ứng khí hậu bằng các dự án kỹ thuật quy mô lớn nhằm bảo vệ hạ tầng và dân cư."
+        },
+        {
+          "id": "1057502c8eca1a6b",
+          "topic_id": "climate",
+          "rank": 8,
+          "source_name": "Nature",
+          "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uZ3B1RGM2eElzczZfblFNZUJMRDM1TnkweEFJUjFnYURJaTJkOTFCVVQ1cThPY2dvR2xLVzd0UERXa05HUWtLVi1UV1FPWUduSXk5dk5mX2g3MkRJZVRN?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T18:09:02+00:00",
+          "read_minutes": 1,
+          "title_en": "Nature Study Identifies Late-Summer Drought Hotspot Across Southern and Eastern Europe",
+          "title_vi": "Nghiên Cứu Phát Hiện Điểm Nóng Hạn Hán Cuối Mùa Hè Tại Nam Và Đông Âu",
+          "summary_en": "New research published in Nature identifies a developing late-summer drought hotspot across southern and eastern Europe driven by global warming trends. The study indicates that shifting atmospheric dynamics and higher seasonal temperatures are intensifying soil moisture depletion during late summer months. Researchers emphasize that regional agriculture and water management systems must adjust to prolonged dry spells and compounding thermal stress.",
+          "summary_vi": "Nghiên cứu mới đăng trên tạp chí Nature xác định một điểm nóng hạn hán vào cuối mùa hè đang hình thành tại khu vực Nam và Đông Âu do ảnh hưởng của đợt nóng toàn cầu. Báo cáo chỉ ra rằng sự thay đổi động lực khí quyển và nhiệt độ mùa tăng cao đang làm trầm trọng thêm tình trạng suy giảm độ ẩm đất. Các nhà nghiên cứu nhấn mạnh nông nghiệp và hệ thống quản lý nước vùng cần thích ứng với các đợt khô hạn kéo dài.",
+          "key_points_en": [
+            "Nature study reveals emerging late-summer drought hotspot in Southern and Eastern Europe.",
+            "Rising global temperatures intensify seasonal soil moisture deficits across the region.",
+            "Researchers call for urgent climate adaptation in regional water management and agriculture."
+          ],
+          "key_points_vi": [
+            "Nghiên cứu trên Nature phát hiện điểm nóng hạn hán cuối mùa hè ở Nam và Đông Âu.",
+            "Nhiệt độ toàn cầu tăng cao làm trầm trọng thêm tình trạng thiếu hụt độ ẩm đất.",
+            "Các nhà nghiên cứu kêu gọi thích ứng khẩn cấp trong quản lý nước và nông nghiệp."
+          ],
+          "why_it_matters_en": "Regional drought hotspots in Europe highlight how shifting climate patterns threaten agricultural yields and water supplies across the continent.",
+          "why_it_matters_vi": "Các điểm nóng hạn hán tại Châu Âu cho thấy diễn biến khí hậu biến đổi đang đe dọa trực tiếp đến năng suất nông nghiệp và nguồn cung cấp nước."
+        },
+        {
+          "id": "14dd0f9460897dce",
+          "topic_id": "climate",
+          "rank": 9,
+          "source_name": "Nature",
+          "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKaldZXzJBLWF4SzltLUNtWlBYVTlkTDBDYVFUWFhjNkJfWFR0Q1diSzF6RnRISnMwSVFRcjRhaW5XVTVYOTExTUpUZ1h0cEtUNkw3VHhVUW1wdFk1MGk4?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T20:57:48+00:00",
+          "read_minutes": 1,
+          "title_en": "Human Impacts Shift Chinese River CO2 Emissions from Historical Reductions to Increases",
+          "title_vi": "Tác Động Của Con Người Làm Thay Đổi Xu Hướng Phát Thải CO2 Từ Các Dòng Sông Tại Trung Quốc",
+          "summary_en": "A study published in Nature reveals that human activities are shifting carbon dioxide emissions from Chinese rivers from historical reductions toward future increases. Anthropogenic factors, including land-use changes and altered river hydrological flows, are reversing previous emission trajectories across major river basins. The findings highlight the complex interactions between human development, freshwater ecosystems, and regional carbon budgets.",
+          "summary_vi": "Nghiên cứu đăng trên tạp chí Nature cho biết các hoạt động của con người đang làm đảo chiều phát thải carbon dioxide từ các dòng sông ở Trung Quốc, từ xu hướng giảm trong lịch sử sang nguy cơ tăng trong tương lai. Các yếu tố do con người tác động, bao gồm thay đổi sử dụng đất và biến đổi dòng chảy sông ngòi, đang làm đảo ngược quỹ đạo phát thải. Kết quả nghiên cứu nhấn mạnh sự tương tác phức tạp giữa phát triển con người và ngân sách carbon.",
+          "key_points_en": [
+            "Nature study tracks shift in CO2 emissions from Chinese river systems.",
+            "Anthropogenic impacts are reversing historical emission reductions toward future growth.",
+            "Underscores complex feedback loops between human land use and aquatic carbon cycles."
+          ],
+          "key_points_vi": [
+            "Nghiên cứu trên Nature theo dõi sự thay đổi trong phát thải CO2 từ các sông ở Trung Quốc.",
+            "Tác động nhân tạo đang làm đảo ngược xu hướng giảm phát thải lịch sử sang tăng trưởng tương lai.",
+            "Nhấn mạnh mối tương tác phức tạp giữa hoạt động của con người và chu trình carbon dưới nước."
+          ],
+          "why_it_matters_en": "Understanding riverine carbon dynamics is essential for accurate global carbon accounting and targeted freshwater management policies.",
+          "why_it_matters_vi": "Hiểu rõ động lực carbon trong hệ thống sông ngòi là yếu tố then chốt giúp tính toán chính xác ngân sách carbon toàn cầu và chính sách quản lý nước."
+        }
+      ]
+    },
+    {
+      "id": "conflict",
+      "name_en": "Conflicts & War",
+      "name_vi": "Xung đột & Chiến tranh",
+      "description_en": "Major armed conflicts, ceasefires, military shifts, and diplomacy.",
+      "description_vi": "Diễn biến chiến sự, ngừng bắn, an ninh quốc tế và ngoại giao.",
+      "accent_hex": "#DC2626",
+      "overview_en": "Global security tensions deepen as US-Iran maritime confrontations intensify and Russian strikes test Ukraine's winter endurance. Concurrently, conflict continues in Gaza and cross-strait military friction accompanies Taiwan's elections.",
+      "overview_vi": "Căng thẳng an ninh toàn cầu sâu sắc hơn khi đối đầu hàng hải Mỹ - Iran gia tăng và các cuộc tấn công của Nga thử thách sức bền mùa đông của Ukraine. Đồng thời, xung đột tiếp diễn tại Gaza và ma sát quân sự eo biển Đài Loan đồng hành cùng kỳ bầu cử.",
+      "article_count": 10,
+      "articles": [
+        {
+          "id": "058cd01afc1151f6",
+          "topic_id": "conflict",
+          "rank": 1,
+          "source_name": "Al Jazeera",
+          "source_url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+          "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a40eea0b0-1795834094.jpg?resize=1920%2C1440",
+          "published_at": "2026-11-28T03:45:58+00:00",
+          "read_minutes": 1,
+          "title_en": "Israeli Strike on Gaza Doctors Without Borders Clinic Kills Two Staff",
+          "title_vi": "Không Kích Của Israel Vào Phòng Khám Bác Sĩ Không Biên Giới Ở Gaza Làm 2 Nhân Viên Thiệt Mạng",
+          "summary_en": "An Israeli strike has hit a clinic operated by Doctors Without Borders (MSF) in Gaza City, killing two watchmen. The relief agency condemned the attack as a direct hit on a clearly marked facility whose coordinates had been shared with Israeli forces. This incident brings the total number of MSF staff killed in Gaza to 17.\n\nIn response to the allegations, Israeli military officials claimed that the two individuals killed in the strike were Hamas fighters operating in the area. MSF has called for those responsible for the attack to be held accountable.",
+          "summary_vi": "Một cuộc không kích của Israel đã đánh trúng phòng khám do tổ chức Bác sĩ Không Biên giới (MSF) điều hành tại thành phố Gaza, làm hai nhân viên bảo vệ thiệt mạng. Tổ chức cứu trợ nhân đạo này đã lên án gay gắt vụ tấn công, gọi đây là một cú đánh trực tiếp vào cơ sở đã được đánh dấu logo rõ ràng và báo cáo tọa độ cho lực lượng Israel. Vụ việc này nâng tổng số nhân viên MSF thiệt mạng tại Gaza lên 17 người.\n\nPhía quân đội Israel cho rằng hai cá nhân bị tiêu diệt là các tay súng Hamas. MSF yêu cầu phải truy cứu trách nhiệm những bên liên quan.",
+          "key_points_en": [
+            "Two MSF watchmen were killed in an Israeli strike on a Gaza City clinic.",
+            "MSF stated the facility was clearly marked and its location was known to Israel.",
+            "The attack raises the total death toll of MSF personnel in Gaza to 17."
+          ],
+          "key_points_vi": [
+            "Hai bảo vệ của MSF thiệt mạng trong cuộc không kích của Israel vào phòng khám ở Gaza.",
+            "MSF khẳng định cơ sở đã được đánh dấu rõ ràng và thông báo tọa độ cho Israel.",
+            "Vụ tấn công nâng tổng số nhân viên MSF thiệt mạng tại Gaza lên 17 người."
+          ],
+          "why_it_matters_en": "The strike highlights growing dangers for international humanitarian workers in Gaza and intensifies scrutiny over civilian infrastructure protection.",
+          "why_it_matters_vi": "Vụ không kích nhấn mạnh nguy cơ gia tăng đối với nhân viên cứu trợ quốc tế tại Gaza và làm tăng sự giám sát đối với việc bảo vệ hạ tầng dân sự."
+        },
+        {
+          "id": "6217e744903bca73",
+          "topic_id": "conflict",
+          "rank": 2,
+          "source_name": "Reuters",
+          "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzhtZElCdnJJN0hCYkdsQ1lTWHc5UDRtNGE4cF9sWE14dlpacmk2blU5cXJMTHp0MGNaMElaQzdSem91dXNpNVRtd1k4ekZza09jVEpubTh3cjlpbE9CNWdMSU1seV9vNDFEeGQ1aDZBY1J1R0JoNVdlcjJaQnlWcU5Ib3ZISHVmNHA4eklQclI2WDIzR0VtNVp0NEJjaDZfcTlKNHRNbW54bGF2TExrR1NaSFJvLUxRcnc?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T20:06:57+00:00",
+          "read_minutes": 1,
+          "title_en": "US Military Disables Iranian Ship as Tehran Vows Resistance Against Blockade",
+          "title_vi": "Quân Đội Mỹ Vô Hiệu Hóa Tàu Iran Khi Tehran Tuyên Bố Đối Đầu Với Lệnh Phong Tỏa",
+          "summary_en": "Forces from the United States have disabled a vessel attempting to depart from Iran, escalating maritime confrontations in the region. The naval operation marks a significant intensification of enforcement actions against Iranian shipping activities.\n\nFollowing the incident, government officials in Tehran pledged to confront any blockade imposed on their maritime routes, signaling heightened military readiness and potential retaliation in key international waterways.",
+          "summary_vi": "Các lực lượng Mỹ đã vô hiệu hóa một con tàu đang tìm cách rời khỏi Iran, làm gia tăng các cuộc đối đầu trên biển trong khu vực. Vụ can thiệp quân sự này đánh dấu bước leo thang đáng kể trong các hành động thực thi đối với hoạt động hàng hải của Iran.\n\nNgay sau vụ việc, các quan chức chính phủ tại Tehran đã tuyên bố sẽ kiên quyết đối đầu với bất kỳ lệnh phong tỏa nào áp đặt lên các tuyến đường biển của họ, báo hiệu sự sẵn sàng quân sự và khả năng đáp trả.",
+          "key_points_en": [
+            "US forces disabled a vessel attempting to leave Iran during maritime operations.",
+            "Tehran vowed to actively confront any external blockade on its shipping.",
+            "The incident increases risk of direct naval military escalation in the region."
+          ],
+          "key_points_vi": [
+            "Lực lượng Mỹ vô hiệu hóa một con tàu đang tìm cách rời khỏi Iran.",
+            "Tehran tuyên bố sẽ tích cực đối đầu với mọi lệnh phong tỏa hàng hải.",
+            "Sự cố làm tăng nguy cơ leo thang quân sự trực tiếp trên biển trong khu vực."
+          ],
+          "why_it_matters_en": "Direct military enforcement on Iranian shipping threatens to trigger broader armed confrontation in critical Persian Gulf trade routes.",
+          "why_it_matters_vi": "Hành động quân sự trực tiếp đối với tàu hàng Iran đe dọa châm ngòi cho xung đột vũ trang rộng lớn hơn tại các tuyến thương mại quan trọng ở Vịnh Ba Tư."
+        },
+        {
+          "id": "d21ceecffea07f10",
+          "topic_id": "conflict",
+          "rank": 3,
+          "source_name": "BBC World News",
+          "source_url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
+          "published_at": "2026-11-27T18:00:40+00:00",
+          "read_minutes": 1,
+          "title_en": "Zelensky Criticizes US Missile Delays and Trump's Stance on Putin",
+          "title_vi": "Ông Zelensky Chỉ Trích Sự Chậm Trễ Tên Lửa Của Mỹ Và Thái Độ Của Ông Trump Với Ông Putin",
+          "summary_en": "Ukrainian President Volodymyr Zelensky expressed deep frustration with Washington during a BBC interview, criticizing Donald Trump for referring to Vladimir Putin as a friend. Zelensky emphasized that an aggressor cannot be treated as a friend, warning that such rhetoric undermines diplomatic efforts.\n\nFurthermore, the Ukrainian leader stated that delays in receiving crucial American anti-ballistic missile systems are directly costing Ukrainian lives as Russian air bombardments continue.",
+          "summary_vi": "Tổng thống Ukraine Volodymyr Zelensky đã bày tỏ sự thất vọng sâu sắc với Washington trong một cuộc phỏng vấn với BBC, chỉ trích ông Donald Trump vì gọi ông Vladimir Putin là bạn. Ông Zelensky nhấn mạnh rằng một kẻ xâm lược không thể là bạn, đồng thời cảnh báo rằng phát ngôn như vậy làm tổn hại đến các nỗ lực hòa bình.\n\nNgoài ra, nhà lãnh đạo Ukraine tuyên bố sự chậm trễ trong việc bàn giao các hệ thống tên lửa chống đạn đạo quan trọng của Mỹ đang trực tiếp cướp đi mạng sống của người dân Ukraine.",
+          "key_points_en": [
+            "Zelensky questioned Trump's warm comments toward Putin, calling them strange.",
+            "Ukraine's president urged the US to push Russia harder during peace talks.",
+            "Delays in US anti-ballistic missile deliveries are severely impacting Ukrainian defense."
+          ],
+          "key_points_vi": [
+            "Ông Zelensky nghi ngờ các bình luận thân thiện của ông Trump dành cho ông Putin.",
+            "Tổng thống Ukraine thúc giục Mỹ gây áp lực mạnh mẽ hơn lên Nga trong đàm phán.",
+            "Sự chậm trễ giao tên lửa chống đạn đạo của Mỹ ảnh hưởng nghiêm trọng đến phòng thủ Ukraine."
+          ],
+          "why_it_matters_en": "Political friction between Kyiv and Washington over military aid and diplomatic posture could alter Ukraine's defense capabilities.",
+          "why_it_matters_vi": "Ma sát chính trị giữa Kyiv và Washington về viện trợ quân sự và lập trường ngoại giao có thể làm thay đổi khả năng phòng thủ của Ukraine."
+        },
+        {
+          "id": "64a8e16d42ad591c",
+          "topic_id": "conflict",
+          "rank": 4,
+          "source_name": "Al Jazeera",
+          "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+          "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795823699.jpg?resize=1920%2C1080&quality=80",
+          "published_at": "2026-11-28T00:00:00+00:00",
+          "read_minutes": 1,
+          "title_en": "Italy States Iranian-Made Drone Used in Fatal Attack Inside Kuwait",
+          "title_vi": "Ý Tuyên Bố Máy Bay Không Người Lái Do Iran Sản Xuất Được Sử Dụng Trong Vụ Tấn Công Tại Kuwait",
+          "summary_en": "Italian Foreign Minister Antonio Tajani announced that investigations revealed an Iranian-manufactured drone was utilized in a deadly attack inside Kuwait. The strike has raised serious concerns regarding the proliferation of military technology in the region.\n\nInternational observers warn that the use of such advanced uncrewed weapons outside active war zones threatens security stability across Gulf nations.",
+          "summary_vi": "Bộ trưởng Ngoại giao Ý Antonio Tajani tuyên bố các cuộc điều tra cho thấy một máy bay không người lái do Iran sản xuất đã được sử dụng trong vụ tấn công gây vong mạng tại Kuwait. Cuộc tấn công đã dấy lên mối lo ngại nghiêm trọng về việc phổ biến công nghệ quân sự trong khu vực.\n\nCác quan sát viên quốc tế cảnh báo việc sử dụng các loại vũ khí không người lái tiên tiến này ngoài khu vực chiến sự đe dọa sự ổn định trên khắp các quốc gia Vịnh Ba Tư.",
+          "key_points_en": [
+            "Italian Foreign Minister confirmed an Iranian drone caused a fatal strike in Kuwait.",
+            "The finding points to expanding use of Iranian military technology in Gulf attacks.",
+            "Regional authorities are assessing implications for air defense and border security."
+          ],
+          "key_points_vi": [
+            "Ngoại trưởng Ý xác nhận drone do Iran sản xuất gây ra vụ tấn công chết người ở Kuwait.",
+            "Phát hiện chỉ ra sự mở rộng sử dụng công nghệ quân sự Iran trong các vụ tấn công ở Vịnh Ba Tư.",
+            "Chính quyền khu vực đang đánh giá tác động đối với phòng không và an ninh biên giới."
+          ],
+          "why_it_matters_en": "The deployment of Iranian drone technology in attacks against neighboring Gulf states expands the geopolitical scope of Middle Eastern conflict.",
+          "why_it_matters_vi": "Việc triển khai công nghệ drone của Iran trong các vụ tấn công vào các quốc gia Vịnh Ba Tư lân cận làm mở rộng phạm vi địa chính trị của xung đột Trung Đông."
+        },
+        {
+          "id": "c49808b01c0aa188",
+          "topic_id": "conflict",
+          "rank": 5,
+          "source_name": "Reuters",
+          "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T22:55:47+00:00",
+          "read_minutes": 1,
+          "title_en": "Russian Military Flotilla Bound for Libya Retreats After Warship Sinking",
+          "title_vi": "Hạm Đội Quân Sự Nga Đến Libya Quay Đầu Sau Khi Tàu Chiến Bị Bắn Chìm",
+          "summary_en": "A Russian military naval flotilla heading toward Libya reversed its course after a warship was sunk on November 22, according to undisclosed military sources. The sudden retreat highlights vulnerabilities in Russian naval operations.\n\nThe loss of the vessel represents a significant setback for Moscow's efforts to maintain a sustained military presence and project strategic power in the Mediterranean and North Africa.",
+          "summary_vi": "Một hạm đội quân sự của Nga trên đường đến Libya đã quay đầu hủy chuyến đi sau khi một tàu chiến bị bắn chìm vào ngày 22 tháng 11, theo các nguồn tin thân cận. Sự rút lui đột ngột này làm nổi bật những lỗ hổng trong các hoạt động hải quân của Nga.\n\nViệc mất con tàu chiến đại diện cho một đòn giáng vào nỗ lực của Điện Kremlin nhằm duy trì sự hiện diện quân sự tại Địa Trung Hải và Bắc Phi.",
+          "key_points_en": [
+            "Russian naval flotilla bound for Libya turned around after losing a warship on Nov 22.",
+            "The warship loss disrupts Moscow's military logistics and Mediterranean strategic plans.",
+            "Incident underlines operational challenges facing Russia's maritime power projection."
+          ],
+          "key_points_vi": [
+            "Hạm đội Nga đến Libya quay đầu sau khi một tàu chiến bị chìm ngày 22/11.",
+            "Tàu chiến bị mất làm gián đoạn kế hoạch chiến lược và logistics của Điện Kremlin.",
+            "Sự cố cho thấy những thách thức vận hành đối với sức mạnh hải quân Nga."
+          ],
+          "why_it_matters_en": "The disruption of Russia's naval flotilla undermines Moscow's strategic expansion in Libya and the wider Mediterranean region.",
+          "why_it_matters_vi": "Sự gián đoạn của hạm đội hải quân Nga làm suy yếu sự mở rộng chiến lược của Mát-xcơ-va tại Libya và khu vực Địa Trung Hải."
+        },
+        {
+          "id": "c3a4b03afa1c4f01",
+          "topic_id": "conflict",
+          "rank": 6,
+          "source_name": "Reuters",
+          "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0hYazFSNFdJenpCQmdWUUh0cUZOTHhJWm5hYnB4ampiMXJRamNxVGtST2NuTV9rS2hjUHFUWElIUjhtX3VlZFlWTkpBOWh5SmJkNGdJd1VFVFFWSmR4LURfQUx0ZDVmWnk3MEpuc3hMN0QwaXFwYnZMc3kteEJpWUduWWNITVkwNTJGaGVRSWdHNVNyNjhn?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-28T00:01:00+00:00",
+          "read_minutes": 1,
+          "title_en": "Taiwan Holds Local Elections Amid Chinese Warplane Missions and Verbal Attacks",
+          "title_vi": "Đài Loan Bầu Cử Địa Phương Trong Bối Cảnh Trung Quốc Bố Trí Máy Bay Chiến Đấu",
+          "summary_en": "Voters across Taiwan are casting ballots in key local elections to select mayors and municipal leaders. The vote takes place under heightened cross-strait military pressures, as China deployed warplanes near the island and launched verbal attacks against candidates.\n\nThe election serves as a crucial political test for the governing Democratic Progressive Party amid ongoing sovereignty tensions with Beijing.",
+          "summary_vi": "Cử dân trên khắp Đài Loan đang bỏ phiếu trong các cuộc bầu cử địa phương quan trọng để chọn thị trưởng và lãnh đạo đô thị. Cuộc bầu cử diễn ra dưới áp lực quân sự gia tăng qua eo biển, khi Trung Quốc điều máy bay chiến đấu áp sát hòn đảo và đưa ra các lời chỉ trích nhắm vào ứng cử viên.\n\nCuộc bầu cử là phép thử chính trị quan trọng đối với Đảng Dân chủ Tiến bộ cầm quyền trong bối cảnh căng thẳng chủ quyền tiếp diễn với Bắc Kinh.",
+          "key_points_en": [
+            "Taiwanese citizens vote for local mayors and council members across 22 regions.",
+            "China deployed warplanes and criticized specific candidates leading up to the vote.",
+            "Election results test the political strength of Taiwan's ruling party amid Beijing pressures."
+          ],
+          "key_points_vi": [
+            "Cử dân Đài Loan bầu cử thị trưởng và hội đồng địa phương trên 22 khu vực.",
+            "Trung Quốc điều máy bay chiến đấu và chỉ trích ứng viên trước ngày bầu cử.",
+            "Kết quả bầu cử thử thách sức mạnh chính trị của đảng cầm quyền Đài Loan trước Bắc Kinh."
+          ],
+          "why_it_matters_en": "Military posturing around Taiwan's elections highlights persistent geopolitical friction and security risks in the Indo-Pacific.",
+          "why_it_matters_vi": "Các động thái quân sự xung quanh bầu cử Đài Loan làm nổi bật ma sát địa chính trị và rủi ro an ninh kéo dài ở Ấn Độ Dương - Thái Bình Dương."
+        },
+        {
+          "id": "030ddcf4167f71c1",
+          "topic_id": "conflict",
+          "rank": 7,
+          "source_name": "BBC World News",
+          "source_url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/551558a0-e96f-11f1-99a1-253766e7ad8b.jpg",
+          "published_at": "2026-11-27T06:04:51+00:00",
+          "read_minutes": 1,
+          "title_en": "Houthi Attacks on Saudi Oil Infrastructure Challenge Kingdom's Security Image",
+          "title_vi": "Các Cuộc Tấn Công Của Houthi Vào Hạ Tầng Dầu Mỏ Thử Thách An Ninh Ả Rập Xê Út",
+          "summary_en": "Recent strikes by Houthi forces targeting energy facilities near Riyadh have challenged Saudi Arabia's internal security image. The growing frequency of cross-border attacks has forced civilians and refugees to deal with ongoing instability.\n\nDisplaced Yemenis fleeing front-line combat report severe economic hardship as conflict continues to disrupt lives across the Arabian Peninsula.",
+          "summary_vi": "Các cuộc tấn công gần đây của lực lượng Houthi nhắm vào các cơ sở năng lượng phía nam Riyadh đã thử thách hình ảnh an ninh nội địa của Ả Rập Xê Út. Tần suất gia tăng của các cuộc tấn công xuyên biên giới đang buộc người dân và người tị nạn phải đối mặt với sự mất ổn định kéo dài.\n\nNgười dân Yemen chạy trốn khỏi chiến tuyến báo cáo những khó khăn kinh tế nghiêm trọng khi xung đột tiếp tục làm gián đoạn cuộc sống.",
+          "key_points_en": [
+            "Houthis claimed responsibility for targeting a major oil facility south of Riyadh.",
+            "Cross-border attacks disrupt Saudi Arabia's perception of regional stability.",
+            "Yemeni refugees face severe hardship while escaping conflict zones for safety."
+          ],
+          "key_points_vi": [
+            "Houthi nhận trách nhiệm về vụ tấn công cơ sở dầu mỏ phía nam Riyadh.",
+            "Các cuộc tấn công xuyên biên giới làm gián đoạn sự ổn định của Ả Rập Xê Út.",
+            "Người tị nạn Yemen đối mặt với khó khăn nghiêm trọng khi tháo chạy khỏi vùng chiến sự."
+          ],
+          "why_it_matters_en": "Houthi attacks on Saudi energy assets risk disrupting global oil supply chains and renewing regional escalation.",
+          "why_it_matters_vi": "Vụ tấn công của Houthi vào tài sản năng lượng Ả Rập Xê Út có nguy cơ làm gián đoạn chuỗi cung ứng dầu mỏ toàn cầu và tái bùng phát leo thang khu vực."
+        },
+        {
+          "id": "4816810f8263373d",
+          "topic_id": "conflict",
+          "rank": 8,
+          "source_name": "Reuters",
+          "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T20:56:01+00:00",
+          "read_minutes": 1,
+          "title_en": "Hackers Breach US Air Force Flagship Cloud Computing Platform",
+          "title_vi": "Tin Tặc Xâm Nhập Nền Tảng Điện Toán Đám Mây Chủ Lực Của Không Quân Mỹ",
+          "summary_en": "Cyber attackers have successfully breached Cloud One, the United States Air Force's primary cloud computing system. The intrusion represents a high-profile security compromise of critical defense information infrastructure.\n\nAuthorities are conducting forensic investigations to determine the extent of potential data exposure and identify the actors behind the sophisticated cyber operation.",
+          "summary_vi": "Các tay súng mạng đã xâm nhập thành công vào Cloud One, hệ thống điện toán đám mây chủ lực của Không quân Hoa Kỳ. Vụ xâm nhập đại diện cho một lỗ hổng an ninh nghiêm trọng đối với hạ tầng thông tin quốc phòng thiết yếu.\n\nChính quyền đang tiến hành các cuộc điều tra pháp y để xác định mức độ rò rỉ dữ liệu tiềm năng và truy tìm kẻ đứng sau chiến dịch mạng phức tạp này.",
+          "key_points_en": [
+            "Hackers breached the US Air Force's flagship Cloud One computing system.",
+            "Incident marks a major cybersecurity breach targeting US defense infrastructure.",
+            "Investigators are evaluating the scope of compromised military data."
+          ],
+          "key_points_vi": [
+            "Tin tặc xâm nhập hệ thống điện toán đám mây Cloud One của Không quân Mỹ.",
+            "Sự cố đánh dấu lỗ hổng an ninh mạng lớn nhắm vào hạ tầng quốc phòng Mỹ.",
+            "Các điều tra viên đang đánh giá phạm vi dữ liệu quân sự bị rò rỉ."
+          ],
+          "why_it_matters_en": "Cyber vulnerabilities in top military cloud systems pose serious national security risks and highlight modern digital warfare threats.",
+          "why_it_matters_vi": "Lỗ hổng an ninh mạng trong các hệ thống đám mây quân sự hàng đầu đặt ra rủi ro an ninh quốc gia nghiêm trọng và làm nổi bật mối đe dọa chiến tranh số."
+        },
+        {
+          "id": "302dd542992525ed",
+          "topic_id": "conflict",
+          "rank": 9,
+          "source_name": "Reuters",
+          "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXhxUTlzbVROVWJBME9JOGtIQnZUczNMMXdBTUV0QlByWWRCWThyeXlfcDA0T2MyaHlVbFlFSW0wbkpjbGd1WXVjQkZQaDNuZFM1VFkxaU9fN2lXUGtwa0xmQ0xHZHVaYko0M3FfVmdmd0l1LUpJOVhrNF9vTzk2OUJ0bVB4MU9JNnFCWFdESncyd0NBbHJodGpyUlRLNXRRRjhDYXJTRQ?oc=5",
+          "image_url": null,
+          "published_at": "2026-11-27T23:26:36+00:00",
+          "read_minutes": 1,
+          "title_en": "Son of Hamas Leader Survives Israeli Airstrike in Gaza Strip",
+          "title_vi": "Con Trai Lãnh Đạo Hamas Sống Sót Sau Cuộc Không Kích Của Israel Ở Gaza",
+          "summary_en": "The son of a top Hamas leader has survived a targeted military strike conducted by Israeli forces, according to official statements from the group. The targeted operation reflects Israel's ongoing campaign against senior leadership figures.\n\nThe incident comes amid continued heavy bombardments and targeted military operations across the Gaza Strip.",
+          "summary_vi": "Con trai của một lãnh đạo hàng đầu Hamas đã sống sót sau cuộc không kích quân sự mục tiêu do lực lượng Israel thực hiện, theo tuyên bố từ tổ chức này. Chiến dịch nhắm mục tiêu này phản ánh chiến dịch tiếp diễn của Israel đối với các nhân vật lãnh đạo cấp cao.\n\nVụ việc diễn ra trong bối cảnh các cuộc oanh kích hạng nặng tiếp tục diễn ra trên khắp Dải Gaza.",
+          "key_points_en": [
+            "Hamas confirmed the son of its top leader survived an Israeli military strike.",
+            "The operation targeted key figures associated with Hamas leadership.",
+            "Military activity in Gaza remains intense as targeted operations persist."
+          ],
+          "key_points_vi": [
+            "Hamas xác nhận con trai lãnh đạo cấp cao sống sót sau cuộc không kích của Israel.",
+            "Chiến dịch nhắm vào các nhân vật chủ chốt liên quan đến bộ máy lãnh đạo Hamas.",
+            "Hoạt động quân sự tại Gaza vẫn diễn ra gay gắt với các vụ không kích mục tiêu."
+          ],
+          "why_it_matters_en": "Targeted strikes against leadership figures underscore Israel's tactical objectives while maintaining intense military friction.",
+          "why_it_matters_vi": "Các cuộc không kích mục tiêu nhắm vào dàn lãnh đạo nhấn mạnh mục tiêu tác chiến của Israel trong khi duy trì xung đột quân sự gay gắt."
+        },
+        {
+          "id": "30d87f286c8b205a",
+          "topic_id": "conflict",
+          "rank": 10,
+          "source_name": "BBC World News",
+          "source_url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
+          "published_at": "2026-11-27T18:42:50+00:00",
+          "read_minutes": 1,
+          "title_en": "Kyiv Prepares for Harsh Winter Amid Sustained Russian Missile and Drone Attacks",
+          "title_vi": "Kyiv Chuẩn Bị Cho Mùa Đông Khắc Nghiệt Trong Bối Cảnh Nga Tiếp Tục Tấn Công Tên Lửa",
+          "summary_en": "Residents in Kyiv are preparing for another punishing winter as continuous Russian drone and missile strikes threaten energy infrastructure and daily life. Ukrainian authorities have deployed strategic countermeasures to disorient incoming aerial threats.\n\nDespite air raid sirens regularly forcing citizens into shelters, public resolve in the capital remains firm as the war drags on.",
+          "summary_vi": "Người dân tại Kyiv đang chuẩn bị cho một mùa đông khắc nghiệt khác khi các cuộc tấn công bằng drone và tên lửa liên tục của Nga đe dọa hạ tầng năng lượng và đời sống hàng ngày. Chính quyền Ukraine đã triển khai các biện pháp đối phó chiến lược nhằm làm chệch hướng các mối đe dọa từ trên không.\n\nMặc dù còi báo động không kích thường xuyên buộc người dân vào hầm trú ẩn, tinh thần của thủ đô vẫn kiên cường.",
+          "key_points_en": [
+            "Kyiv faces severe winter conditions under persistent threat of Russian missile strikes.",
+            "Ukrainian defense strategy includes technological countermeasures to confuse incoming drones.",
+            "Air sirens and emergency alerts remain a constant feature of daily life in the capital."
+          ],
+          "key_points_vi": [
+            "Kyiv đối mặt với mùa đông khắc nghiệt dưới mối đe dọa tên lửa liên tục của Nga.",
+            "Chiến lược phòng thủ của Ukraine bao gồm các biện pháp kỹ thuật gây nhiễu drone.",
+            "Còi báo động không kích và cảnh báo khẩn cấp tiếp tục là thực tế hàng ngày tại thủ đô."
+          ],
+          "why_it_matters_en": "Russia's winter bombing campaign aims to degrade Ukrainian civilian infrastructure and strain national war endurance.",
+          "why_it_matters_vi": "Chiến dịch ném bom mùa đông của Nga nhằm tàn phá hạ tầng dân sự của Ukraine và bào mòn sức bền chiến tranh của quốc gia này."
+        }
+      ]
+    }
+  ]
+}
